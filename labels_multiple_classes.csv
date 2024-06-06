@@ -1,0 +1,7755 @@
+Filename,Labels
+A0002,Sinus Rhythm
+A0016,Sinus Rhythm
+A0020,Sinus Rhythm
+A0029,Sinus Rhythm
+A0030,Sinus Rhythm
+A0037,Sinus Rhythm
+A0038,Sinus Rhythm
+A0039,1st Degree AV block
+A0041,Sinus Rhythm
+A0042,1st Degree AV block
+A0059,Sinus Rhythm
+A0070,1st Degree AV block
+A0073,Sinus Rhythm
+A0075,Sinus Rhythm
+A0089,Sinus Rhythm
+A0090,Sinus Rhythm
+A0094,Sinus Rhythm
+A0102,1st Degree AV block
+A0104,1st Degree AV block
+A0107,Sinus Rhythm
+A0118,1st Degree AV block
+A0125,Sinus Rhythm
+A0132,1st Degree AV block
+A0133,Sinus Rhythm
+A0141,Sinus Rhythm
+A0143,Sinus Rhythm
+A0149,Sinus Rhythm
+A0157,Sinus Rhythm
+A0163,1st Degree AV block
+A0164,Sinus Rhythm
+A0166,Sinus Rhythm
+A0170,Sinus Rhythm
+A0172,1st Degree AV block
+A0173,Sinus Rhythm
+A0175,Sinus Rhythm
+A0176,Sinus Rhythm
+A0177,Sinus Rhythm
+A0179,Sinus Rhythm
+A0188,1st Degree AV block
+A0189,Sinus Rhythm
+A0190,Sinus Rhythm
+A0192,Sinus Rhythm
+A0193,Sinus Rhythm
+A0202,1st Degree AV block
+A0206,Sinus Rhythm
+A0208,Sinus Rhythm
+A0210,Sinus Rhythm
+A0212,1st Degree AV block
+A0221,Sinus Rhythm
+A0223,1st Degree AV block
+A0229,Sinus Rhythm
+A0233,Sinus Rhythm
+A0236,1st Degree AV block
+A0238,1st Degree AV block
+A0239,1st Degree AV block
+A0240,1st Degree AV block
+A0243,1st Degree AV block
+A0246,1st Degree AV block
+A0248,1st Degree AV block
+A0254,Sinus Rhythm
+A0262,1st Degree AV block
+A0263,1st Degree AV block
+A0264,Sinus Rhythm
+A0280,1st Degree AV block
+A0281,Sinus Rhythm
+A0283,Sinus Rhythm
+A0284,1st Degree AV block
+A0285,Sinus Rhythm
+A0287,Sinus Rhythm
+A0288,1st Degree AV block
+A0292,1st Degree AV block
+A0303,1st Degree AV block
+A0305,Sinus Rhythm
+A0312,Sinus Rhythm
+A0315,Sinus Rhythm
+A0325,1st Degree AV block
+A0327,Sinus Rhythm
+A0328,1st Degree AV block
+A0330,Sinus Rhythm
+A0332,Sinus Rhythm
+A0333,1st Degree AV block
+A0335,Sinus Rhythm
+A0336,1st Degree AV block
+A0342,1st Degree AV block
+A0344,Sinus Rhythm
+A0348,Sinus Rhythm
+A0357,Sinus Rhythm
+A0362,1st Degree AV block
+A0365,Sinus Rhythm
+A0366,1st Degree AV block
+A0371,Sinus Rhythm
+A0373,1st Degree AV block
+A0386,1st Degree AV block
+A0387,Sinus Rhythm
+A0391,1st Degree AV block
+A0395,Sinus Rhythm
+A0402,1st Degree AV block
+A0409,1st Degree AV block
+A0416,1st Degree AV block
+A0417,1st Degree AV block
+A0419,Sinus Rhythm
+A0425,1st Degree AV block
+A0426,Sinus Rhythm
+A0428,1st Degree AV block
+A0429,Sinus Rhythm
+A0434,1st Degree AV block
+A0437,1st Degree AV block
+A0448,Sinus Rhythm
+A0453,Sinus Rhythm
+A0473,1st Degree AV block
+A0476,Sinus Rhythm
+A0480,Sinus Rhythm
+A0481,Sinus Rhythm
+A0482,Sinus Rhythm
+A0493,1st Degree AV block
+A0497,Sinus Rhythm
+A0505,Sinus Rhythm
+A0507,1st Degree AV block
+A0510,1st Degree AV block
+A0511,1st Degree AV block
+A0512,Sinus Rhythm
+A0516,1st Degree AV block
+A0520,Sinus Rhythm
+A0523,1st Degree AV block
+A0526,Sinus Rhythm
+A0527,Sinus Rhythm
+A0528,Sinus Rhythm
+A0534,Sinus Rhythm
+A0538,1st Degree AV block
+A0539,1st Degree AV block
+A0540,1st Degree AV block
+A0542,1st Degree AV block
+A0550,Sinus Rhythm
+A0555,1st Degree AV block
+A0562,1st Degree AV block
+A0565,Sinus Rhythm
+A0567,Sinus Rhythm
+A0568,1st Degree AV block
+A0569,Sinus Rhythm
+A0576,Sinus Rhythm
+A0579,Sinus Rhythm
+A0585,1st Degree AV block
+A0588,Sinus Rhythm
+A0596,1st Degree AV block
+A0597,Sinus Rhythm
+A0612,1st Degree AV block
+A0614,Sinus Rhythm
+A0617,Sinus Rhythm
+A0619,1st Degree AV block
+A0632,Sinus Rhythm
+A0634,Sinus Rhythm
+A0636,Sinus Rhythm
+A0637,1st Degree AV block
+A0640,Sinus Rhythm
+A0644,Sinus Rhythm
+A0648,Sinus Rhythm
+A0650,1st Degree AV block
+A0651,1st Degree AV block
+A0653,Sinus Rhythm
+A0654,1st Degree AV block
+A0660,1st Degree AV block
+A0665,Sinus Rhythm
+A0669,1st Degree AV block
+A0674,Sinus Rhythm
+A0675,1st Degree AV block
+A0677,1st Degree AV block
+A0683,Sinus Rhythm
+A0685,1st Degree AV block
+A0688,1st Degree AV block
+A0690,Sinus Rhythm
+A0691,1st Degree AV block
+A0705,1st Degree AV block
+A0711,Sinus Rhythm
+A0716,Sinus Rhythm
+A0721,Sinus Rhythm
+A0723,1st Degree AV block
+A0725,1st Degree AV block
+A0727,Sinus Rhythm
+A0736,Sinus Rhythm
+A0741,1st Degree AV block
+A0743,Sinus Rhythm
+A0746,1st Degree AV block
+A0750,1st Degree AV block
+A0753,Sinus Rhythm
+A0754,1st Degree AV block
+A0764,1st Degree AV block
+A0772,Sinus Rhythm
+A0774,Sinus Rhythm
+A0778,1st Degree AV block
+A0785,Sinus Rhythm
+A0792,1st Degree AV block
+A0794,1st Degree AV block
+A0800,Sinus Rhythm
+A0803,Sinus Rhythm
+A0805,Sinus Rhythm
+A0810,1st Degree AV block
+A0812,1st Degree AV block
+A0816,1st Degree AV block
+A0820,1st Degree AV block
+A0823,Sinus Rhythm
+A0824,Sinus Rhythm
+A0827,Sinus Rhythm
+A0838,Sinus Rhythm
+A0841,Sinus Rhythm
+A0842,1st Degree AV block
+A0843,Sinus Rhythm
+A0852,1st Degree AV block
+A0853,1st Degree AV block
+A0858,Sinus Rhythm
+A0864,Sinus Rhythm
+A0866,1st Degree AV block
+A0877,1st Degree AV block
+A0891,Sinus Rhythm
+A0892,Sinus Rhythm
+A0895,1st Degree AV block
+A0904,Sinus Rhythm
+A0911,Sinus Rhythm
+A0918,Sinus Rhythm
+A0929,Sinus Rhythm
+A0937,1st Degree AV block
+A0942,1st Degree AV block
+A0945,Sinus Rhythm
+A0946,1st Degree AV block
+A0950,1st Degree AV block
+A0951,Sinus Rhythm
+A0952,Sinus Rhythm
+A0955,Sinus Rhythm
+A0959,1st Degree AV block
+A0968,Sinus Rhythm
+A0973,Sinus Rhythm
+A0976,1st Degree AV block
+A0983,Sinus Rhythm
+A0985,Sinus Rhythm
+A0986,1st Degree AV block
+A0987,Sinus Rhythm
+A0991,Sinus Rhythm
+A0998,Sinus Rhythm
+A1006,1st Degree AV block
+A1009,Sinus Rhythm
+A1012,Sinus Rhythm
+A1015,Sinus Rhythm
+A1020,1st Degree AV block
+A1023,1st Degree AV block
+A1024,Sinus Rhythm
+A1031,1st Degree AV block
+A1035,Sinus Rhythm
+A1036,1st Degree AV block
+A1037,1st Degree AV block
+A1038,1st Degree AV block
+A1042,Sinus Rhythm
+A1048,1st Degree AV block
+A1050,1st Degree AV block
+A1055,1st Degree AV block
+A1056,Sinus Rhythm
+A1065,1st Degree AV block
+A1077,Sinus Rhythm
+A1078,1st Degree AV block
+A1082,Sinus Rhythm
+A1087,Sinus Rhythm
+A1096,Sinus Rhythm
+A1097,Sinus Rhythm
+A1099,1st Degree AV block
+A1106,Sinus Rhythm
+A1115,Sinus Rhythm
+A1121,Sinus Rhythm
+A1122,Sinus Rhythm
+A1126,Sinus Rhythm
+A1129,Sinus Rhythm
+A1130,1st Degree AV block
+A1134,1st Degree AV block
+A1137,Sinus Rhythm
+A1138,1st Degree AV block
+A1141,Sinus Rhythm
+A1144,Sinus Rhythm
+A1145,1st Degree AV block
+A1150,Sinus Rhythm
+A1151,Sinus Rhythm
+A1166,Sinus Rhythm
+A1168,Sinus Rhythm
+A1175,Sinus Rhythm
+A1176,Sinus Rhythm
+A1189,Sinus Rhythm
+A1205,1st Degree AV block
+A1207,1st Degree AV block
+A1208,Sinus Rhythm
+A1210,1st Degree AV block
+A1217,1st Degree AV block
+A1218,1st Degree AV block
+A1220,Sinus Rhythm
+A1229,Sinus Rhythm
+A1234,Sinus Rhythm
+A1241,Sinus Rhythm
+A1246,Sinus Rhythm
+A1248,1st Degree AV block
+A1251,Sinus Rhythm
+A1257,Sinus Rhythm
+A1262,1st Degree AV block
+A1263,1st Degree AV block
+A1272,Sinus Rhythm
+A1277,1st Degree AV block
+A1301,Sinus Rhythm
+A1302,1st Degree AV block
+A1313,1st Degree AV block
+A1320,1st Degree AV block
+A1327,Sinus Rhythm
+A1332,1st Degree AV block
+A1337,Sinus Rhythm
+A1339,Sinus Rhythm
+A1349,Sinus Rhythm
+A1353,Sinus Rhythm
+A1358,1st Degree AV block
+A1359,1st Degree AV block
+A1362,1st Degree AV block
+A1376,Sinus Rhythm
+A1381,Sinus Rhythm
+A1383,Sinus Rhythm
+A1394,1st Degree AV block
+A1401,Sinus Rhythm
+A1402,1st Degree AV block
+A1407,1st Degree AV block
+A1408,1st Degree AV block
+A1414,1st Degree AV block
+A1419,Sinus Rhythm
+A1421,Sinus Rhythm
+A1428,1st Degree AV block
+A1429,1st Degree AV block
+A1437,Sinus Rhythm
+A1447,Sinus Rhythm
+A1448,1st Degree AV block
+A1454,1st Degree AV block
+A1456,Sinus Rhythm
+A1457,1st Degree AV block
+A1459,Sinus Rhythm
+A1463,Sinus Rhythm
+A1464,1st Degree AV block
+A1470,Sinus Rhythm
+A1471,1st Degree AV block
+A1480,Sinus Rhythm
+A1484,Sinus Rhythm
+A1488,1st Degree AV block
+A1489,Sinus Rhythm
+A1498,1st Degree AV block
+A1501,Sinus Rhythm
+A1507,Sinus Rhythm
+A1508,Sinus Rhythm
+A1515,Sinus Rhythm
+A1521,1st Degree AV block
+A1531,Sinus Rhythm
+A1534,Sinus Rhythm
+A1535,1st Degree AV block
+A1536,Sinus Rhythm
+A1537,1st Degree AV block
+A1542,Sinus Rhythm
+A1545,1st Degree AV block
+A1547,1st Degree AV block
+A1553,1st Degree AV block
+A1554,1st Degree AV block
+A1555,Sinus Rhythm
+A1556,1st Degree AV block
+A1557,Sinus Rhythm
+A1558,Sinus Rhythm
+A1561,Sinus Rhythm
+A1563,1st Degree AV block
+A1564,1st Degree AV block
+A1567,Sinus Rhythm
+A1574,1st Degree AV block
+A1577,1st Degree AV block
+A1581,1st Degree AV block
+A1582,Sinus Rhythm
+A1591,1st Degree AV block
+A1596,1st Degree AV block
+A1599,Sinus Rhythm
+A1610,Sinus Rhythm
+A1613,Sinus Rhythm
+A1614,1st Degree AV block
+A1616,Sinus Rhythm
+A1627,Sinus Rhythm
+A1629,Sinus Rhythm
+A1630,Sinus Rhythm
+A1636,1st Degree AV block
+A1637,1st Degree AV block
+A1638,1st Degree AV block
+A1642,Sinus Rhythm
+A1649,Sinus Rhythm
+A1650,1st Degree AV block
+A1655,Sinus Rhythm
+A1663,1st Degree AV block
+A1667,Sinus Rhythm
+A1668,Sinus Rhythm
+A1669,1st Degree AV block
+A1672,Sinus Rhythm
+A1674,Sinus Rhythm
+A1681,1st Degree AV block
+A1685,Sinus Rhythm
+A1687,1st Degree AV block
+A1689,1st Degree AV block
+A1691,1st Degree AV block
+A1692,Sinus Rhythm
+A1693,1st Degree AV block
+A1695,Sinus Rhythm
+A1698,Sinus Rhythm
+A1699,Sinus Rhythm
+A1700,Sinus Rhythm
+A1702,Sinus Rhythm
+A1703,1st Degree AV block
+A1705,1st Degree AV block
+A1709,1st Degree AV block
+A1711,1st Degree AV block
+A1714,Sinus Rhythm
+A1722,Sinus Rhythm
+A1724,1st Degree AV block
+A1726,1st Degree AV block
+A1736,Sinus Rhythm
+A1741,1st Degree AV block
+A1744,1st Degree AV block
+A1749,1st Degree AV block
+A1751,1st Degree AV block
+A1760,1st Degree AV block
+A1763,1st Degree AV block
+A1766,Sinus Rhythm
+A1767,1st Degree AV block
+A1776,Sinus Rhythm
+A1778,Sinus Rhythm
+A1779,1st Degree AV block
+A1787,1st Degree AV block
+A1788,1st Degree AV block
+A1791,1st Degree AV block
+A1806,Sinus Rhythm
+A1808,Sinus Rhythm
+A1809,1st Degree AV block
+A1810,1st Degree AV block
+A1824,1st Degree AV block
+A1828,1st Degree AV block
+A1831,Sinus Rhythm
+A1844,1st Degree AV block
+A1853,1st Degree AV block
+A1855,1st Degree AV block
+A1857,Sinus Rhythm
+A1862,Sinus Rhythm
+A1863,1st Degree AV block
+A1864,Sinus Rhythm
+A1868,1st Degree AV block
+A1869,Sinus Rhythm
+A1871,1st Degree AV block
+A1876,Sinus Rhythm
+A1880,Sinus Rhythm
+A1883,1st Degree AV block
+A1891,Sinus Rhythm
+A1892,Sinus Rhythm
+A1893,Sinus Rhythm
+A1894,1st Degree AV block
+A1898,1st Degree AV block
+A1908,1st Degree AV block
+A1909,1st Degree AV block
+A1913,1st Degree AV block
+A1914,Sinus Rhythm
+A1921,Sinus Rhythm
+A1922,1st Degree AV block
+A1924,Sinus Rhythm
+A1925,1st Degree AV block
+A1928,Sinus Rhythm
+A1934,1st Degree AV block
+A1935,1st Degree AV block
+A1937,1st Degree AV block
+A1938,Sinus Rhythm
+A1939,1st Degree AV block
+A1943,Sinus Rhythm
+A1949,Sinus Rhythm
+A1955,1st Degree AV block
+A1961,Sinus Rhythm
+A1964,Sinus Rhythm
+A1971,Sinus Rhythm
+A1974,1st Degree AV block
+A1979,Sinus Rhythm
+A1982,1st Degree AV block
+A1983,Sinus Rhythm
+A1988,1st Degree AV block
+A1989,1st Degree AV block
+A1993,Sinus Rhythm
+A1994,1st Degree AV block
+A2002,1st Degree AV block
+A2005,1st Degree AV block
+A2012,Sinus Rhythm
+A2014,Sinus Rhythm
+A2018,1st Degree AV block
+A2022,Sinus Rhythm
+A2024,1st Degree AV block
+A2033,1st Degree AV block
+A2040,Sinus Rhythm
+A2043,Sinus Rhythm
+A2046,Sinus Rhythm
+A2052,Sinus Rhythm
+A2054,1st Degree AV block
+A2057,Sinus Rhythm
+A2060,Sinus Rhythm
+A2070,Sinus Rhythm
+A2076,1st Degree AV block
+A2086,Sinus Rhythm
+A2089,Sinus Rhythm
+A2104,1st Degree AV block
+A2107,1st Degree AV block
+A2110,Sinus Rhythm
+A2112,Sinus Rhythm
+A2125,Sinus Rhythm
+A2126,Sinus Rhythm
+A2127,Sinus Rhythm
+A2131,Sinus Rhythm
+A2133,1st Degree AV block
+A2135,1st Degree AV block
+A2142,Sinus Rhythm
+A2144,1st Degree AV block
+A2151,Sinus Rhythm
+A2154,Sinus Rhythm
+A2162,1st Degree AV block
+A2165,Sinus Rhythm
+A2168,Sinus Rhythm
+A2170,Sinus Rhythm
+A2175,1st Degree AV block
+A2178,1st Degree AV block
+A2181,1st Degree AV block
+A2191,1st Degree AV block
+A2196,1st Degree AV block
+A2197,Sinus Rhythm
+A2202,1st Degree AV block
+A2204,Sinus Rhythm
+A2205,Sinus Rhythm
+A2206,Sinus Rhythm
+A2219,Sinus Rhythm
+A2220,1st Degree AV block
+A2225,Sinus Rhythm
+A2227,1st Degree AV block
+A2233,Sinus Rhythm
+A2235,1st Degree AV block
+A2242,Sinus Rhythm
+A2246,Sinus Rhythm
+A2248,1st Degree AV block
+A2252,1st Degree AV block
+A2253,Sinus Rhythm
+A2257,Sinus Rhythm
+A2258,1st Degree AV block
+A2261,Sinus Rhythm
+A2262,Sinus Rhythm
+A2264,Sinus Rhythm
+A2271,1st Degree AV block
+A2273,Sinus Rhythm
+A2275,Sinus Rhythm
+A2285,Sinus Rhythm
+A2288,1st Degree AV block
+A2294,1st Degree AV block
+A2301,Sinus Rhythm
+A2305,1st Degree AV block
+A2306,Sinus Rhythm
+A2317,Sinus Rhythm
+A2337,Sinus Rhythm
+A2343,1st Degree AV block
+A2347,Sinus Rhythm
+A2350,Sinus Rhythm
+A2355,1st Degree AV block
+A2360,1st Degree AV block
+A2364,1st Degree AV block
+A2365,1st Degree AV block
+A2370,Sinus Rhythm
+A2371,Sinus Rhythm
+A2377,Sinus Rhythm
+A2380,Sinus Rhythm
+A2383,Sinus Rhythm
+A2397,Sinus Rhythm
+A2398,Sinus Rhythm
+A2400,1st Degree AV block
+A2401,Sinus Rhythm
+A2402,Sinus Rhythm
+A2403,Sinus Rhythm
+A2408,1st Degree AV block
+A2410,1st Degree AV block
+A2411,1st Degree AV block
+A2417,1st Degree AV block
+A2419,Sinus Rhythm
+A2426,Sinus Rhythm
+A2428,Sinus Rhythm
+A2432,1st Degree AV block
+A2433,Sinus Rhythm
+A2441,Sinus Rhythm
+A2442,Sinus Rhythm
+A2443,1st Degree AV block
+A2447,1st Degree AV block
+A2451,1st Degree AV block
+A2452,1st Degree AV block
+A2453,1st Degree AV block
+A2454,Sinus Rhythm
+A2462,Sinus Rhythm
+A2465,1st Degree AV block
+A2469,Sinus Rhythm
+A2473,Sinus Rhythm
+A2475,Sinus Rhythm
+A2477,1st Degree AV block
+A2481,1st Degree AV block
+A2484,Sinus Rhythm
+A2487,1st Degree AV block
+A2489,1st Degree AV block
+A2493,Sinus Rhythm
+A2495,Sinus Rhythm
+A2496,Sinus Rhythm
+A2498,Sinus Rhythm
+A2501,Sinus Rhythm
+A2504,1st Degree AV block
+A2505,Sinus Rhythm
+A2507,Sinus Rhythm
+A2510,1st Degree AV block
+A2514,1st Degree AV block
+A2518,Sinus Rhythm
+A2530,1st Degree AV block
+A2538,Sinus Rhythm
+A2540,1st Degree AV block
+A2543,Sinus Rhythm
+A2544,Sinus Rhythm
+A2547,Sinus Rhythm
+A2549,Sinus Rhythm
+A2550,Sinus Rhythm
+A2554,1st Degree AV block
+A2562,1st Degree AV block
+A2566,1st Degree AV block
+A2568,1st Degree AV block
+A2569,Sinus Rhythm
+A2570,Sinus Rhythm
+A2571,Sinus Rhythm
+A2582,Sinus Rhythm
+A2583,Sinus Rhythm
+A2588,Sinus Rhythm
+A2591,Sinus Rhythm
+A2600,Sinus Rhythm
+A2603,1st Degree AV block
+A2606,1st Degree AV block
+A2609,Sinus Rhythm
+A2619,1st Degree AV block
+A2622,1st Degree AV block
+A2626,Sinus Rhythm
+A2630,1st Degree AV block
+A2636,1st Degree AV block
+A2646,1st Degree AV block
+A2655,1st Degree AV block
+A2657,1st Degree AV block
+A2660,Sinus Rhythm
+A2661,Sinus Rhythm
+A2666,1st Degree AV block
+A2667,Sinus Rhythm
+A2669,1st Degree AV block
+A2675,Sinus Rhythm
+A2685,Sinus Rhythm
+A2687,Sinus Rhythm
+A2690,1st Degree AV block
+A2700,Sinus Rhythm
+A2702,Sinus Rhythm
+A2722,Sinus Rhythm
+A2727,1st Degree AV block
+A2730,Sinus Rhythm
+A2731,1st Degree AV block
+A2736,1st Degree AV block
+A2747,1st Degree AV block
+A2751,Sinus Rhythm
+A2755,1st Degree AV block
+A2770,Sinus Rhythm
+A2773,Sinus Rhythm
+A2777,1st Degree AV block
+A2785,Sinus Rhythm
+A2792,Sinus Rhythm
+A2795,1st Degree AV block
+A2796,Sinus Rhythm
+A2805,Sinus Rhythm
+A2817,Sinus Rhythm
+A2820,Sinus Rhythm
+A2824,Sinus Rhythm
+A2829,1st Degree AV block
+A2830,1st Degree AV block
+A2831,1st Degree AV block
+A2835,1st Degree AV block
+A2836,1st Degree AV block
+A2841,Sinus Rhythm
+A2842,Sinus Rhythm
+A2860,Sinus Rhythm
+A2864,1st Degree AV block
+A2868,Sinus Rhythm
+A2872,1st Degree AV block
+A2873,1st Degree AV block
+A2886,1st Degree AV block
+A2891,Sinus Rhythm
+A2893,1st Degree AV block
+A2895,Sinus Rhythm
+A2897,1st Degree AV block
+A2900,1st Degree AV block
+A2906,1st Degree AV block
+A2909,Sinus Rhythm
+A2911,Sinus Rhythm
+A2915,1st Degree AV block
+A2916,1st Degree AV block
+A2919,Sinus Rhythm
+A2920,1st Degree AV block
+A2921,Sinus Rhythm
+A2923,Sinus Rhythm
+A2925,Sinus Rhythm
+A2928,1st Degree AV block
+A2937,1st Degree AV block
+A2938,1st Degree AV block
+A2944,Sinus Rhythm
+A2945,Sinus Rhythm
+A2950,1st Degree AV block
+A2956,Sinus Rhythm
+A2958,1st Degree AV block
+A2970,1st Degree AV block
+A2971,Sinus Rhythm
+A2973,1st Degree AV block
+A2976,Sinus Rhythm
+A2979,1st Degree AV block
+A2981,Sinus Rhythm
+A2982,Sinus Rhythm
+A2986,Sinus Rhythm
+A2988,Sinus Rhythm
+A2990,Sinus Rhythm
+A2998,1st Degree AV block
+A3000,1st Degree AV block
+A3002,1st Degree AV block
+A3006,1st Degree AV block
+A3007,1st Degree AV block
+A3014,1st Degree AV block
+A3022,1st Degree AV block
+A3023,Sinus Rhythm
+A3031,1st Degree AV block
+A3033,1st Degree AV block
+A3034,1st Degree AV block
+A3038,Sinus Rhythm
+A3040,1st Degree AV block
+A3041,1st Degree AV block
+A3044,Sinus Rhythm
+A3045,1st Degree AV block
+A3066,1st Degree AV block
+A3068,Sinus Rhythm
+A3073,1st Degree AV block
+A3076,1st Degree AV block
+A3080,Sinus Rhythm
+A3081,Sinus Rhythm
+A3085,Sinus Rhythm
+A3086,Sinus Rhythm
+A3093,1st Degree AV block
+A3099,1st Degree AV block
+A3100,Sinus Rhythm
+A3122,1st Degree AV block
+A3125,1st Degree AV block
+A3128,Sinus Rhythm
+A3129,Sinus Rhythm
+A3134,Sinus Rhythm
+A3137,Sinus Rhythm
+A3141,1st Degree AV block
+A3149,1st Degree AV block
+A3151,1st Degree AV block
+A3153,Sinus Rhythm
+A3154,1st Degree AV block
+A3155,Sinus Rhythm
+A3157,Sinus Rhythm
+A3164,1st Degree AV block
+A3165,1st Degree AV block
+A3170,1st Degree AV block
+A3175,Sinus Rhythm
+A3178,1st Degree AV block
+A3179,Sinus Rhythm
+A3184,1st Degree AV block
+A3186,Sinus Rhythm
+A3211,Sinus Rhythm
+A3215,Sinus Rhythm
+A3217,Sinus Rhythm
+A3218,Sinus Rhythm
+A3220,Sinus Rhythm
+A3221,Sinus Rhythm
+A3222,1st Degree AV block
+A3228,Sinus Rhythm
+A3229,1st Degree AV block
+A3233,1st Degree AV block
+A3234,1st Degree AV block
+A3238,Sinus Rhythm
+A3239,Sinus Rhythm
+A3241,Sinus Rhythm
+A3242,1st Degree AV block
+A3246,Sinus Rhythm
+A3250,Sinus Rhythm
+A3255,Sinus Rhythm
+A3256,Sinus Rhythm
+A3261,Sinus Rhythm
+A3263,Sinus Rhythm
+A3265,Sinus Rhythm
+A3269,Sinus Rhythm
+A3270,1st Degree AV block
+A3272,Sinus Rhythm
+A3273,1st Degree AV block
+A3297,1st Degree AV block
+A3299,1st Degree AV block
+A3304,Sinus Rhythm
+A3307,Sinus Rhythm
+A3311,Sinus Rhythm
+A3313,1st Degree AV block
+A3318,1st Degree AV block
+A3324,1st Degree AV block
+A3327,Sinus Rhythm
+A3329,1st Degree AV block
+A3334,1st Degree AV block
+A3337,1st Degree AV block
+A3341,1st Degree AV block
+A3350,Sinus Rhythm
+A3351,Sinus Rhythm
+A3353,1st Degree AV block
+A3354,Sinus Rhythm
+A3358,Sinus Rhythm
+A3359,1st Degree AV block
+A3363,Sinus Rhythm
+A3377,Sinus Rhythm
+A3381,1st Degree AV block
+A3386,1st Degree AV block
+A3390,1st Degree AV block
+A3392,Sinus Rhythm
+A3394,Sinus Rhythm
+A3399,Sinus Rhythm
+A3410,Sinus Rhythm
+A3413,Sinus Rhythm
+A3415,1st Degree AV block
+A3416,1st Degree AV block
+A3421,1st Degree AV block
+A3422,Sinus Rhythm
+A3423,Sinus Rhythm
+A3424,Sinus Rhythm
+A3430,Sinus Rhythm
+A3431,Sinus Rhythm
+A3435,Sinus Rhythm
+A3440,1st Degree AV block
+A3442,Sinus Rhythm
+A3452,1st Degree AV block
+A3454,Sinus Rhythm
+A3465,Sinus Rhythm
+A3470,Sinus Rhythm
+A3471,1st Degree AV block
+A3479,1st Degree AV block
+A3485,Sinus Rhythm
+A3498,Sinus Rhythm
+A3500,Sinus Rhythm
+A3501,Sinus Rhythm
+A3503,Sinus Rhythm
+A3505,Sinus Rhythm
+A3512,1st Degree AV block
+A3513,Sinus Rhythm
+A3515,1st Degree AV block
+A3520,1st Degree AV block
+A3527,1st Degree AV block
+A3529,Sinus Rhythm
+A3532,1st Degree AV block
+A3535,1st Degree AV block
+A3541,1st Degree AV block
+A3548,Sinus Rhythm
+A3557,Sinus Rhythm
+A3569,Sinus Rhythm
+A3574,1st Degree AV block
+A3579,Sinus Rhythm
+A3582,Sinus Rhythm
+A3586,Sinus Rhythm
+A3588,Sinus Rhythm
+A3590,Sinus Rhythm
+A3593,1st Degree AV block
+A3600,Sinus Rhythm
+A3601,Sinus Rhythm
+A3602,1st Degree AV block
+A3603,Sinus Rhythm
+A3608,Sinus Rhythm
+A3613,Sinus Rhythm
+A3618,1st Degree AV block
+A3619,Sinus Rhythm
+A3620,1st Degree AV block
+A3625,Sinus Rhythm
+A3629,Sinus Rhythm
+A3633,Sinus Rhythm
+A3634,1st Degree AV block
+A3643,Sinus Rhythm
+A3648,Sinus Rhythm
+A3650,Sinus Rhythm
+A3651,Sinus Rhythm
+A3652,1st Degree AV block
+A3653,Sinus Rhythm
+A3655,Sinus Rhythm
+A3657,Sinus Rhythm
+A3663,Sinus Rhythm
+A3668,1st Degree AV block
+A3671,Sinus Rhythm
+A3680,Sinus Rhythm
+A3684,1st Degree AV block
+A3689,Sinus Rhythm
+A3690,Sinus Rhythm
+A3699,1st Degree AV block
+A3713,Sinus Rhythm
+A3717,Sinus Rhythm
+A3722,1st Degree AV block
+A3723,Sinus Rhythm
+A3724,1st Degree AV block
+A3732,Sinus Rhythm
+A3733,Sinus Rhythm
+A3735,Sinus Rhythm
+A3738,1st Degree AV block
+A3739,Sinus Rhythm
+A3740,1st Degree AV block
+A3742,1st Degree AV block
+A3745,Sinus Rhythm
+A3746,1st Degree AV block
+A3747,Sinus Rhythm
+A3750,1st Degree AV block
+A3751,Sinus Rhythm
+A3766,Sinus Rhythm
+A3769,Sinus Rhythm
+A3775,1st Degree AV block
+A3776,Sinus Rhythm
+A3778,1st Degree AV block
+A3788,Sinus Rhythm
+A3790,Sinus Rhythm
+A3791,Sinus Rhythm
+A3795,Sinus Rhythm
+A3800,Sinus Rhythm
+A3804,1st Degree AV block
+A3806,Sinus Rhythm
+A3811,1st Degree AV block
+A3814,Sinus Rhythm
+A3816,Sinus Rhythm
+A3817,1st Degree AV block
+A3818,Sinus Rhythm
+A3824,1st Degree AV block
+A3827,1st Degree AV block
+A3828,Sinus Rhythm
+A3829,Sinus Rhythm
+A3832,Sinus Rhythm
+A3834,1st Degree AV block
+A3846,1st Degree AV block
+A3857,1st Degree AV block
+A3858,Sinus Rhythm
+A3867,Sinus Rhythm
+A3869,Sinus Rhythm
+A3871,1st Degree AV block
+A3873,Sinus Rhythm
+A3874,1st Degree AV block
+A3879,Sinus Rhythm
+A3886,Sinus Rhythm
+A3893,Sinus Rhythm
+A3894,Sinus Rhythm
+A3895,1st Degree AV block
+A3898,Sinus Rhythm
+A3901,1st Degree AV block
+A3903,Sinus Rhythm
+A3908,1st Degree AV block
+A3909,1st Degree AV block
+A3910,1st Degree AV block
+A3912,Sinus Rhythm
+A3913,1st Degree AV block
+A3915,1st Degree AV block
+A3920,Sinus Rhythm
+A3922,Sinus Rhythm
+A3924,Sinus Rhythm
+A3925,Sinus Rhythm
+A3929,1st Degree AV block
+A3930,Sinus Rhythm
+A3932,Sinus Rhythm
+A3938,1st Degree AV block
+A3947,Sinus Rhythm
+A3952,1st Degree AV block
+A3954,1st Degree AV block
+A3958,1st Degree AV block
+A3968,1st Degree AV block
+A3971,Sinus Rhythm
+A3973,Sinus Rhythm
+A3975,Sinus Rhythm
+A3976,1st Degree AV block
+A3981,Sinus Rhythm
+A3984,Sinus Rhythm
+A3987,Sinus Rhythm
+A3989,Sinus Rhythm
+A3991,1st Degree AV block
+A3992,Sinus Rhythm
+A3993,1st Degree AV block
+A3994,1st Degree AV block
+A4002,1st Degree AV block
+A4007,Sinus Rhythm
+A4011,Sinus Rhythm
+A4015,Sinus Rhythm
+A4019,Sinus Rhythm
+A4022,Sinus Rhythm
+A4024,Sinus Rhythm
+A4025,1st Degree AV block
+A4027,1st Degree AV block
+A4031,1st Degree AV block
+A4032,Sinus Rhythm
+A4036,Sinus Rhythm
+A4042,1st Degree AV block
+A4065,Sinus Rhythm
+A4066,Sinus Rhythm
+A4067,1st Degree AV block
+A4070,1st Degree AV block
+A4071,Sinus Rhythm
+A4076,1st Degree AV block
+A4088,Sinus Rhythm
+A4093,Sinus Rhythm
+A4098,Sinus Rhythm
+A4099,Sinus Rhythm
+A4102,Sinus Rhythm
+A4109,1st Degree AV block
+A4113,Sinus Rhythm
+A4114,1st Degree AV block
+A4115,Sinus Rhythm
+A4120,1st Degree AV block
+A4126,1st Degree AV block
+A4136,1st Degree AV block
+A4138,1st Degree AV block
+A4146,Sinus Rhythm
+A4147,Sinus Rhythm
+A4148,1st Degree AV block
+A4151,1st Degree AV block
+A4154,Sinus Rhythm
+A4160,Sinus Rhythm
+A4161,1st Degree AV block
+A4164,1st Degree AV block
+A4167,Sinus Rhythm
+A4174,Sinus Rhythm
+A4175,Sinus Rhythm
+A4176,Sinus Rhythm
+A4180,1st Degree AV block
+A4186,1st Degree AV block
+A4190,1st Degree AV block
+A4198,1st Degree AV block
+A4207,Sinus Rhythm
+A4208,Sinus Rhythm
+A4209,Sinus Rhythm
+A4210,1st Degree AV block
+A4213,Sinus Rhythm
+A4219,Sinus Rhythm
+A4228,Sinus Rhythm
+A4234,Sinus Rhythm
+A4235,Sinus Rhythm
+A4237,Sinus Rhythm
+A4242,1st Degree AV block
+A4246,1st Degree AV block
+A4251,Sinus Rhythm
+A4255,1st Degree AV block
+A4257,Sinus Rhythm
+A4262,Sinus Rhythm
+A4263,Sinus Rhythm
+A4267,1st Degree AV block
+A4269,1st Degree AV block
+A4275,Sinus Rhythm
+A4284,Sinus Rhythm
+A4286,Sinus Rhythm
+A4291,Sinus Rhythm
+A4299,Sinus Rhythm
+A4305,1st Degree AV block
+A4310,Sinus Rhythm
+A4317,Sinus Rhythm
+A4327,Sinus Rhythm
+A4329,1st Degree AV block
+A4336,1st Degree AV block
+A4351,Sinus Rhythm
+A4362,1st Degree AV block
+A4364,Sinus Rhythm
+A4366,Sinus Rhythm
+A4370,Sinus Rhythm
+A4371,Sinus Rhythm
+A4374,Sinus Rhythm
+A4378,Sinus Rhythm
+A4379,1st Degree AV block
+A4380,1st Degree AV block
+A4381,Sinus Rhythm
+A4387,Sinus Rhythm
+A4395,1st Degree AV block
+A4396,Sinus Rhythm
+A4398,Sinus Rhythm
+A4399,Sinus Rhythm
+A4401,Sinus Rhythm
+A4403,1st Degree AV block
+A4416,1st Degree AV block
+A4418,Sinus Rhythm
+A4422,Sinus Rhythm
+A4423,1st Degree AV block
+A4429,Sinus Rhythm
+A4437,Sinus Rhythm
+A4439,1st Degree AV block
+A4443,1st Degree AV block
+A4444,1st Degree AV block
+A4448,Sinus Rhythm
+A4451,Sinus Rhythm
+A4456,Sinus Rhythm
+A4457,1st Degree AV block
+A4468,Sinus Rhythm
+A4474,Sinus Rhythm
+A4486,Sinus Rhythm
+A4487,1st Degree AV block
+A4488,1st Degree AV block
+A4491,1st Degree AV block
+A4501,1st Degree AV block
+A4503,Sinus Rhythm
+A4504,Sinus Rhythm
+A4506,1st Degree AV block
+A4507,1st Degree AV block
+A4512,Sinus Rhythm
+A4524,1st Degree AV block
+A4526,Sinus Rhythm
+A4532,Sinus Rhythm
+A4540,1st Degree AV block
+A4543,Sinus Rhythm
+A4548,Sinus Rhythm
+A4550,Sinus Rhythm
+A4563,Sinus Rhythm
+A4570,Sinus Rhythm
+A4571,Sinus Rhythm
+A4576,Sinus Rhythm
+A4592,1st Degree AV block
+A4595,1st Degree AV block
+A4596,Sinus Rhythm
+A4597,Sinus Rhythm
+A4599,1st Degree AV block
+A4618,Sinus Rhythm
+A4625,1st Degree AV block
+A4631,Sinus Rhythm
+A4635,1st Degree AV block
+A4644,Sinus Rhythm
+A4649,Sinus Rhythm
+A4655,1st Degree AV block
+A4656,Sinus Rhythm
+A4658,1st Degree AV block
+A4660,Sinus Rhythm
+A4662,Sinus Rhythm
+A4668,Sinus Rhythm
+A4678,Sinus Rhythm
+A4679,1st Degree AV block
+A4686,Sinus Rhythm
+A4687,Sinus Rhythm
+A4695,1st Degree AV block
+A4702,Sinus Rhythm
+A4711,1st Degree AV block
+A4714,Sinus Rhythm
+A4717,1st Degree AV block
+A4719,Sinus Rhythm
+A4731,1st Degree AV block
+A4737,Sinus Rhythm
+A4740,1st Degree AV block
+A4742,1st Degree AV block
+A4743,Sinus Rhythm
+A4744,Sinus Rhythm
+A4745,1st Degree AV block
+A4751,Sinus Rhythm
+A4754,Sinus Rhythm
+A4768,1st Degree AV block
+A4772,Sinus Rhythm
+A4773,1st Degree AV block
+A4776,1st Degree AV block
+A4781,Sinus Rhythm
+A4785,Sinus Rhythm
+A4790,Sinus Rhythm
+A4791,Sinus Rhythm
+A4794,Sinus Rhythm
+A4798,1st Degree AV block
+A4804,1st Degree AV block
+A4806,Sinus Rhythm
+A4808,Sinus Rhythm
+A4811,Sinus Rhythm
+A4815,1st Degree AV block
+A4827,Sinus Rhythm
+A4828,Sinus Rhythm
+A4832,Sinus Rhythm
+A4833,1st Degree AV block
+A4849,1st Degree AV block
+A4853,Sinus Rhythm
+A4857,1st Degree AV block
+A4858,1st Degree AV block
+A4862,Sinus Rhythm
+A4867,Sinus Rhythm
+A4869,1st Degree AV block
+A4880,1st Degree AV block
+A4881,Sinus Rhythm
+A4882,Sinus Rhythm
+A4883,Sinus Rhythm
+A4888,Sinus Rhythm
+A4893,1st Degree AV block
+A4894,1st Degree AV block
+A4895,Sinus Rhythm
+A4896,1st Degree AV block
+A4899,1st Degree AV block
+A4900,1st Degree AV block
+A4903,1st Degree AV block
+A4910,Sinus Rhythm
+A4916,1st Degree AV block
+A4920,Sinus Rhythm
+A4925,1st Degree AV block
+A4931,Sinus Rhythm
+A4940,Sinus Rhythm
+A4944,Sinus Rhythm
+A4946,Sinus Rhythm
+A4947,Sinus Rhythm
+A4952,Sinus Rhythm
+A4957,1st Degree AV block
+A4961,Sinus Rhythm
+A4963,Sinus Rhythm
+A4967,Sinus Rhythm
+A4968,Sinus Rhythm
+A4973,Sinus Rhythm
+A4976,Sinus Rhythm
+A4977,1st Degree AV block
+A4984,Sinus Rhythm
+A4986,1st Degree AV block
+A4987,1st Degree AV block
+A4994,Sinus Rhythm
+A5003,1st Degree AV block
+A5004,Sinus Rhythm
+A5005,1st Degree AV block
+A5011,1st Degree AV block
+A5013,Sinus Rhythm
+A5019,1st Degree AV block
+A5022,1st Degree AV block
+A5025,1st Degree AV block
+A5031,1st Degree AV block
+A5033,1st Degree AV block
+A5034,1st Degree AV block
+A5038,1st Degree AV block
+A5046,Sinus Rhythm
+A5047,1st Degree AV block
+A5063,1st Degree AV block
+A5072,Sinus Rhythm
+A5077,Sinus Rhythm
+A5079,1st Degree AV block
+A5080,1st Degree AV block
+A5082,1st Degree AV block
+A5094,Sinus Rhythm
+A5097,1st Degree AV block
+A5108,Sinus Rhythm
+A5109,1st Degree AV block
+A5114,Sinus Rhythm
+A5120,1st Degree AV block
+A5125,Sinus Rhythm
+A5127,1st Degree AV block
+A5131,Sinus Rhythm
+A5133,Sinus Rhythm
+A5137,Sinus Rhythm
+A5148,Sinus Rhythm
+A5149,Sinus Rhythm
+A5155,Sinus Rhythm
+A5162,1st Degree AV block
+A5163,Sinus Rhythm
+A5165,1st Degree AV block
+A5168,Sinus Rhythm
+A5169,1st Degree AV block
+A5173,1st Degree AV block
+A5175,Sinus Rhythm
+A5177,1st Degree AV block
+A5180,Sinus Rhythm
+A5183,Sinus Rhythm
+A5186,1st Degree AV block
+A5192,1st Degree AV block
+A5194,Sinus Rhythm
+A5197,1st Degree AV block
+A5201,Sinus Rhythm
+A5207,Sinus Rhythm
+A5214,1st Degree AV block
+A5217,1st Degree AV block
+A5223,Sinus Rhythm
+A5226,1st Degree AV block
+A5229,Sinus Rhythm
+A5233,1st Degree AV block
+A5237,Sinus Rhythm
+A5239,Sinus Rhythm
+A5241,Sinus Rhythm
+A5244,Sinus Rhythm
+A5248,Sinus Rhythm
+A5253,Sinus Rhythm
+A5256,1st Degree AV block
+A5257,1st Degree AV block
+A5259,1st Degree AV block
+A5266,Sinus Rhythm
+A5268,Sinus Rhythm
+A5286,Sinus Rhythm
+A5289,1st Degree AV block
+A5294,Sinus Rhythm
+A5296,1st Degree AV block
+A5297,Sinus Rhythm
+A5311,1st Degree AV block
+A5322,Sinus Rhythm
+A5323,1st Degree AV block
+A5324,1st Degree AV block
+A5327,1st Degree AV block
+A5330,1st Degree AV block
+A5340,1st Degree AV block
+A5360,1st Degree AV block
+A5371,1st Degree AV block
+A5372,1st Degree AV block
+A5373,Sinus Rhythm
+A5375,1st Degree AV block
+A5386,Sinus Rhythm
+A5387,Sinus Rhythm
+A5389,Sinus Rhythm
+A5405,Sinus Rhythm
+A5414,1st Degree AV block
+A5415,1st Degree AV block
+A5417,1st Degree AV block
+A5420,1st Degree AV block
+A5422,Sinus Rhythm
+A5427,Sinus Rhythm
+A5428,Sinus Rhythm
+A5429,Sinus Rhythm
+A5430,1st Degree AV block
+A5434,1st Degree AV block
+A5437,Sinus Rhythm
+A5449,Sinus Rhythm
+A5450,1st Degree AV block
+A5452,Sinus Rhythm
+A5465,Sinus Rhythm
+A5470,Sinus Rhythm
+A5476,1st Degree AV block
+A5477,Sinus Rhythm
+A5478,1st Degree AV block
+A5481,Sinus Rhythm
+A5482,Sinus Rhythm
+A5486,Sinus Rhythm
+A5490,1st Degree AV block
+A5491,1st Degree AV block
+A5493,Sinus Rhythm
+A5498,Sinus Rhythm
+A5499,Sinus Rhythm
+A5505,1st Degree AV block
+A5509,Sinus Rhythm
+A5512,1st Degree AV block
+A5514,1st Degree AV block
+A5516,Sinus Rhythm
+A5525,1st Degree AV block
+A5527,1st Degree AV block
+A5539,1st Degree AV block
+A5547,1st Degree AV block
+A5560,1st Degree AV block
+A5566,Sinus Rhythm
+A5568,1st Degree AV block
+A5569,1st Degree AV block
+A5572,Sinus Rhythm
+A5574,1st Degree AV block
+A5579,Sinus Rhythm
+A5580,1st Degree AV block
+A5583,1st Degree AV block
+A5586,Sinus Rhythm
+A5594,Sinus Rhythm
+A5598,1st Degree AV block
+A5600,Sinus Rhythm
+A5602,Sinus Rhythm
+A5603,Sinus Rhythm
+A5604,1st Degree AV block
+A5611,1st Degree AV block
+A5616,Sinus Rhythm
+A5620,Sinus Rhythm
+A5632,1st Degree AV block
+A5635,Sinus Rhythm
+A5636,Sinus Rhythm
+A5639,1st Degree AV block
+A5644,Sinus Rhythm
+A5659,1st Degree AV block
+A5661,1st Degree AV block
+A5667,Sinus Rhythm
+A5675,Sinus Rhythm
+A5678,1st Degree AV block
+A5682,1st Degree AV block
+A5687,Sinus Rhythm
+A5688,1st Degree AV block
+A5693,Sinus Rhythm
+A5694,Sinus Rhythm
+A5697,Sinus Rhythm
+A5704,Sinus Rhythm
+A5706,1st Degree AV block
+A5711,1st Degree AV block
+A5712,Sinus Rhythm
+A5713,Sinus Rhythm
+A5714,Sinus Rhythm
+A5716,Sinus Rhythm
+A5727,Sinus Rhythm
+A5728,1st Degree AV block
+A5732,Sinus Rhythm
+A5735,Sinus Rhythm
+A5737,Sinus Rhythm
+A5738,1st Degree AV block
+A5741,Sinus Rhythm
+A5748,1st Degree AV block
+A5752,1st Degree AV block
+A5762,1st Degree AV block
+A5763,Sinus Rhythm
+A5765,Sinus Rhythm
+A5766,1st Degree AV block
+A5778,1st Degree AV block
+A5779,Sinus Rhythm
+A5785,Sinus Rhythm
+A5788,1st Degree AV block
+A5793,1st Degree AV block
+A5796,1st Degree AV block
+A5801,1st Degree AV block
+A5802,Sinus Rhythm
+A5809,Sinus Rhythm
+A5826,1st Degree AV block
+A5827,Sinus Rhythm
+A5836,1st Degree AV block
+A5838,Sinus Rhythm
+A5859,Sinus Rhythm
+A5860,1st Degree AV block
+A5861,Sinus Rhythm
+A5866,Sinus Rhythm
+A5868,1st Degree AV block
+A5870,1st Degree AV block
+A5873,1st Degree AV block
+A5876,1st Degree AV block
+A5877,1st Degree AV block
+A5883,Sinus Rhythm
+A5886,1st Degree AV block
+A5888,1st Degree AV block
+A5891,Sinus Rhythm
+A5905,Sinus Rhythm
+A5906,Sinus Rhythm
+A5911,1st Degree AV block
+A5913,Sinus Rhythm
+A5916,Sinus Rhythm
+A5919,1st Degree AV block
+A5933,Sinus Rhythm
+A5934,Sinus Rhythm
+A5937,Sinus Rhythm
+A5940,Sinus Rhythm
+A5941,Sinus Rhythm
+A5944,Sinus Rhythm
+A5947,1st Degree AV block
+A5950,Sinus Rhythm
+A5955,Sinus Rhythm
+A5959,Sinus Rhythm
+A5965,1st Degree AV block
+A5970,Sinus Rhythm
+A5975,1st Degree AV block
+A5976,Sinus Rhythm
+A5983,1st Degree AV block
+A5984,Sinus Rhythm
+A5986,Sinus Rhythm
+A5987,1st Degree AV block
+A5991,Sinus Rhythm
+A5992,Sinus Rhythm
+A5996,1st Degree AV block
+A6003,1st Degree AV block
+A6006,1st Degree AV block
+A6007,1st Degree AV block
+A6011,1st Degree AV block
+A6012,Sinus Rhythm
+A6014,1st Degree AV block
+A6016,Sinus Rhythm
+A6019,1st Degree AV block
+A6020,Sinus Rhythm
+A6021,Sinus Rhythm
+A6026,Sinus Rhythm
+A6029,1st Degree AV block
+A6030,Sinus Rhythm
+A6032,1st Degree AV block
+A6042,Sinus Rhythm
+A6046,Sinus Rhythm
+A6056,1st Degree AV block
+A6062,1st Degree AV block
+A6064,Sinus Rhythm
+A6066,Sinus Rhythm
+A6070,Sinus Rhythm
+A6073,1st Degree AV block
+A6077,1st Degree AV block
+A6091,1st Degree AV block
+A6093,Sinus Rhythm
+A6098,Sinus Rhythm
+A6114,Sinus Rhythm
+A6115,1st Degree AV block
+A6117,1st Degree AV block
+A6118,Sinus Rhythm
+A6130,Sinus Rhythm
+A6132,1st Degree AV block
+A6136,Sinus Rhythm
+A6137,1st Degree AV block
+A6150,1st Degree AV block
+A6153,1st Degree AV block
+A6154,Sinus Rhythm
+A6162,Sinus Rhythm
+A6175,1st Degree AV block
+A6184,1st Degree AV block
+A6188,Sinus Rhythm
+A6190,1st Degree AV block
+A6195,Sinus Rhythm
+A6196,Sinus Rhythm
+A6200,1st Degree AV block
+A6221,1st Degree AV block
+A6228,1st Degree AV block
+A6231,Sinus Rhythm
+A6235,1st Degree AV block
+A6247,1st Degree AV block
+A6249,Sinus Rhythm
+A6252,Sinus Rhythm
+A6253,Sinus Rhythm
+A6258,Sinus Rhythm
+A6264,1st Degree AV block
+A6269,Sinus Rhythm
+A6274,Sinus Rhythm
+A6284,Sinus Rhythm
+A6286,Sinus Rhythm
+A6287,1st Degree AV block
+A6289,1st Degree AV block
+A6298,Sinus Rhythm
+A6304,Sinus Rhythm
+A6306,Sinus Rhythm
+A6307,Sinus Rhythm
+A6308,1st Degree AV block
+A6309,Sinus Rhythm
+A6314,Sinus Rhythm
+A6318,Sinus Rhythm
+A6319,1st Degree AV block
+A6323,Sinus Rhythm
+A6328,1st Degree AV block
+A6330,Sinus Rhythm
+A6331,Sinus Rhythm
+A6332,1st Degree AV block
+A6336,1st Degree AV block
+A6347,Sinus Rhythm
+A6351,Sinus Rhythm
+A6357,1st Degree AV block
+A6358,Sinus Rhythm
+A6361,1st Degree AV block
+A6363,Sinus Rhythm
+A6365,1st Degree AV block
+A6371,Sinus Rhythm
+A6380,Sinus Rhythm
+A6386,1st Degree AV block
+A6390,Sinus Rhythm
+A6415,Sinus Rhythm
+A6430,1st Degree AV block
+A6434,Sinus Rhythm
+A6437,Sinus Rhythm
+A6439,Sinus Rhythm
+A6447,Sinus Rhythm
+A6448,1st Degree AV block
+A6452,1st Degree AV block
+A6458,1st Degree AV block
+A6463,1st Degree AV block
+A6464,Sinus Rhythm
+A6466,Sinus Rhythm
+A6467,Sinus Rhythm
+A6470,1st Degree AV block
+A6473,1st Degree AV block
+A6476,Sinus Rhythm
+A6478,Sinus Rhythm
+A6483,1st Degree AV block
+A6485,Sinus Rhythm
+A6491,Sinus Rhythm
+A6501,Sinus Rhythm
+A6504,Sinus Rhythm
+A6506,Sinus Rhythm
+A6507,Sinus Rhythm
+A6516,1st Degree AV block
+A6518,1st Degree AV block
+A6521,Sinus Rhythm
+A6528,Sinus Rhythm
+A6535,Sinus Rhythm
+A6536,Sinus Rhythm
+A6538,1st Degree AV block
+A6541,Sinus Rhythm
+A6542,Sinus Rhythm
+A6549,Sinus Rhythm
+A6553,1st Degree AV block
+A6557,Sinus Rhythm
+A6559,Sinus Rhythm
+A6560,Sinus Rhythm
+A6565,Sinus Rhythm
+A6568,Sinus Rhythm
+A6569,Sinus Rhythm
+A6573,Sinus Rhythm
+A6577,1st Degree AV block
+A6579,1st Degree AV block
+A6580,Sinus Rhythm
+A6585,Sinus Rhythm
+A6590,Sinus Rhythm
+A6594,1st Degree AV block
+A6604,Sinus Rhythm
+A6606,Sinus Rhythm
+A6607,1st Degree AV block
+A6612,Sinus Rhythm
+A6615,1st Degree AV block
+A6617,Sinus Rhythm
+A6619,1st Degree AV block
+A6620,1st Degree AV block
+A6621,Sinus Rhythm
+A6623,Sinus Rhythm
+A6624,Sinus Rhythm
+A6628,1st Degree AV block
+A6631,1st Degree AV block
+A6632,1st Degree AV block
+A6638,1st Degree AV block
+A6639,1st Degree AV block
+A6640,1st Degree AV block
+A6643,Sinus Rhythm
+A6644,1st Degree AV block
+A6647,1st Degree AV block
+A6652,1st Degree AV block
+A6661,1st Degree AV block
+A6663,1st Degree AV block
+A6678,Sinus Rhythm
+A6679,1st Degree AV block
+A6681,Sinus Rhythm
+A6684,1st Degree AV block
+A6692,1st Degree AV block
+A6697,Sinus Rhythm
+A6699,Sinus Rhythm
+A6702,Sinus Rhythm
+A6705,1st Degree AV block
+A6709,Sinus Rhythm
+A6712,Sinus Rhythm
+A6716,Sinus Rhythm
+A6730,1st Degree AV block
+A6732,1st Degree AV block
+A6734,Sinus Rhythm
+A6735,Sinus Rhythm
+A6748,1st Degree AV block
+A6749,1st Degree AV block
+A6757,1st Degree AV block
+A6760,1st Degree AV block
+A6761,1st Degree AV block
+A6772,Sinus Rhythm
+A6780,Sinus Rhythm
+A6782,Sinus Rhythm
+A6789,Sinus Rhythm
+A6792,1st Degree AV block
+A6799,1st Degree AV block
+A6801,Sinus Rhythm
+A6806,Sinus Rhythm
+A6808,1st Degree AV block
+A6809,Sinus Rhythm
+A6811,1st Degree AV block
+A6818,1st Degree AV block
+A6821,Sinus Rhythm
+A6824,Sinus Rhythm
+A6825,1st Degree AV block
+A6832,Sinus Rhythm
+A6839,1st Degree AV block
+A6845,Sinus Rhythm
+A6846,Sinus Rhythm
+A6853,Sinus Rhythm
+A6864,1st Degree AV block
+A6870,Sinus Rhythm
+A6873,1st Degree AV block
+Q0001,Sinus Tachycardia
+Q0010,"PVC, Myocardial infarction"
+Q0013,PVC
+Q0022,Sinus Tachycardia
+Q0025,Sinus Tachycardia
+Q0029,Sinus Tachycardia
+Q0035,Myocardial infarction
+Q0037,PVC
+Q0038,PVC
+Q0039,PVC
+Q0044,Myocardial infarction
+Q0046,"PVC, Myocardial infarction"
+Q0049,Sinus Tachycardia
+Q0050,"1st Degree AV block, PVC, Myocardial infarction"
+Q0051,Myocardial infarction
+Q0053,"PVC, Myocardial infarction"
+Q0072,Sinus Tachycardia
+Q0074,1st Degree AV block
+Q0082,Myocardial infarction
+Q0090,Myocardial infarction
+Q0095,1st Degree AV block
+Q0098,Myocardial infarction
+Q0100,Sinus Tachycardia
+Q0112,PVC
+Q0115,1st Degree AV block
+Q0116,Sinus Tachycardia
+Q0120,Myocardial infarction
+Q0121,1st Degree AV block
+Q0122,Myocardial infarction
+Q0124,Myocardial infarction
+Q0128,PVC
+Q0137,Myocardial infarction
+Q0138,Myocardial infarction
+Q0145,PVC
+Q0151,"1st Degree AV block, PVC"
+Q0155,"1st Degree AV block, Myocardial infarction"
+Q0158,PVC
+Q0162,Myocardial infarction
+Q0167,Myocardial infarction
+Q0170,Myocardial infarction
+Q0180,Myocardial infarction
+Q0184,1st Degree AV block
+Q0187,Myocardial infarction
+Q0188,"Myocardial infarction, Sinus Tachycardia"
+Q0190,Myocardial infarction
+Q0198,"Myocardial infarction, Sinus Tachycardia"
+Q0204,Sinus Tachycardia
+Q0211,"PVC, Myocardial infarction"
+Q0219,Myocardial infarction
+Q0223,Sinus Tachycardia
+Q0225,Sinus Tachycardia
+Q0226,Sinus Tachycardia
+Q0234,Sinus Tachycardia
+Q0239,Sinus Tachycardia
+Q0240,Sinus Tachycardia
+Q0241,Myocardial infarction
+Q0245,Myocardial infarction
+Q0247,Myocardial infarction
+Q0248,Sinus Tachycardia
+Q0249,Myocardial infarction
+Q0250,PVC
+Q0257,PVC
+Q0260,Sinus Tachycardia
+Q0265,Myocardial infarction
+Q0273,Sinus Tachycardia
+Q0276,Sinus Tachycardia
+Q0279,"PVC, Myocardial infarction"
+Q0287,Sinus Tachycardia
+Q0291,1st Degree AV block
+Q0298,"1st Degree AV block, Myocardial infarction"
+Q0300,"Myocardial infarction, Sinus Tachycardia"
+Q0306,Sinus Tachycardia
+Q0307,Sinus Tachycardia
+Q0312,Sinus Tachycardia
+Q0318,PVC
+Q0320,Sinus Tachycardia
+Q0324,PVC
+Q0333,Sinus Tachycardia
+Q0342,Sinus Tachycardia
+Q0343,PVC
+Q0348,Myocardial infarction
+Q0350,Sinus Tachycardia
+Q0353,Myocardial infarction
+Q0354,PVC
+Q0356,Myocardial infarction
+Q0365,Myocardial infarction
+Q0370,"PVC, Myocardial infarction"
+Q0372,Sinus Tachycardia
+Q0373,Myocardial infarction
+Q0375,Myocardial infarction
+Q0380,Sinus Tachycardia
+Q0386,PVC
+Q0387,PVC
+Q0390,1st Degree AV block
+Q0391,Sinus Tachycardia
+Q0392,Sinus Tachycardia
+Q0393,1st Degree AV block
+Q0394,PVC
+Q0398,Myocardial infarction
+Q0400,Myocardial infarction
+Q0402,Myocardial infarction
+Q0412,"PVC, Myocardial infarction"
+Q0416,"PVC, Myocardial infarction"
+Q0424,Sinus Tachycardia
+Q0427,Myocardial infarction
+Q0428,Myocardial infarction
+Q0433,Sinus Tachycardia
+Q0434,Sinus Tachycardia
+Q0435,"PVC, Sinus Tachycardia"
+Q0444,Sinus Tachycardia
+Q0446,PVC
+Q0454,Sinus Tachycardia
+Q0461,PVC
+Q0467,Myocardial infarction
+Q0474,Myocardial infarction
+Q0478,Myocardial infarction
+Q0480,1st Degree AV block
+Q0485,Myocardial infarction
+Q0486,Myocardial infarction
+Q0487,Sinus Tachycardia
+Q0490,Myocardial infarction
+Q0495,1st Degree AV block
+Q0500,PVC
+Q0502,"PVC, Myocardial infarction"
+Q0506,Sinus Tachycardia
+Q0522,PVC
+Q0523,Sinus Tachycardia
+Q0525,Myocardial infarction
+Q0529,Myocardial infarction
+Q0530,Sinus Tachycardia
+Q0538,1st Degree AV block
+Q0541,Myocardial infarction
+Q0550,PVC
+Q0551,PVC
+Q0552,Myocardial infarction
+Q0556,PVC
+Q0558,Myocardial infarction
+Q0559,Myocardial infarction
+Q0568,Sinus Tachycardia
+Q0572,Sinus Tachycardia
+Q0576,"1st Degree AV block, Sinus Tachycardia"
+Q0577,Myocardial infarction
+Q0585,Sinus Tachycardia
+Q0590,"1st Degree AV block, Myocardial infarction"
+Q0592,PVC
+Q0597,Myocardial infarction
+Q0602,PVC
+Q0604,PVC
+Q0608,PVC
+Q0617,Myocardial infarction
+Q0619,"PVC, Sinus Tachycardia"
+Q0629,Sinus Tachycardia
+Q0630,Myocardial infarction
+Q0641,Myocardial infarction
+Q0642,PVC
+Q0647,PVC
+Q0648,Sinus Tachycardia
+Q0650,Myocardial infarction
+Q0651,Myocardial infarction
+Q0653,Sinus Tachycardia
+Q0657,1st Degree AV block
+Q0660,"1st Degree AV block, Myocardial infarction"
+Q0662,Sinus Tachycardia
+Q0665,Sinus Tachycardia
+Q0666,"1st Degree AV block, Myocardial infarction"
+Q0673,"1st Degree AV block, Myocardial infarction"
+Q0686,"Myocardial infarction, Sinus Tachycardia"
+Q0691,"PVC, Sinus Tachycardia"
+Q0697,Myocardial infarction
+Q0701,Sinus Tachycardia
+Q0707,Sinus Tachycardia
+Q0709,"1st Degree AV block, Myocardial infarction"
+Q0717,"PVC, Myocardial infarction"
+Q0718,"PVC, Sinus Tachycardia"
+Q0730,Sinus Tachycardia
+Q0734,Myocardial infarction
+Q0738,1st Degree AV block
+Q0749,Sinus Tachycardia
+Q0750,Sinus Tachycardia
+Q0751,Myocardial infarction
+Q0758,Myocardial infarction
+Q0759,Myocardial infarction
+Q0767,Sinus Tachycardia
+Q0769,PVC
+Q0772,1st Degree AV block
+Q0775,Myocardial infarction
+Q0776,"1st Degree AV block, Myocardial infarction"
+Q0777,Myocardial infarction
+Q0780,Myocardial infarction
+Q0788,Myocardial infarction
+Q0791,Sinus Tachycardia
+Q0792,Myocardial infarction
+Q0795,Sinus Tachycardia
+Q0799,Myocardial infarction
+Q0800,PVC
+Q0801,Myocardial infarction
+Q0802,Myocardial infarction
+Q0803,Myocardial infarction
+Q0805,Myocardial infarction
+Q0808,"1st Degree AV block, Myocardial infarction"
+Q0810,Myocardial infarction
+Q0813,Myocardial infarction
+Q0825,PVC
+Q0826,Myocardial infarction
+Q0835,Sinus Tachycardia
+Q0836,Sinus Tachycardia
+Q0848,Myocardial infarction
+Q0849,"PVC, Sinus Tachycardia"
+Q0851,1st Degree AV block
+Q0859,Myocardial infarction
+Q0860,PVC
+Q0863,"1st Degree AV block, Myocardial infarction"
+Q0870,Sinus Tachycardia
+Q0875,Myocardial infarction
+Q0877,"Myocardial infarction, Sinus Tachycardia"
+Q0879,Myocardial infarction
+Q0885,Sinus Tachycardia
+Q0886,Sinus Tachycardia
+Q0887,Sinus Tachycardia
+Q0888,Sinus Tachycardia
+Q0894,Myocardial infarction
+Q0895,Sinus Tachycardia
+Q0899,Myocardial infarction
+Q0901,Sinus Tachycardia
+Q0903,Myocardial infarction
+Q0907,Myocardial infarction
+Q0910,PVC
+Q0913,Myocardial infarction
+Q0921,Sinus Tachycardia
+Q0923,Myocardial infarction
+Q0925,Sinus Tachycardia
+Q0930,PVC
+Q0936,1st Degree AV block
+Q0944,Sinus Tachycardia
+Q0947,Myocardial infarction
+Q0949,Sinus Tachycardia
+Q0951,1st Degree AV block
+Q0952,Myocardial infarction
+Q0953,Myocardial infarction
+Q0954,Myocardial infarction
+Q0962,"1st Degree AV block, Myocardial infarction"
+Q0967,"Myocardial infarction, Sinus Tachycardia"
+Q0968,1st Degree AV block
+Q0972,"1st Degree AV block, Myocardial infarction"
+Q0973,"Myocardial infarction, Sinus Tachycardia"
+Q0976,Myocardial infarction
+Q0977,Sinus Tachycardia
+Q0978,Myocardial infarction
+Q0979,Myocardial infarction
+Q0980,Myocardial infarction
+Q0987,Myocardial infarction
+Q0994,Sinus Tachycardia
+Q0995,PVC
+Q0998,Sinus Tachycardia
+Q1018,Sinus Tachycardia
+Q1019,Myocardial infarction
+Q1020,PVC
+Q1023,Sinus Tachycardia
+Q1028,Myocardial infarction
+Q1029,PVC
+Q1030,Sinus Tachycardia
+Q1037,Sinus Tachycardia
+Q1041,Myocardial infarction
+Q1048,Sinus Tachycardia
+Q1054,Myocardial infarction
+Q1062,Sinus Tachycardia
+Q1070,"1st Degree AV block, Myocardial infarction"
+Q1074,"1st Degree AV block, Myocardial infarction"
+Q1079,Myocardial infarction
+Q1082,1st Degree AV block
+Q1087,PVC
+Q1089,"PVC, Myocardial infarction"
+Q1096,"PVC, Sinus Tachycardia"
+Q1098,Myocardial infarction
+Q1101,Myocardial infarction
+Q1104,Myocardial infarction
+Q1108,PVC
+Q1111,Myocardial infarction
+Q1115,Sinus Tachycardia
+Q1116,Myocardial infarction
+Q1117,PVC
+Q1120,Myocardial infarction
+Q1121,Sinus Tachycardia
+Q1126,Myocardial infarction
+Q1131,Myocardial infarction
+Q1132,PVC
+Q1133,Sinus Tachycardia
+Q1139,Sinus Tachycardia
+Q1144,"Myocardial infarction, Sinus Tachycardia"
+Q1146,1st Degree AV block
+Q1147,Myocardial infarction
+Q1148,Myocardial infarction
+Q1152,PVC
+Q1156,1st Degree AV block
+Q1167,PVC
+Q1168,Myocardial infarction
+Q1170,Myocardial infarction
+Q1172,Sinus Tachycardia
+Q1177,1st Degree AV block
+Q1179,PVC
+Q1181,Myocardial infarction
+Q1190,Sinus Tachycardia
+Q1196,PVC
+Q1198,Sinus Tachycardia
+Q1199,Sinus Tachycardia
+Q1201,PVC
+Q1203,"PVC, Myocardial infarction"
+Q1208,Sinus Tachycardia
+Q1209,Myocardial infarction
+Q1210,Sinus Tachycardia
+Q1217,Sinus Tachycardia
+Q1218,Myocardial infarction
+Q1236,Sinus Tachycardia
+Q1238,"PVC, Sinus Tachycardia"
+Q1242,Myocardial infarction
+Q1243,PVC
+Q1248,"PVC, Sinus Tachycardia"
+Q1249,Myocardial infarction
+Q1255,Sinus Tachycardia
+Q1265,Myocardial infarction
+Q1266,Sinus Tachycardia
+Q1267,Sinus Tachycardia
+Q1278,PVC
+Q1279,"PVC, Myocardial infarction"
+Q1280,Sinus Tachycardia
+Q1286,PVC
+Q1296,Myocardial infarction
+Q1297,Myocardial infarction
+Q1302,Sinus Tachycardia
+Q1304,Myocardial infarction
+Q1305,Sinus Tachycardia
+Q1307,PVC
+Q1308,PVC
+Q1313,"PVC, Myocardial infarction"
+Q1318,Myocardial infarction
+Q1321,"PVC, Myocardial infarction"
+Q1322,PVC
+Q1325,Sinus Tachycardia
+Q1331,Myocardial infarction
+Q1332,PVC
+Q1335,"1st Degree AV block, PVC, Myocardial infarction"
+Q1342,PVC
+Q1343,Sinus Tachycardia
+Q1344,PVC
+Q1352,Sinus Tachycardia
+Q1367,PVC
+Q1370,Sinus Tachycardia
+Q1371,PVC
+Q1372,Myocardial infarction
+Q1373,"1st Degree AV block, Sinus Tachycardia"
+Q1374,Myocardial infarction
+Q1388,Myocardial infarction
+Q1404,Sinus Tachycardia
+Q1405,Myocardial infarction
+Q1408,Sinus Tachycardia
+Q1417,Sinus Tachycardia
+Q1424,PVC
+Q1426,Myocardial infarction
+Q1433,1st Degree AV block
+Q1435,"1st Degree AV block, Myocardial infarction"
+Q1437,Myocardial infarction
+Q1438,Sinus Tachycardia
+Q1439,Myocardial infarction
+Q1443,Myocardial infarction
+Q1448,Sinus Tachycardia
+Q1450,Myocardial infarction
+Q1451,"1st Degree AV block, Myocardial infarction"
+Q1453,"1st Degree AV block, Myocardial infarction"
+Q1467,Sinus Tachycardia
+Q1472,Myocardial infarction
+Q1478,Myocardial infarction
+Q1482,Sinus Tachycardia
+Q1487,Myocardial infarction
+Q1491,Myocardial infarction
+Q1492,Sinus Tachycardia
+Q1497,Myocardial infarction
+Q1499,Sinus Tachycardia
+Q1503,Sinus Tachycardia
+Q1510,Sinus Tachycardia
+Q1520,Sinus Tachycardia
+Q1523,Sinus Tachycardia
+Q1524,"1st Degree AV block, Myocardial infarction"
+Q1527,PVC
+Q1530,PVC
+Q1544,Sinus Tachycardia
+Q1549,Sinus Tachycardia
+Q1550,1st Degree AV block
+Q1553,PVC
+Q1555,Myocardial infarction
+Q1560,"PVC, Myocardial infarction"
+Q1562,Myocardial infarction
+Q1565,Sinus Tachycardia
+Q1582,1st Degree AV block
+Q1588,Sinus Tachycardia
+Q1593,"PVC, Myocardial infarction"
+Q1594,Myocardial infarction
+Q1599,Sinus Tachycardia
+Q1602,Sinus Tachycardia
+Q1603,Myocardial infarction
+Q1615,Sinus Tachycardia
+Q1617,Sinus Tachycardia
+Q1618,Sinus Tachycardia
+Q1628,Myocardial infarction
+Q1634,Sinus Tachycardia
+Q1636,Sinus Tachycardia
+Q1642,Myocardial infarction
+Q1646,Myocardial infarction
+Q1650,Sinus Tachycardia
+Q1656,Myocardial infarction
+Q1665,Sinus Tachycardia
+Q1672,Sinus Tachycardia
+Q1678,Myocardial infarction
+Q1687,Sinus Tachycardia
+Q1689,1st Degree AV block
+Q1694,Sinus Tachycardia
+Q1700,Sinus Tachycardia
+Q1702,Sinus Tachycardia
+Q1707,Sinus Tachycardia
+Q1710,Sinus Tachycardia
+Q1714,Sinus Tachycardia
+Q1718,Sinus Tachycardia
+Q1722,Sinus Tachycardia
+Q1730,Sinus Tachycardia
+Q1732,Sinus Tachycardia
+Q1742,Sinus Tachycardia
+Q1747,PVC
+Q1754,Sinus Tachycardia
+Q1755,Myocardial infarction
+Q1769,Myocardial infarction
+Q1771,1st Degree AV block
+Q1772,Myocardial infarction
+Q1776,Sinus Tachycardia
+Q1777,Sinus Tachycardia
+Q1780,Myocardial infarction
+Q1781,Myocardial infarction
+Q1787,Myocardial infarction
+Q1791,PVC
+Q1796,Sinus Tachycardia
+Q1804,Sinus Rhythm
+Q1807,Sinus Rhythm
+Q1808,Sinus Bradycardia
+Q1810,Sinus Tachycardia
+Q1812,Sinus Bradycardia
+Q1814,Sinus Bradycardia
+Q1818,"Myocardial infarction, Sinus Tachycardia"
+Q1824,Sinus Rhythm
+Q1825,"1st Degree AV block, Sinus Bradycardia"
+Q1831,Sinus Bradycardia
+Q1836,Sinus Bradycardia
+Q1840,Myocardial infarction
+Q1850,PVC
+Q1851,Sinus Tachycardia
+Q1852,"PVC, Sinus Bradycardia"
+Q1857,Sinus Tachycardia
+Q1868,Sinus Tachycardia
+Q1871,Sinus Tachycardia
+Q1873,1st Degree AV block
+Q1878,Sinus Bradycardia
+Q1888,Sinus Tachycardia
+Q1889,Sinus Rhythm
+Q1892,"Myocardial infarction, Sinus Tachycardia"
+Q1894,Sinus Bradycardia
+Q1901,"PVC, Myocardial infarction"
+Q1905,Myocardial infarction
+Q1906,Myocardial infarction
+Q1907,"PVC, Myocardial infarction"
+Q1908,1st Degree AV block
+Q1909,Sinus Tachycardia
+Q1910,Myocardial infarction
+Q1911,"PVC, Myocardial infarction"
+Q1931,Myocardial infarction
+Q1932,Myocardial infarction
+Q1933,Sinus Bradycardia
+Q1935,Myocardial infarction
+Q1941,"Myocardial infarction, Sinus Tachycardia"
+Q1942,"1st Degree AV block, Myocardial infarction"
+Q1943,Myocardial infarction
+Q1945,"PVC, Myocardial infarction, Sinus Tachycardia"
+Q1946,Myocardial infarction
+Q1952,Myocardial infarction
+Q1955,Sinus Tachycardia
+Q1959,Myocardial infarction
+Q1964,Sinus Bradycardia
+Q1966,Sinus Tachycardia
+Q1967,ST changes
+Q1970,Sinus Bradycardia
+Q1974,PVC
+Q1979,Myocardial infarction
+Q1982,PVC
+Q1983,Sinus Tachycardia
+Q1988,Myocardial infarction
+Q1989,Sinus Bradycardia
+Q1991,"1st Degree AV block, Sinus Bradycardia"
+Q1993,"1st Degree AV block, Myocardial infarction"
+Q1994,Sinus Tachycardia
+Q2002,Myocardial infarction
+Q2009,Myocardial infarction
+Q2012,Sinus Bradycardia
+Q2015,"Myocardial infarction, Sinus Tachycardia"
+Q2019,PVC
+Q2021,Myocardial infarction
+Q2025,1st Degree AV block
+Q2028,1st Degree AV block
+Q2034,1st Degree AV block
+Q2041,Sinus Tachycardia
+Q2046,Sinus Bradycardia
+Q2056,"PVC, Sinus Bradycardia"
+Q2061,Sinus Tachycardia
+Q2072,Myocardial infarction
+Q2074,"Myocardial infarction, Sinus Bradycardia"
+Q2077,1st Degree AV block
+Q2079,"PVC, Sinus Bradycardia"
+Q2083,Myocardial infarction
+Q2085,Myocardial infarction
+Q2086,"Myocardial infarction, Sinus Bradycardia"
+Q2097,Sinus Bradycardia
+Q2098,Sinus Bradycardia
+Q2099,Sinus Tachycardia
+Q2110,"1st Degree AV block, Myocardial infarction"
+Q2115,Myocardial infarction
+Q2116,"Myocardial infarction, Sinus Tachycardia"
+Q2118,Sinus Bradycardia
+Q2120,"1st Degree AV block, Sinus Bradycardia"
+Q2121,Sinus Tachycardia
+Q2125,Myocardial infarction
+Q2128,1st Degree AV block
+Q2131,PVC
+Q2132,PVC
+Q2135,PVC
+Q2136,Sinus Tachycardia
+Q2137,Sinus Bradycardia
+Q2145,1st Degree AV block
+Q2146,Sinus Tachycardia
+Q2147,Myocardial infarction
+Q2151,"Myocardial infarction, Sinus Tachycardia"
+Q2161,"1st Degree AV block, PVC"
+Q2163,Myocardial infarction
+Q2167,Sinus Bradycardia
+Q2168,PVC
+Q2175,Myocardial infarction
+Q2176,Sinus Bradycardia
+Q2177,Sinus Tachycardia
+Q2179,1st Degree AV block
+Q2180,Sinus Bradycardia
+Q2187,Sinus Tachycardia
+Q2193,Myocardial infarction
+Q2195,Sinus Tachycardia
+Q2196,Sinus Tachycardia
+Q2207,Sinus Bradycardia
+Q2208,Sinus Bradycardia
+Q2210,Myocardial infarction
+Q2214,Sinus Bradycardia
+Q2216,Myocardial infarction
+Q2221,"1st Degree AV block, Myocardial infarction"
+Q2222,"Sinus Bradycardia, Sinus Tachycardia"
+Q2227,Myocardial infarction
+Q2229,Sinus Tachycardia
+Q2231,Myocardial infarction
+Q2233,Sinus Tachycardia
+Q2239,PVC
+Q2240,"1st Degree AV block, Sinus Bradycardia"
+Q2246,PVC
+Q2253,Sinus Tachycardia
+Q2257,Sinus Tachycardia
+Q2258,Myocardial infarction
+Q2265,Sinus Bradycardia
+Q2266,Sinus Bradycardia
+Q2270,Sinus Tachycardia
+Q2276,"Myocardial infarction, Sinus Bradycardia"
+Q2277,"Myocardial infarction, Sinus Bradycardia"
+Q2280,"PVC, Myocardial infarction, Sinus Tachycardia"
+Q2282,"PVC, Sinus Bradycardia"
+Q2283,PVC
+Q2284,Sinus Tachycardia
+Q2289,Sinus Tachycardia
+Q2290,Myocardial infarction
+Q2292,Sinus Bradycardia
+Q2299,Myocardial infarction
+Q2301,Myocardial infarction
+Q2305,Myocardial infarction
+Q2306,Sinus Tachycardia
+Q2307,1st Degree AV block
+Q2308,Sinus Bradycardia
+Q2313,Myocardial infarction
+Q2315,Myocardial infarction
+Q2320,Myocardial infarction
+Q2321,"1st Degree AV block, Sinus Bradycardia"
+Q2322,Sinus Bradycardia
+Q2323,"PVC, Myocardial infarction"
+Q2325,PVC
+Q2337,"1st Degree AV block, Myocardial infarction"
+Q2339,Sinus Bradycardia
+Q2344,Sinus Bradycardia
+Q2346,"1st Degree AV block, PVC"
+Q2348,PVC
+Q2357,Sinus Bradycardia
+Q2362,Sinus Tachycardia
+Q2367,PVC
+Q2375,Myocardial infarction
+Q2377,"PVC, Sinus Tachycardia"
+Q2384,"PVC, Myocardial infarction"
+Q2392,PVC
+Q2394,Myocardial infarction
+Q2397,1st Degree AV block
+Q2413,PVC
+Q2422,Myocardial infarction
+Q2427,PVC
+Q2428,Myocardial infarction
+Q2429,PVC
+Q2431,PVC
+Q2432,Sinus Tachycardia
+Q2434,"PVC, Sinus Tachycardia"
+Q2469,Myocardial infarction
+Q2473,Sinus Tachycardia
+Q2474,Myocardial infarction
+Q2475,"PVC, Myocardial infarction"
+Q2478,Sinus Tachycardia
+Q2479,Sinus Tachycardia
+Q2481,Sinus Tachycardia
+Q2483,"PVC, Myocardial infarction"
+Q2485,"PVC, Myocardial infarction"
+Q2492,"PVC, Sinus Tachycardia"
+Q2493,Sinus Tachycardia
+Q2499,1st Degree AV block
+Q2500,"1st Degree AV block, Myocardial infarction"
+Q2503,Myocardial infarction
+Q2511,PVC
+Q2512,Sinus Tachycardia
+Q2515,Sinus Tachycardia
+Q2520,Sinus Tachycardia
+Q2521,Myocardial infarction
+Q2522,Sinus Tachycardia
+Q2523,PVC
+Q2529,"1st Degree AV block, PVC"
+Q2534,PVC
+Q2541,PVC
+Q2543,Sinus Tachycardia
+Q2545,Sinus Tachycardia
+Q2546,Myocardial infarction
+Q2549,Sinus Tachycardia
+Q2557,Sinus Tachycardia
+Q2574,Sinus Tachycardia
+Q2585,Sinus Tachycardia
+Q2588,"PVC, Myocardial infarction"
+Q2589,Myocardial infarction
+Q2590,Sinus Tachycardia
+Q2600,Sinus Tachycardia
+Q2610,Sinus Tachycardia
+Q2611,PVC
+Q2613,1st Degree AV block
+Q2618,Sinus Tachycardia
+Q2624,PVC
+Q2628,PVC
+Q2631,PVC
+Q2633,Sinus Tachycardia
+Q2636,Myocardial infarction
+Q2646,PVC
+Q2650,Myocardial infarction
+Q2663,Myocardial infarction
+Q2665,Sinus Tachycardia
+Q2669,Sinus Tachycardia
+Q2681,Myocardial infarction
+Q2685,Myocardial infarction
+Q2693,Sinus Tachycardia
+Q2697,Myocardial infarction
+Q2700,Sinus Tachycardia
+Q2709,Sinus Tachycardia
+Q2713,Sinus Tachycardia
+Q2716,PVC
+Q2718,PVC
+Q2722,Sinus Tachycardia
+Q2724,Myocardial infarction
+Q2726,Myocardial infarction
+Q2727,Sinus Tachycardia
+Q2729,Myocardial infarction
+Q2732,Myocardial infarction
+Q2734,Myocardial infarction
+Q2736,Sinus Tachycardia
+Q2740,Sinus Tachycardia
+Q2750,PVC
+Q2759,Myocardial infarction
+Q2767,1st Degree AV block
+Q2774,Myocardial infarction
+Q2778,PVC
+Q2779,"1st Degree AV block, Sinus Tachycardia"
+Q2786,"1st Degree AV block, Sinus Tachycardia"
+Q2788,Sinus Tachycardia
+Q2789,Sinus Tachycardia
+Q2796,Myocardial infarction
+Q2797,Sinus Tachycardia
+Q2799,Myocardial infarction
+Q2806,1st Degree AV block
+Q2807,Myocardial infarction
+Q2814,Myocardial infarction
+Q2815,Sinus Tachycardia
+Q2819,Myocardial infarction
+Q2824,"PVC, Myocardial infarction"
+Q2826,Sinus Tachycardia
+Q2829,Myocardial infarction
+Q2831,"1st Degree AV block, Sinus Tachycardia"
+Q2835,PVC
+Q2836,Myocardial infarction
+Q2838,Myocardial infarction
+Q2852,PVC
+Q2862,Myocardial infarction
+Q2867,Sinus Tachycardia
+Q2868,"1st Degree AV block, PVC"
+Q2872,PVC
+Q2875,Myocardial infarction
+Q2876,Myocardial infarction
+Q2878,Sinus Tachycardia
+Q2883,Sinus Tachycardia
+Q2884,Sinus Tachycardia
+Q2893,Sinus Tachycardia
+Q2897,Myocardial infarction
+Q2900,Sinus Tachycardia
+Q2901,Sinus Tachycardia
+Q2902,Sinus Tachycardia
+Q2904,"1st Degree AV block, PVC"
+Q2909,"PVC, Myocardial infarction"
+Q2912,"PVC, Myocardial infarction"
+Q2913,PVC
+Q2915,Sinus Tachycardia
+Q2916,Myocardial infarction
+Q2917,PVC
+Q2919,Sinus Tachycardia
+Q2923,Myocardial infarction
+Q2924,Sinus Tachycardia
+Q2931,Sinus Tachycardia
+Q2935,Myocardial infarction
+Q2938,Myocardial infarction
+Q2942,Sinus Tachycardia
+Q2943,PVC
+Q2948,Myocardial infarction
+Q2949,"PVC, Myocardial infarction"
+Q2951,PVC
+Q2952,Sinus Tachycardia
+Q2953,PVC
+Q2960,Myocardial infarction
+Q2961,Myocardial infarction
+Q2962,Myocardial infarction
+Q2968,PVC
+Q2969,Myocardial infarction
+Q2975,Myocardial infarction
+Q2976,Myocardial infarction
+Q2979,PVC
+Q2986,Myocardial infarction
+Q2995,Myocardial infarction
+Q3003,Myocardial infarction
+Q3004,Sinus Tachycardia
+Q3006,"PVC, Sinus Tachycardia"
+Q3008,1st Degree AV block
+Q3009,1st Degree AV block
+Q3017,Myocardial infarction
+Q3021,PVC
+Q3033,PVC
+Q3040,Sinus Tachycardia
+Q3045,Myocardial infarction
+Q3046,Myocardial infarction
+Q3047,Myocardial infarction
+Q3051,1st Degree AV block
+Q3054,Myocardial infarction
+Q3056,"Myocardial infarction, Sinus Tachycardia"
+Q3062,Myocardial infarction
+Q3065,Sinus Tachycardia
+Q3074,Sinus Tachycardia
+Q3075,1st Degree AV block
+Q3076,PVC
+Q3079,1st Degree AV block
+Q3081,1st Degree AV block
+Q3087,PVC
+Q3093,Myocardial infarction
+Q3098,Sinus Tachycardia
+Q3101,1st Degree AV block
+Q3104,1st Degree AV block
+Q3105,"PVC, Myocardial infarction"
+Q3106,Sinus Tachycardia
+Q3107,Sinus Tachycardia
+Q3108,PVC
+Q3118,Sinus Tachycardia
+Q3122,Sinus Tachycardia
+Q3125,PVC
+Q3126,"PVC, Sinus Tachycardia"
+Q3127,Myocardial infarction
+Q3129,Myocardial infarction
+Q3137,Myocardial infarction
+Q3138,1st Degree AV block
+Q3141,Sinus Tachycardia
+Q3142,1st Degree AV block
+Q3145,PVC
+Q3161,Myocardial infarction
+Q3169,Sinus Tachycardia
+Q3173,Myocardial infarction
+Q3177,Sinus Tachycardia
+Q3178,Myocardial infarction
+Q3183,"Myocardial infarction, Sinus Tachycardia"
+Q3185,Myocardial infarction
+Q3188,Sinus Tachycardia
+Q3189,Myocardial infarction
+Q3194,Myocardial infarction
+Q3198,PVC
+Q3200,"1st Degree AV block, Myocardial infarction"
+Q3202,Myocardial infarction
+Q3203,PVC
+Q3207,Sinus Tachycardia
+Q3209,1st Degree AV block
+Q3212,Sinus Tachycardia
+Q3214,Myocardial infarction
+Q3216,Sinus Tachycardia
+Q3217,Myocardial infarction
+Q3222,Myocardial infarction
+Q3226,Sinus Tachycardia
+Q3233,Sinus Tachycardia
+Q3240,Sinus Tachycardia
+Q3243,Myocardial infarction
+Q3245,Myocardial infarction
+Q3250,Sinus Tachycardia
+Q3258,"PVC, Myocardial infarction"
+Q3262,Sinus Tachycardia
+Q3265,Myocardial infarction
+Q3268,Myocardial infarction
+Q3269,Sinus Tachycardia
+Q3270,"PVC, Myocardial infarction"
+Q3276,Sinus Tachycardia
+Q3280,Myocardial infarction
+Q3281,PVC
+Q3290,1st Degree AV block
+Q3310,Sinus Tachycardia
+Q3315,Sinus Tachycardia
+Q3318,Myocardial infarction
+Q3323,Myocardial infarction
+Q3327,Myocardial infarction
+Q3332,Myocardial infarction
+Q3336,Myocardial infarction
+Q3337,Myocardial infarction
+Q3342,PVC
+Q3344,PVC
+Q3346,Myocardial infarction
+Q3349,Myocardial infarction
+Q3352,PVC
+Q3354,PVC
+Q3358,Sinus Tachycardia
+Q3364,Myocardial infarction
+Q3370,Sinus Tachycardia
+Q3376,Myocardial infarction
+Q3381,Sinus Tachycardia
+Q3383,Sinus Tachycardia
+Q3384,1st Degree AV block
+Q3388,1st Degree AV block
+Q3391,PVC
+Q3395,Sinus Tachycardia
+Q3402,Sinus Tachycardia
+Q3403,Sinus Tachycardia
+Q3404,Myocardial infarction
+Q3405,1st Degree AV block
+Q3411,Myocardial infarction
+Q3418,PVC
+Q3420,Myocardial infarction
+Q3430,PVC
+Q3431,"PVC, Myocardial infarction"
+Q3432,Sinus Tachycardia
+Q3436,Myocardial infarction
+Q3441,PVC
+Q3445,Myocardial infarction
+Q3446,Myocardial infarction
+Q3448,Sinus Tachycardia
+Q3449,Sinus Tachycardia
+Q3458,Myocardial infarction
+Q3459,Myocardial infarction
+Q3465,Myocardial infarction
+Q3493,Myocardial infarction
+Q3498,Myocardial infarction
+Q3501,Sinus Tachycardia
+Q3503,1st Degree AV block
+Q3508,Myocardial infarction
+Q3512,"1st Degree AV block, Myocardial infarction"
+Q3513,Myocardial infarction
+Q3517,"1st Degree AV block, Myocardial infarction"
+Q3519,Myocardial infarction
+Q3530,Myocardial infarction
+Q3540,Sinus Tachycardia
+Q3546,"1st Degree AV block, Myocardial infarction"
+Q3551,Myocardial infarction
+Q3556,"Myocardial infarction, Sinus Tachycardia"
+Q3558,PVC
+Q3559,Sinus Tachycardia
+Q3561,"PVC, Myocardial infarction"
+Q3563,Sinus Tachycardia
+Q3565,Sinus Tachycardia
+Q3567,Myocardial infarction
+Q3568,"1st Degree AV block, Sinus Tachycardia"
+Q3569,Myocardial infarction
+Q3570,1st Degree AV block
+Q3573,Myocardial infarction
+Q3575,Sinus Tachycardia
+Q3579,Myocardial infarction
+E00001,Sinus Rhythm
+E00002,Sinus Rhythm
+E00003,Sinus Rhythm
+E00004,Sinus Bradycardia
+E00008,Sinus Tachycardia
+E00009,Sinus Tachycardia
+E00011,Sinus Tachycardia
+E00013,Sinus Bradycardia
+E00014,Sinus Bradycardia
+E00017,Sinus Bradycardia
+E00018,Sinus Bradycardia
+E00021,Sinus Rhythm
+E00026,Sinus Bradycardia
+E00028,Sinus Bradycardia
+E00037,Sinus Rhythm
+E00039,Sinus Rhythm
+E00041,Sinus Tachycardia
+E00044,Sinus Tachycardia
+E00045,Sinus Tachycardia
+E00046,Sinus Rhythm
+E00048,"1st Degree AV block, Sinus Bradycardia"
+E00049,Sinus Rhythm
+E00052,Sinus Tachycardia
+E00054,Sinus Bradycardia
+E00061,Sinus Bradycardia
+E00062,Sinus Rhythm
+E00065,Sinus Tachycardia
+E00067,1st Degree AV block
+E00069,Sinus Tachycardia
+E00070,Sinus Tachycardia
+E00072,Sinus Tachycardia
+E00073,Sinus Tachycardia
+E00076,1st Degree AV block
+E00079,Sinus Bradycardia
+E00080,Sinus Tachycardia
+E00083,Sinus Bradycardia
+E00087,Sinus Bradycardia
+E00097,"1st Degree AV block, Sinus Bradycardia"
+E00098,Sinus Bradycardia
+E00101,Sinus Tachycardia
+E00102,Sinus Tachycardia
+E00104,Sinus Tachycardia
+E00105,"1st Degree AV block, Sinus Bradycardia"
+E00106,Sinus Tachycardia
+E00110,Sinus Tachycardia
+E00113,Sinus Tachycardia
+E00118,Sinus Rhythm
+E00119,Sinus Tachycardia
+E00120,Sinus Bradycardia
+E00121,"1st Degree AV block, Sinus Bradycardia"
+E00124,Sinus Bradycardia
+E00125,Sinus Rhythm
+E00126,1st Degree AV block
+E00132,Sinus Tachycardia
+E00134,Sinus Tachycardia
+E00135,Sinus Tachycardia
+E00136,Sinus Rhythm
+E00137,Sinus Tachycardia
+E00138,Sinus Tachycardia
+E00139,Sinus Bradycardia
+E00140,1st Degree AV block
+E00147,Sinus Tachycardia
+E00148,Sinus Tachycardia
+E00153,Sinus Bradycardia
+E00158,Sinus Rhythm
+E00159,Sinus Rhythm
+E00166,Sinus Rhythm
+E00167,Sinus Bradycardia
+E00169,Sinus Rhythm
+E00170,Sinus Tachycardia
+E00175,1st Degree AV block
+E00179,Sinus Tachycardia
+E00182,Sinus Tachycardia
+E00186,Sinus Bradycardia
+E00188,1st Degree AV block
+E00189,Sinus Tachycardia
+E00196,Sinus Bradycardia
+E00198,Sinus Rhythm
+E00200,Sinus Tachycardia
+E00201,Sinus Tachycardia
+E00203,Sinus Tachycardia
+E00208,Sinus Tachycardia
+E00209,Sinus Tachycardia
+E00210,1st Degree AV block
+E00216,Sinus Tachycardia
+E00221,Sinus Bradycardia
+E00222,Sinus Rhythm
+E00224,Sinus Bradycardia
+E00225,Sinus Bradycardia
+E00227,Sinus Rhythm
+E00228,Sinus Tachycardia
+E00229,Sinus Tachycardia
+E00230,Sinus Tachycardia
+E00231,Sinus Tachycardia
+E00233,Sinus Rhythm
+E00235,Sinus Rhythm
+E00237,Sinus Rhythm
+E00238,Sinus Tachycardia
+E00240,Sinus Rhythm
+E00242,Sinus Tachycardia
+E00243,Sinus Bradycardia
+E00244,Sinus Rhythm
+E00247,Sinus Tachycardia
+E00248,1st Degree AV block
+E00249,Sinus Rhythm
+E00251,1st Degree AV block
+E00252,Sinus Tachycardia
+E00253,Sinus Rhythm
+E00254,Sinus Rhythm
+E00255,Sinus Tachycardia
+E00257,Sinus Rhythm
+E00258,Sinus Rhythm
+E00261,Sinus Rhythm
+E00262,Sinus Rhythm
+E00265,Sinus Tachycardia
+E00266,Sinus Bradycardia
+E00268,Sinus Tachycardia
+E00270,Sinus Tachycardia
+E00273,Sinus Rhythm
+E00274,Sinus Rhythm
+E00278,Sinus Rhythm
+E00279,Sinus Tachycardia
+E00280,Sinus Rhythm
+E00283,Sinus Rhythm
+E00285,Sinus Tachycardia
+E00286,Sinus Rhythm
+E00289,Sinus Bradycardia
+E00290,Sinus Rhythm
+E00292,Sinus Rhythm
+E00293,Sinus Rhythm
+E00294,Sinus Rhythm
+E00295,Sinus Bradycardia
+E00296,1st Degree AV block
+E00297,1st Degree AV block
+E00299,Sinus Bradycardia
+E00300,1st Degree AV block
+E00301,Sinus Bradycardia
+E00302,Sinus Tachycardia
+E00303,Sinus Tachycardia
+E00304,Sinus Rhythm
+E00305,Sinus Tachycardia
+E00306,Sinus Tachycardia
+E00307,Sinus Tachycardia
+E00308,Sinus Rhythm
+E00309,Sinus Tachycardia
+E00310,Sinus Rhythm
+E00311,Sinus Bradycardia
+E00312,Sinus Tachycardia
+E00313,Sinus Rhythm
+E00314,Sinus Rhythm
+E00316,Sinus Rhythm
+E00318,Sinus Rhythm
+E00320,Sinus Rhythm
+E00322,Sinus Bradycardia
+E00323,Sinus Rhythm
+E00324,Sinus Bradycardia
+E00326,1st Degree AV block
+E00327,Sinus Tachycardia
+E00328,Sinus Bradycardia
+E00329,Sinus Rhythm
+E00330,Sinus Tachycardia
+E00331,Sinus Rhythm
+E00332,Sinus Tachycardia
+E00333,Sinus Tachycardia
+E00335,Sinus Rhythm
+E00336,"1st Degree AV block, Sinus Bradycardia"
+E00337,Sinus Rhythm
+E00338,Sinus Rhythm
+E00340,Sinus Rhythm
+E00341,Sinus Rhythm
+E00342,Sinus Tachycardia
+E00343,Sinus Rhythm
+E00345,Sinus Rhythm
+E00346,Sinus Tachycardia
+E00348,Sinus Bradycardia
+E00350,Sinus Tachycardia
+E00351,Sinus Rhythm
+E00352,Sinus Bradycardia
+E00353,Sinus Rhythm
+E00359,Sinus Rhythm
+E00360,Sinus Tachycardia
+E00362,Sinus Tachycardia
+E00365,Sinus Rhythm
+E00366,Sinus Bradycardia
+E00367,Sinus Bradycardia
+E00369,Sinus Rhythm
+E00371,Sinus Tachycardia
+E00372,Sinus Bradycardia
+E00374,"1st Degree AV block, Sinus Bradycardia"
+E00375,1st Degree AV block
+E00376,1st Degree AV block
+E00377,Sinus Rhythm
+E00379,Sinus Bradycardia
+E00383,"1st Degree AV block, Sinus Bradycardia"
+E00386,Sinus Rhythm
+E00387,Sinus Rhythm
+E00388,Sinus Rhythm
+E00393,Sinus Rhythm
+E00394,Sinus Tachycardia
+E00396,Sinus Rhythm
+E00397,"1st Degree AV block, ST changes"
+E00400,Sinus Tachycardia
+E00401,Sinus Rhythm
+E00402,Sinus Rhythm
+E00405,Sinus Bradycardia
+E00406,Sinus Bradycardia
+E00409,Sinus Tachycardia
+E00412,1st Degree AV block
+E00416,Sinus Rhythm
+E00417,Sinus Tachycardia
+E00418,Sinus Rhythm
+E00420,"1st Degree AV block, Sinus Bradycardia"
+E00421,Sinus Rhythm
+E00423,Sinus Rhythm
+E00424,Sinus Rhythm
+E00425,Sinus Bradycardia
+E00428,Sinus Bradycardia
+E00430,Sinus Rhythm
+E00432,Sinus Tachycardia
+E00434,Sinus Tachycardia
+E00435,Sinus Tachycardia
+E00436,1st Degree AV block
+E00440,Sinus Rhythm
+E00441,Sinus Rhythm
+E00443,"1st Degree AV block, Sinus Bradycardia"
+E00445,Sinus Rhythm
+E00446,Sinus Tachycardia
+E00448,Sinus Rhythm
+E00450,Sinus Rhythm
+E00451,Sinus Tachycardia
+E00452,"1st Degree AV block, Sinus Bradycardia"
+E00453,"1st Degree AV block, Sinus Bradycardia"
+E00454,1st Degree AV block
+E00459,Sinus Rhythm
+E00463,Sinus Rhythm
+E00464,Sinus Rhythm
+E00466,Sinus Rhythm
+E00470,Sinus Rhythm
+E00471,Sinus Rhythm
+E00472,Sinus Bradycardia
+E00473,Sinus Bradycardia
+E00475,Sinus Rhythm
+E00477,Sinus Bradycardia
+E00478,"1st Degree AV block, Sinus Tachycardia"
+E00479,Sinus Tachycardia
+E00482,"1st Degree AV block, Sinus Bradycardia"
+E00483,Sinus Rhythm
+E00486,Sinus Tachycardia
+E00487,Sinus Tachycardia
+E00489,Sinus Tachycardia
+E00490,Sinus Tachycardia
+E00491,Sinus Rhythm
+E00492,1st Degree AV block
+E00493,Sinus Tachycardia
+E00495,Sinus Tachycardia
+E00497,"1st Degree AV block, Sinus Bradycardia"
+E00498,1st Degree AV block
+E00501,Sinus Rhythm
+E00503,"1st Degree AV block, Sinus Bradycardia"
+E00506,Sinus Bradycardia
+E00507,Sinus Tachycardia
+E00509,1st Degree AV block
+E00510,Sinus Tachycardia
+E00512,"1st Degree AV block, Sinus Bradycardia"
+E00515,Sinus Tachycardia
+E00516,Sinus Tachycardia
+E00517,"1st Degree AV block, Sinus Bradycardia"
+E00523,Sinus Tachycardia
+E00525,1st Degree AV block
+E00533,Sinus Rhythm
+E00536,Sinus Bradycardia
+E00539,Sinus Bradycardia
+E00541,Sinus Bradycardia
+E00542,Sinus Rhythm
+E00543,Sinus Rhythm
+E00545,Sinus Rhythm
+E00549,Sinus Tachycardia
+E00550,Sinus Rhythm
+E00558,Sinus Rhythm
+E00560,Sinus Tachycardia
+E00561,1st Degree AV block
+E00563,Sinus Bradycardia
+E00564,Sinus Bradycardia
+E00566,"1st Degree AV block, Sinus Bradycardia"
+E00567,Sinus Rhythm
+E00568,Sinus Bradycardia
+E00570,Sinus Rhythm
+E00571,Sinus Bradycardia
+E00572,Sinus Bradycardia
+E00575,Sinus Rhythm
+E00576,Sinus Tachycardia
+E00577,Sinus Tachycardia
+E00580,Sinus Tachycardia
+E00592,Sinus Rhythm
+E00594,"1st Degree AV block, Sinus Bradycardia"
+E00595,Sinus Rhythm
+E00598,Sinus Bradycardia
+E00609,Sinus Bradycardia
+E00610,"1st Degree AV block, Sinus Bradycardia"
+E00611,1st Degree AV block
+E00615,Sinus Bradycardia
+E00617,Sinus Bradycardia
+E00621,Sinus Tachycardia
+E00622,Sinus Tachycardia
+E00624,1st Degree AV block
+E00625,Sinus Bradycardia
+E00632,Sinus Tachycardia
+E00642,Sinus Tachycardia
+E00646,Sinus Bradycardia
+E00647,Sinus Bradycardia
+E00653,Sinus Bradycardia
+E00656,Sinus Tachycardia
+E00657,Sinus Tachycardia
+E00659,1st Degree AV block
+E00661,Sinus Bradycardia
+E00663,Sinus Tachycardia
+E00667,Sinus Tachycardia
+E00670,Sinus Tachycardia
+E00673,Sinus Rhythm
+E00674,Sinus Rhythm
+E00675,Sinus Tachycardia
+E00679,Sinus Rhythm
+E00680,Sinus Bradycardia
+E00681,Sinus Bradycardia
+E00687,Sinus Bradycardia
+E00698,Sinus Rhythm
+E00699,Sinus Rhythm
+E00701,Sinus Rhythm
+E00702,Sinus Tachycardia
+E00703,Sinus Tachycardia
+E00704,Sinus Tachycardia
+E00705,Sinus Tachycardia
+E00706,Sinus Tachycardia
+E00710,Sinus Tachycardia
+E00713,Sinus Tachycardia
+E00714,Sinus Tachycardia
+E00715,Sinus Tachycardia
+E00716,Sinus Tachycardia
+E00717,Sinus Tachycardia
+E00725,Sinus Bradycardia
+E00727,"1st Degree AV block, Sinus Bradycardia"
+E00728,Sinus Bradycardia
+E00729,1st Degree AV block
+E00730,Sinus Bradycardia
+E00732,Sinus Tachycardia
+E00734,Sinus Bradycardia
+E00736,Sinus Rhythm
+E00737,Sinus Rhythm
+E00742,1st Degree AV block
+E00743,Sinus Bradycardia
+E00744,Sinus Tachycardia
+E00747,Sinus Rhythm
+E00748,Sinus Tachycardia
+E00750,Sinus Rhythm
+E00751,Sinus Rhythm
+E00754,Sinus Rhythm
+E00755,Sinus Rhythm
+E00757,Sinus Tachycardia
+E00759,Sinus Tachycardia
+E00762,Sinus Bradycardia
+E00763,1st Degree AV block
+E00764,Sinus Rhythm
+E00765,Sinus Rhythm
+E00766,Sinus Bradycardia
+E00768,Sinus Bradycardia
+E00769,Sinus Rhythm
+E00770,Sinus Rhythm
+E00771,Sinus Rhythm
+E00773,Sinus Rhythm
+E00775,Sinus Rhythm
+E00776,Sinus Tachycardia
+E00777,Sinus Bradycardia
+E00778,Sinus Tachycardia
+E00779,Sinus Rhythm
+E00780,Sinus Rhythm
+E00781,Sinus Rhythm
+E00784,Sinus Tachycardia
+E00785,1st Degree AV block
+E00786,Sinus Bradycardia
+E00787,Sinus Tachycardia
+E00788,Sinus Rhythm
+E00791,Sinus Tachycardia
+E00792,Sinus Tachycardia
+E00795,Sinus Rhythm
+E00797,Sinus Bradycardia
+E00798,Sinus Rhythm
+E00801,Sinus Bradycardia
+E00802,Sinus Rhythm
+E00804,Sinus Bradycardia
+E00805,Sinus Rhythm
+E00806,Sinus Bradycardia
+E00807,Sinus Rhythm
+E00808,Sinus Bradycardia
+E00809,Sinus Tachycardia
+E00810,1st Degree AV block
+E00811,Sinus Bradycardia
+E00812,Sinus Tachycardia
+E00813,Sinus Bradycardia
+E00816,Sinus Bradycardia
+E00817,1st Degree AV block
+E00818,Sinus Tachycardia
+E00820,Sinus Rhythm
+E00823,Sinus Rhythm
+E00824,Sinus Bradycardia
+E00825,Sinus Rhythm
+E00827,Sinus Rhythm
+E00828,Sinus Bradycardia
+E00832,"1st Degree AV block, Sinus Bradycardia"
+E00833,Sinus Rhythm
+E00834,Sinus Rhythm
+E00835,Sinus Rhythm
+E00836,Sinus Bradycardia
+E00838,Sinus Rhythm
+E00840,Sinus Bradycardia
+E00841,Sinus Rhythm
+E00842,Sinus Bradycardia
+E00845,Sinus Rhythm
+E00847,Sinus Bradycardia
+E00848,Sinus Bradycardia
+E00849,Sinus Tachycardia
+E00851,Sinus Rhythm
+E00853,1st Degree AV block
+E00855,Sinus Bradycardia
+E00856,Sinus Rhythm
+E00858,Sinus Bradycardia
+E00859,Sinus Bradycardia
+E00860,Sinus Rhythm
+E00861,Sinus Rhythm
+E00862,Sinus Rhythm
+E00866,1st Degree AV block
+E00867,Sinus Rhythm
+E00869,Sinus Rhythm
+E00870,Sinus Rhythm
+E00872,Sinus Rhythm
+E00874,Sinus Rhythm
+E00875,Sinus Bradycardia
+E00876,Sinus Bradycardia
+E00879,Sinus Rhythm
+E00880,Sinus Rhythm
+E00883,Sinus Rhythm
+E00886,"1st Degree AV block, Sinus Bradycardia"
+E00887,Sinus Rhythm
+E00889,Sinus Rhythm
+E00890,Sinus Rhythm
+E00891,Sinus Bradycardia
+E00893,Sinus Rhythm
+E00895,Sinus Rhythm
+E00896,Sinus Bradycardia
+E00897,Sinus Tachycardia
+E00899,Sinus Bradycardia
+E00902,"1st Degree AV block, Sinus Bradycardia"
+E00905,Sinus Rhythm
+E00906,Sinus Rhythm
+E00907,Sinus Bradycardia
+E00910,Sinus Bradycardia
+E00912,Sinus Rhythm
+E00913,Sinus Rhythm
+E00914,Sinus Rhythm
+E00915,Sinus Bradycardia
+E00917,Sinus Rhythm
+E00918,Sinus Rhythm
+E00920,Sinus Bradycardia
+E00921,Sinus Rhythm
+E00926,Sinus Bradycardia
+E00927,Sinus Rhythm
+E00930,Sinus Rhythm
+E00933,Sinus Rhythm
+E00935,Sinus Bradycardia
+E00938,Sinus Bradycardia
+E00939,Sinus Bradycardia
+E00941,Sinus Tachycardia
+E00944,Sinus Bradycardia
+E00945,Sinus Bradycardia
+E00946,Sinus Bradycardia
+E00947,Sinus Rhythm
+E00948,Sinus Rhythm
+E00950,Sinus Bradycardia
+E00951,Sinus Tachycardia
+E00952,Sinus Bradycardia
+E00953,Sinus Rhythm
+E00955,Sinus Rhythm
+E00956,Sinus Bradycardia
+E00958,Sinus Rhythm
+E00959,Sinus Tachycardia
+E00961,Sinus Rhythm
+E00962,Sinus Rhythm
+E00963,Sinus Bradycardia
+E00964,Sinus Bradycardia
+E00965,Sinus Tachycardia
+E00966,Sinus Bradycardia
+E00967,Sinus Rhythm
+E00969,Sinus Rhythm
+E00971,Sinus Bradycardia
+E00974,Sinus Tachycardia
+E00975,"1st Degree AV block, Sinus Bradycardia"
+E00977,Sinus Rhythm
+E00978,Sinus Bradycardia
+E00979,Sinus Rhythm
+E00981,Sinus Rhythm
+E00983,Sinus Bradycardia
+E00984,Sinus Rhythm
+E00986,Sinus Rhythm
+E00988,1st Degree AV block
+E00989,Sinus Rhythm
+E00991,Sinus Rhythm
+E00993,Sinus Bradycardia
+E00994,Sinus Bradycardia
+E00997,Sinus Rhythm
+E00998,Sinus Rhythm
+E00999,Sinus Rhythm
+E09000,Sinus Bradycardia
+E09002,Sinus Rhythm
+E09003,Sinus Rhythm
+E09004,Sinus Rhythm
+E09009,Sinus Rhythm
+E09010,Sinus Bradycardia
+E09011,Sinus Tachycardia
+E09014,Sinus Bradycardia
+E09017,Sinus Bradycardia
+E09020,Sinus Rhythm
+E09026,1st Degree AV block
+E09027,Sinus Rhythm
+E09030,"1st Degree AV block, Sinus Bradycardia"
+E09032,Sinus Bradycardia
+E09033,Sinus Bradycardia
+E09035,Sinus Tachycardia
+E09036,Sinus Tachycardia
+E09037,Sinus Bradycardia
+E09038,Sinus Rhythm
+E09042,Sinus Rhythm
+E09043,Sinus Rhythm
+E09045,Sinus Bradycardia
+E09047,Sinus Bradycardia
+E09048,"1st Degree AV block, Sinus Bradycardia"
+E09051,Sinus Bradycardia
+E09053,Sinus Bradycardia
+E09061,Sinus Bradycardia
+E09065,Sinus Rhythm
+E09066,Sinus Bradycardia
+E09067,Sinus Bradycardia
+E09068,Sinus Bradycardia
+E09069,Sinus Rhythm
+E09070,1st Degree AV block
+E09071,Sinus Rhythm
+E09072,Sinus Bradycardia
+E09073,Sinus Bradycardia
+E09081,Sinus Rhythm
+E09086,Sinus Bradycardia
+E09087,1st Degree AV block
+E09088,Sinus Bradycardia
+E09092,Sinus Rhythm
+E09094,Sinus Rhythm
+E09095,Sinus Bradycardia
+E09096,Sinus Bradycardia
+E09098,Sinus Bradycardia
+E09100,"1st Degree AV block, Sinus Bradycardia"
+E09101,Sinus Rhythm
+E09103,Sinus Bradycardia
+E09106,Sinus Rhythm
+E09107,Sinus Bradycardia
+E09111,Sinus Rhythm
+E09113,"1st Degree AV block, Sinus Bradycardia"
+E09116,Sinus Rhythm
+E09117,Sinus Rhythm
+E09120,Sinus Bradycardia
+E09123,Sinus Rhythm
+E09125,Sinus Bradycardia
+E09130,Sinus Bradycardia
+E09134,1st Degree AV block
+E09135,Sinus Rhythm
+E09136,Sinus Rhythm
+E09138,Sinus Bradycardia
+E09141,Sinus Rhythm
+E09142,Sinus Bradycardia
+E09143,Sinus Bradycardia
+E09144,Sinus Bradycardia
+E09145,Sinus Rhythm
+E09146,Sinus Bradycardia
+E09147,Sinus Bradycardia
+E09151,Sinus Tachycardia
+E09152,Sinus Rhythm
+E09153,Sinus Bradycardia
+E09154,Sinus Bradycardia
+E09155,"1st Degree AV block, Sinus Bradycardia"
+E09156,Sinus Bradycardia
+E09160,"1st Degree AV block, Sinus Bradycardia"
+E09161,"Sinus Bradycardia, Myocardial infarction"
+E09162,Sinus Rhythm
+E09166,Sinus Rhythm
+E09167,Sinus Bradycardia
+E09169,Sinus Bradycardia
+E09170,Sinus Rhythm
+E09171,1st Degree AV block
+E09172,Sinus Rhythm
+E09174,Sinus Rhythm
+E09175,Sinus Rhythm
+E09177,Sinus Bradycardia
+E09180,Sinus Rhythm
+E09185,Sinus Bradycardia
+E09186,Sinus Bradycardia
+E09187,Sinus Bradycardia
+E09188,Sinus Rhythm
+E09189,Sinus Rhythm
+E09191,Sinus Bradycardia
+E09192,Sinus Rhythm
+E09196,Sinus Rhythm
+E09198,Sinus Bradycardia
+E09199,Sinus Bradycardia
+E09200,Sinus Bradycardia
+E09202,Sinus Bradycardia
+E09205,Sinus Rhythm
+E09206,Sinus Tachycardia
+E09207,Sinus Bradycardia
+E09211,Sinus Bradycardia
+E09212,Sinus Rhythm
+E09213,Sinus Tachycardia
+E09214,1st Degree AV block
+E09216,Sinus Bradycardia
+E09220,Sinus Tachycardia
+E09227,"Sinus Bradycardia, ST changes"
+E09241,Sinus Bradycardia
+E09242,Sinus Bradycardia
+E09243,1st Degree AV block
+E09246,Sinus Bradycardia
+E09248,Sinus Bradycardia
+E09249,Sinus Bradycardia
+E09250,Sinus Bradycardia
+E09252,1st Degree AV block
+E09253,Sinus Tachycardia
+E09254,Sinus Bradycardia
+E09256,Sinus Rhythm
+E09257,Sinus Rhythm
+E09260,Sinus Tachycardia
+E09261,Sinus Rhythm
+E09262,Sinus Rhythm
+E09265,"1st Degree AV block, Sinus Bradycardia"
+E09266,Sinus Bradycardia
+E09268,Sinus Bradycardia
+E09269,Sinus Bradycardia
+E09270,Sinus Bradycardia
+E09271,1st Degree AV block
+E09277,Sinus Rhythm
+E09278,"1st Degree AV block, Sinus Bradycardia"
+E09279,Sinus Rhythm
+E09281,Sinus Rhythm
+E09283,Sinus Bradycardia
+E09285,Sinus Tachycardia
+E09286,Sinus Tachycardia
+E09288,Sinus Tachycardia
+E09289,Sinus Tachycardia
+E09290,Sinus Tachycardia
+E09294,Sinus Bradycardia
+E09299,Sinus Tachycardia
+E09306,Sinus Tachycardia
+E09307,Sinus Tachycardia
+E09312,Sinus Tachycardia
+E09314,Sinus Rhythm
+E09315,"1st Degree AV block, Sinus Bradycardia"
+E09316,Sinus Rhythm
+E09318,Sinus Tachycardia
+E09320,Sinus Bradycardia
+E09321,Sinus Bradycardia
+E09323,"1st Degree AV block, Sinus Bradycardia"
+E09324,Sinus Tachycardia
+E09326,Sinus Tachycardia
+E09328,Sinus Bradycardia
+E09329,Sinus Tachycardia
+E09331,Sinus Tachycardia
+E09340,Sinus Bradycardia
+E09341,Sinus Tachycardia
+E09342,Sinus Tachycardia
+E09344,Sinus Bradycardia
+E09345,Sinus Bradycardia
+E09350,Sinus Tachycardia
+E09351,1st Degree AV block
+E09353,Sinus Tachycardia
+E09354,Sinus Rhythm
+E09359,Sinus Tachycardia
+E09360,Sinus Rhythm
+E09362,Sinus Tachycardia
+E09364,Sinus Bradycardia
+E09368,Sinus Tachycardia
+E09375,Sinus Bradycardia
+E09377,Sinus Bradycardia
+E09383,Sinus Bradycardia
+E09392,1st Degree AV block
+E09397,Sinus Bradycardia
+E09398,1st Degree AV block
+E09407,Sinus Bradycardia
+E09409,Sinus Tachycardia
+E09410,1st Degree AV block
+E09411,1st Degree AV block
+E09412,Sinus Bradycardia
+E09413,Sinus Bradycardia
+E09414,Sinus Bradycardia
+E09415,Sinus Bradycardia
+E09416,1st Degree AV block
+E09418,Sinus Bradycardia
+E09419,Sinus Bradycardia
+E09420,1st Degree AV block
+E09422,Sinus Tachycardia
+E09427,Sinus Bradycardia
+E09435,Sinus Tachycardia
+E09437,1st Degree AV block
+E09439,Sinus Bradycardia
+E09440,1st Degree AV block
+E09443,Sinus Tachycardia
+E09444,Sinus Tachycardia
+E09445,Sinus Tachycardia
+E09446,Sinus Tachycardia
+E09448,Sinus Tachycardia
+E09451,Sinus Tachycardia
+E09452,Sinus Tachycardia
+E09453,Sinus Bradycardia
+E09462,Sinus Tachycardia
+E09464,Sinus Tachycardia
+E09466,Sinus Bradycardia
+E09467,Sinus Bradycardia
+E09470,Sinus Tachycardia
+E09471,Sinus Bradycardia
+E09472,Sinus Bradycardia
+E09474,Sinus Bradycardia
+E09479,Sinus Tachycardia
+E09481,Sinus Bradycardia
+E09482,1st Degree AV block
+E09484,Sinus Bradycardia
+E09486,Sinus Tachycardia
+E09488,Sinus Bradycardia
+E09489,Sinus Bradycardia
+E09490,Sinus Bradycardia
+E09492,1st Degree AV block
+E09493,1st Degree AV block
+E09495,Sinus Bradycardia
+E09496,1st Degree AV block
+E09497,Sinus Bradycardia
+E09499,1st Degree AV block
+E09500,Sinus Rhythm
+E09501,Sinus Tachycardia
+E09502,Sinus Bradycardia
+E09503,1st Degree AV block
+E09505,Sinus Bradycardia
+E09506,Sinus Bradycardia
+E09507,Sinus Tachycardia
+E09508,1st Degree AV block
+E09510,1st Degree AV block
+E09512,Sinus Rhythm
+E09513,Sinus Tachycardia
+E09516,Sinus Tachycardia
+E09527,1st Degree AV block
+E09530,Sinus Tachycardia
+E09533,Sinus Tachycardia
+E09535,1st Degree AV block
+E09539,ST changes
+E09544,Sinus Tachycardia
+E09545,Sinus Tachycardia
+E09548,Sinus Tachycardia
+E09549,Sinus Tachycardia
+E09551,Sinus Rhythm
+E09552,Sinus Bradycardia
+E09563,Sinus Tachycardia
+E09564,1st Degree AV block
+E09573,Sinus Tachycardia
+E09580,1st Degree AV block
+E09583,Sinus Rhythm
+E09584,Sinus Tachycardia
+E09587,Sinus Bradycardia
+E09591,Sinus Tachycardia
+E09595,Sinus Bradycardia
+E09599,Sinus Tachycardia
+E09600,Sinus Bradycardia
+E09601,Sinus Bradycardia
+E09602,Sinus Rhythm
+E09604,Sinus Tachycardia
+E09607,"1st Degree AV block, Sinus Bradycardia"
+E09617,Sinus Tachycardia
+E09618,Sinus Tachycardia
+E09619,1st Degree AV block
+E09622,1st Degree AV block
+E09623,Sinus Bradycardia
+E09629,Sinus Bradycardia
+E09630,Sinus Bradycardia
+E09631,Sinus Bradycardia
+E09633,Sinus Bradycardia
+E09634,Sinus Rhythm
+E09635,Sinus Bradycardia
+E09637,Sinus Rhythm
+E09638,Sinus Bradycardia
+E09642,Sinus Bradycardia
+E09649,Sinus Bradycardia
+E09654,Sinus Bradycardia
+E09659,Sinus Bradycardia
+E09662,Sinus Bradycardia
+E09663,Sinus Rhythm
+E09664,Sinus Bradycardia
+E09666,Sinus Rhythm
+E09667,Sinus Bradycardia
+E09673,Sinus Bradycardia
+E09675,Sinus Bradycardia
+E09676,Sinus Bradycardia
+E09679,Sinus Bradycardia
+E09680,Sinus Bradycardia
+E09681,Sinus Bradycardia
+E09684,Sinus Tachycardia
+E09685,Sinus Bradycardia
+E09688,Sinus Bradycardia
+E09689,Sinus Bradycardia
+E09691,Sinus Tachycardia
+E09697,1st Degree AV block
+E09698,1st Degree AV block
+E09700,Sinus Bradycardia
+E09708,Sinus Tachycardia
+E09709,Sinus Bradycardia
+E09710,Sinus Tachycardia
+E09719,Sinus Tachycardia
+E09723,Sinus Tachycardia
+E09724,Sinus Tachycardia
+E09729,Sinus Tachycardia
+E09731,Sinus Bradycardia
+E09732,Sinus Bradycardia
+E09733,ST changes
+E09738,Sinus Tachycardia
+E09740,"1st Degree AV block, Sinus Bradycardia"
+E09742,Sinus Tachycardia
+E09743,Sinus Bradycardia
+E09748,1st Degree AV block
+E09755,Sinus Tachycardia
+E09759,Sinus Bradycardia
+E09763,Sinus Tachycardia
+E09765,"1st Degree AV block, Sinus Bradycardia"
+E09769,1st Degree AV block
+E09771,Sinus Bradycardia
+E09772,Sinus Tachycardia
+E09773,"1st Degree AV block, Sinus Tachycardia"
+E09774,Sinus Bradycardia
+E09777,Sinus Tachycardia
+E09778,Sinus Bradycardia
+E09779,Sinus Tachycardia
+E09780,Sinus Tachycardia
+E09781,"1st Degree AV block, Sinus Bradycardia"
+E09782,Sinus Tachycardia
+E09785,Sinus Bradycardia
+E09787,Sinus Tachycardia
+E09791,"1st Degree AV block, Sinus Bradycardia"
+E09792,1st Degree AV block
+E09793,Sinus Tachycardia
+E09796,1st Degree AV block
+E09797,Sinus Bradycardia
+E09798,Sinus Tachycardia
+E09802,Sinus Tachycardia
+E09803,"1st Degree AV block, Sinus Bradycardia"
+E09804,Sinus Tachycardia
+E09807,1st Degree AV block
+E09808,Sinus Tachycardia
+E09813,Sinus Tachycardia
+E09814,Sinus Tachycardia
+E09816,Sinus Bradycardia
+E09817,Sinus Tachycardia
+E09818,Sinus Tachycardia
+E09819,Sinus Tachycardia
+E09820,Sinus Tachycardia
+E09823,Sinus Tachycardia
+E09828,Sinus Bradycardia
+E09834,Sinus Bradycardia
+E09839,Sinus Bradycardia
+E09842,Sinus Bradycardia
+E09843,1st Degree AV block
+E09850,1st Degree AV block
+E09852,Sinus Bradycardia
+E09858,Sinus Bradycardia
+E09859,Sinus Tachycardia
+E09864,Sinus Tachycardia
+E09866,Sinus Tachycardia
+E09867,Sinus Tachycardia
+E09871,Sinus Bradycardia
+E09875,"1st Degree AV block, Sinus Bradycardia"
+E09877,Sinus Bradycardia
+E09879,Sinus Rhythm
+E09882,Sinus Tachycardia
+E09883,"1st Degree AV block, Sinus Bradycardia"
+E09885,Sinus Rhythm
+E09888,Sinus Bradycardia
+E09889,Sinus Bradycardia
+E09890,Sinus Bradycardia
+E09891,Sinus Rhythm
+E09892,Sinus Rhythm
+E09894,Sinus Tachycardia
+E09896,Sinus Tachycardia
+E09898,Sinus Rhythm
+E09900,Sinus Rhythm
+E09901,1st Degree AV block
+E09902,1st Degree AV block
+E09904,Sinus Rhythm
+E09907,Sinus Rhythm
+E09908,Sinus Rhythm
+E09909,Sinus Bradycardia
+E09910,Sinus Bradycardia
+E09911,Sinus Rhythm
+E09912,Sinus Rhythm
+E09913,Sinus Bradycardia
+E09915,Sinus Bradycardia
+E09916,Sinus Bradycardia
+E09917,"1st Degree AV block, Sinus Bradycardia"
+E09918,Sinus Rhythm
+E09919,"1st Degree AV block, Sinus Bradycardia"
+E09920,Sinus Tachycardia
+E09922,Sinus Bradycardia
+E09923,Sinus Rhythm
+E09924,Sinus Rhythm
+E09927,Sinus Rhythm
+E09928,Sinus Bradycardia
+E09930,"1st Degree AV block, Sinus Tachycardia"
+E09931,Sinus Rhythm
+E09932,1st Degree AV block
+E09936,1st Degree AV block
+E09937,Sinus Rhythm
+E09938,Sinus Bradycardia
+E09939,Sinus Rhythm
+E09940,Sinus Bradycardia
+E09941,Sinus Rhythm
+E09942,Sinus Bradycardia
+E09944,Sinus Bradycardia
+E09947,Sinus Rhythm
+E09949,Sinus Bradycardia
+E09951,Sinus Rhythm
+E09953,Sinus Rhythm
+E09954,1st Degree AV block
+E09955,Sinus Rhythm
+E09956,Sinus Bradycardia
+E09957,Sinus Rhythm
+E09961,Sinus Rhythm
+E09962,Sinus Bradycardia
+E09963,Sinus Tachycardia
+E09964,Sinus Bradycardia
+E09965,Sinus Rhythm
+E09967,Sinus Rhythm
+E09968,Sinus Bradycardia
+E09969,Sinus Rhythm
+E09970,Sinus Rhythm
+E09971,"1st Degree AV block, Sinus Bradycardia"
+E09972,Sinus Rhythm
+E09974,1st Degree AV block
+E09975,Sinus Rhythm
+E09976,Sinus Rhythm
+E09977,Sinus Bradycardia
+E09979,Sinus Rhythm
+E09980,Sinus Rhythm
+E09982,Sinus Bradycardia
+E09983,Sinus Rhythm
+E09984,Sinus Rhythm
+E09987,"1st Degree AV block, Sinus Bradycardia"
+E09988,Sinus Rhythm
+E09990,Sinus Bradycardia
+E09991,Sinus Rhythm
+E09992,Sinus Rhythm
+E09994,Sinus Bradycardia
+E09995,Sinus Rhythm
+E10000,Sinus Rhythm
+E10001,Sinus Rhythm
+E10002,Sinus Rhythm
+E10003,Sinus Bradycardia
+E10005,Sinus Rhythm
+E10006,Sinus Rhythm
+E10008,Sinus Rhythm
+E10009,Sinus Rhythm
+E10010,Sinus Rhythm
+E10011,Sinus Bradycardia
+E10012,Sinus Bradycardia
+E10013,1st Degree AV block
+E10014,Sinus Bradycardia
+E10017,Sinus Rhythm
+E10020,Sinus Rhythm
+E10023,Sinus Rhythm
+E10024,Sinus Bradycardia
+E10025,Sinus Bradycardia
+E10026,Sinus Rhythm
+E10027,Sinus Rhythm
+E10028,Sinus Tachycardia
+E10030,Sinus Bradycardia
+E10031,Sinus Bradycardia
+E10032,1st Degree AV block
+E10033,1st Degree AV block
+E10034,Sinus Bradycardia
+E10036,Sinus Bradycardia
+E10038,Sinus Bradycardia
+E10040,Sinus Bradycardia
+E10042,Sinus Rhythm
+E10043,Sinus Rhythm
+E10047,Sinus Rhythm
+E10048,Sinus Rhythm
+E10049,Sinus Rhythm
+E10050,Sinus Rhythm
+E10051,Sinus Rhythm
+E10052,Sinus Bradycardia
+E10053,Sinus Rhythm
+E10055,Sinus Rhythm
+E10056,"1st Degree AV block, Sinus Bradycardia"
+E10058,Sinus Rhythm
+E10059,Sinus Bradycardia
+E10060,Sinus Tachycardia
+E10061,Sinus Rhythm
+E10062,Sinus Bradycardia
+E10064,Sinus Rhythm
+E10065,Sinus Rhythm
+E10066,Sinus Rhythm
+E10069,Sinus Rhythm
+E10073,Sinus Rhythm
+E10076,Sinus Bradycardia
+E10077,Sinus Bradycardia
+E10081,Sinus Bradycardia
+E10084,Sinus Bradycardia
+E10086,Sinus Tachycardia
+E10087,Sinus Tachycardia
+E10088,Sinus Tachycardia
+E10089,Sinus Tachycardia
+E10090,Sinus Rhythm
+E10092,"1st Degree AV block, Sinus Tachycardia"
+E10093,1st Degree AV block
+E10094,1st Degree AV block
+E10098,Sinus Rhythm
+E10099,Sinus Tachycardia
+E10101,Sinus Rhythm
+E10105,Sinus Tachycardia
+E10106,Sinus Bradycardia
+E10111,Sinus Bradycardia
+E10112,Sinus Bradycardia
+E10114,Sinus Bradycardia
+E10116,Sinus Bradycardia
+E10120,"1st Degree AV block, Sinus Tachycardia"
+E10122,Sinus Tachycardia
+E10129,Sinus Tachycardia
+E10130,Sinus Tachycardia
+E10131,Sinus Tachycardia
+E10132,Sinus Tachycardia
+E10133,Sinus Rhythm
+E10134,Sinus Rhythm
+E10136,Sinus Tachycardia
+E10141,Sinus Bradycardia
+E10142,Sinus Rhythm
+E10144,Sinus Rhythm
+E10145,1st Degree AV block
+E10148,Sinus Rhythm
+E10151,Sinus Bradycardia
+E10153,Sinus Tachycardia
+E10154,"1st Degree AV block, Sinus Bradycardia"
+E10156,Sinus Rhythm
+E10158,Sinus Rhythm
+E10160,Sinus Rhythm
+E10161,Sinus Bradycardia
+E10162,Sinus Rhythm
+E10163,Sinus Rhythm
+E10166,Sinus Tachycardia
+E10167,1st Degree AV block
+E10168,Sinus Tachycardia
+E10169,Sinus Tachycardia
+E10170,Sinus Rhythm
+E10171,Sinus Rhythm
+E10172,1st Degree AV block
+E10174,Sinus Tachycardia
+E10175,Sinus Tachycardia
+E10176,Sinus Tachycardia
+E10178,Sinus Rhythm
+E10179,Sinus Rhythm
+E10180,Sinus Rhythm
+E10181,Sinus Tachycardia
+E10186,Sinus Rhythm
+E10188,Sinus Bradycardia
+E10190,Myocardial infarction
+E10194,Sinus Bradycardia
+E10195,Sinus Rhythm
+E10196,Sinus Rhythm
+E10197,1st Degree AV block
+E10201,Sinus Tachycardia
+E10204,Sinus Tachycardia
+E10207,1st Degree AV block
+E10208,Sinus Rhythm
+E10209,Sinus Rhythm
+E10211,Sinus Rhythm
+E10214,1st Degree AV block
+E10215,Sinus Rhythm
+E10216,Sinus Bradycardia
+E10217,Sinus Rhythm
+E10218,Sinus Tachycardia
+E10222,Sinus Tachycardia
+E10223,Sinus Tachycardia
+E10225,Sinus Bradycardia
+E10226,Sinus Tachycardia
+E10228,"1st Degree AV block, Sinus Bradycardia"
+E10229,Sinus Rhythm
+E10230,1st Degree AV block
+E10232,"1st Degree AV block, Sinus Bradycardia"
+E10235,"1st Degree AV block, Sinus Bradycardia"
+E10236,Sinus Tachycardia
+E10238,"1st Degree AV block, Sinus Bradycardia"
+E10240,"1st Degree AV block, Sinus Bradycardia"
+E10243,Sinus Rhythm
+E10244,Sinus Bradycardia
+E10245,Sinus Bradycardia
+E10246,Sinus Rhythm
+E10247,Sinus Rhythm
+E10248,Sinus Bradycardia
+E10249,Sinus Bradycardia
+E10252,1st Degree AV block
+E10253,Sinus Rhythm
+E10254,Sinus Rhythm
+E10255,Sinus Rhythm
+E10259,Sinus Bradycardia
+E10260,Sinus Rhythm
+E10261,Sinus Rhythm
+E10264,Sinus Rhythm
+E10265,Sinus Rhythm
+E10266,Sinus Tachycardia
+E10267,"1st Degree AV block, Sinus Bradycardia"
+E10268,Sinus Rhythm
+E10271,Sinus Tachycardia
+E10272,Sinus Rhythm
+E10274,Sinus Rhythm
+E10277,Sinus Tachycardia
+E10279,Sinus Tachycardia
+E10280,Sinus Tachycardia
+E10281,Sinus Bradycardia
+E10282,Sinus Tachycardia
+E10283,Sinus Rhythm
+E10285,Sinus Tachycardia
+E10286,Sinus Bradycardia
+E10292,Sinus Tachycardia
+E10294,Sinus Bradycardia
+E10295,Sinus Bradycardia
+E10299,"1st Degree AV block, Sinus Bradycardia"
+E10302,Sinus Tachycardia
+E10304,Sinus Bradycardia
+E10306,"1st Degree AV block, Sinus Bradycardia"
+E10311,"1st Degree AV block, Sinus Bradycardia"
+E10317,Sinus Bradycardia
+E10318,Sinus Bradycardia
+E10320,1st Degree AV block
+E10321,Sinus Tachycardia
+E10322,1st Degree AV block
+E10327,Sinus Bradycardia
+E10331,Sinus Rhythm
+E10332,Sinus Rhythm
+E10333,Sinus Rhythm
+E10334,Sinus Bradycardia
+E10337,Sinus Rhythm
+E10338,Sinus Bradycardia
+E10340,Sinus Bradycardia
+E10341,Sinus Bradycardia
+E10342,Sinus Bradycardia
+E10343,Sinus Bradycardia
+E10344,Sinus Rhythm
+E01000,Sinus Rhythm
+E01001,Sinus Rhythm
+E01002,Sinus Bradycardia
+E01003,Sinus Rhythm
+E01005,1st Degree AV block
+E01009,Sinus Rhythm
+E01010,Sinus Rhythm
+E01013,Sinus Tachycardia
+E01014,Sinus Bradycardia
+E01015,Sinus Bradycardia
+E01017,Sinus Bradycardia
+E01018,Sinus Rhythm
+E01020,"1st Degree AV block, Sinus Bradycardia"
+E01022,Sinus Rhythm
+E01023,Sinus Rhythm
+E01025,Sinus Rhythm
+E01026,Sinus Tachycardia
+E01028,"1st Degree AV block, Sinus Bradycardia"
+E01029,Sinus Rhythm
+E01030,Sinus Bradycardia
+E01031,Sinus Bradycardia
+E01033,Sinus Rhythm
+E01036,"1st Degree AV block, Sinus Bradycardia"
+E01037,Sinus Rhythm
+E01038,Sinus Bradycardia
+E01039,Sinus Rhythm
+E01040,Sinus Bradycardia
+E01041,Sinus Bradycardia
+E01042,Sinus Rhythm
+E01043,Sinus Bradycardia
+E01044,"1st Degree AV block, Sinus Bradycardia"
+E01045,Sinus Rhythm
+E01053,Sinus Rhythm
+E01055,Sinus Rhythm
+E01059,Sinus Bradycardia
+E01060,Sinus Rhythm
+E01062,Sinus Rhythm
+E01064,Sinus Rhythm
+E01065,Sinus Rhythm
+E01066,Sinus Bradycardia
+E01068,Sinus Rhythm
+E01069,Sinus Bradycardia
+E01070,Sinus Rhythm
+E01071,Sinus Rhythm
+E01072,Sinus Rhythm
+E01073,Sinus Rhythm
+E01074,Sinus Tachycardia
+E01075,"1st Degree AV block, Sinus Bradycardia"
+E01076,1st Degree AV block
+E01079,"1st Degree AV block, Sinus Bradycardia"
+E01080,Sinus Rhythm
+E01081,Sinus Rhythm
+E01082,Sinus Rhythm
+E01086,Sinus Tachycardia
+E01091,Sinus Rhythm
+E01099,1st Degree AV block
+E01101,Sinus Rhythm
+E01103,Sinus Rhythm
+E01104,Sinus Tachycardia
+E01106,1st Degree AV block
+E01108,Sinus Tachycardia
+E01109,Sinus Bradycardia
+E01110,Sinus Tachycardia
+E01112,Sinus Rhythm
+E01122,Sinus Bradycardia
+E01125,Sinus Rhythm
+E01126,Sinus Rhythm
+E01128,Sinus Bradycardia
+E01130,Sinus Tachycardia
+E01131,Sinus Bradycardia
+E01132,Sinus Tachycardia
+E01133,Sinus Tachycardia
+E01134,Sinus Tachycardia
+E01137,Sinus Bradycardia
+E01138,"1st Degree AV block, Sinus Tachycardia"
+E01141,Sinus Rhythm
+E01142,Sinus Rhythm
+E01145,Sinus Bradycardia
+E01150,Sinus Rhythm
+E01151,Sinus Rhythm
+E01152,Sinus Tachycardia
+E01154,Sinus Rhythm
+E01155,Sinus Bradycardia
+E01156,Sinus Rhythm
+E01157,Sinus Rhythm
+E01159,Sinus Tachycardia
+E01160,Sinus Tachycardia
+E01161,Sinus Rhythm
+E01163,Sinus Tachycardia
+E01165,Sinus Tachycardia
+E01168,Sinus Rhythm
+E01171,Sinus Bradycardia
+E01172,Sinus Bradycardia
+E01173,Sinus Tachycardia
+E01175,Sinus Rhythm
+E01176,Sinus Tachycardia
+E01177,Sinus Tachycardia
+E01178,Sinus Tachycardia
+E01179,Sinus Tachycardia
+E01181,Sinus Bradycardia
+E01182,Sinus Tachycardia
+E01183,Sinus Tachycardia
+E01190,Sinus Rhythm
+E01191,Sinus Rhythm
+E01196,Sinus Rhythm
+E01199,Sinus Rhythm
+E01204,Sinus Tachycardia
+E01205,"1st Degree AV block, Sinus Bradycardia"
+E01206,Sinus Tachycardia
+E01215,Sinus Tachycardia
+E01218,Sinus Tachycardia
+E01222,Sinus Rhythm
+E01223,Sinus Tachycardia
+E01226,Sinus Rhythm
+E01227,Sinus Rhythm
+E01230,Sinus Rhythm
+E01232,Sinus Rhythm
+E01233,Sinus Bradycardia
+E01234,Sinus Bradycardia
+E01235,Sinus Rhythm
+E01236,Sinus Tachycardia
+E01240,Sinus Rhythm
+E01245,Sinus Bradycardia
+E01246,Sinus Bradycardia
+E01248,Sinus Bradycardia
+E01249,Sinus Tachycardia
+E01257,Sinus Tachycardia
+E01258,Sinus Rhythm
+E01259,Sinus Bradycardia
+E01263,Sinus Rhythm
+E01264,1st Degree AV block
+E01266,Sinus Bradycardia
+E01268,Sinus Tachycardia
+E01269,Sinus Tachycardia
+E01270,Sinus Tachycardia
+E01274,Sinus Tachycardia
+E01281,Sinus Rhythm
+E01282,Sinus Tachycardia
+E01283,Sinus Bradycardia
+E01284,Sinus Rhythm
+E01285,Sinus Tachycardia
+E01286,Sinus Tachycardia
+E01287,Sinus Tachycardia
+E01288,"1st Degree AV block, Sinus Bradycardia"
+E01289,Sinus Tachycardia
+E01290,Sinus Tachycardia
+E01291,Sinus Tachycardia
+E01296,Sinus Rhythm
+E01302,"1st Degree AV block, Sinus Bradycardia"
+E01303,Sinus Tachycardia
+E01310,Sinus Tachycardia
+E01312,Sinus Tachycardia
+E01313,Sinus Tachycardia
+E01314,Sinus Rhythm
+E01316,Sinus Bradycardia
+E01319,Sinus Tachycardia
+E01323,1st Degree AV block
+E01324,Sinus Tachycardia
+E01326,1st Degree AV block
+E01329,Sinus Tachycardia
+E01333,Sinus Tachycardia
+E01334,1st Degree AV block
+E01336,1st Degree AV block
+E01340,Sinus Tachycardia
+E01341,Sinus Tachycardia
+E01343,Sinus Rhythm
+E01344,1st Degree AV block
+E01347,Sinus Bradycardia
+E01348,Sinus Rhythm
+E01352,Sinus Tachycardia
+E01353,Sinus Tachycardia
+E01354,Sinus Bradycardia
+E01355,Sinus Rhythm
+E01356,1st Degree AV block
+E01358,Sinus Tachycardia
+E01359,Sinus Tachycardia
+E01361,Sinus Tachycardia
+E01368,Sinus Tachycardia
+E01369,Sinus Tachycardia
+E01370,Sinus Tachycardia
+E01371,Sinus Bradycardia
+E01372,Sinus Rhythm
+E01373,Sinus Rhythm
+E01374,Sinus Tachycardia
+E01376,Sinus Rhythm
+E01377,Sinus Tachycardia
+E01378,Sinus Tachycardia
+E01380,Sinus Bradycardia
+E01381,Sinus Bradycardia
+E01384,Sinus Tachycardia
+E01387,Sinus Tachycardia
+E01391,Sinus Rhythm
+E01394,1st Degree AV block
+E01395,1st Degree AV block
+E01401,Sinus Tachycardia
+E01402,Sinus Tachycardia
+E01405,1st Degree AV block
+E01407,Sinus Rhythm
+E01408,Sinus Bradycardia
+E01410,Sinus Rhythm
+E01412,Sinus Rhythm
+E01413,Sinus Rhythm
+E01415,1st Degree AV block
+E01416,Sinus Bradycardia
+E01417,Sinus Tachycardia
+E01418,Sinus Tachycardia
+E01419,"1st Degree AV block, Sinus Tachycardia"
+E01421,Sinus Bradycardia
+E01422,Sinus Rhythm
+E01423,Sinus Tachycardia
+E01424,Sinus Tachycardia
+E01428,Sinus Bradycardia
+E01429,Sinus Rhythm
+E01430,Sinus Bradycardia
+E01432,Sinus Tachycardia
+E01438,"1st Degree AV block, Sinus Tachycardia"
+E01439,Sinus Rhythm
+E01440,Sinus Rhythm
+E01442,Sinus Tachycardia
+E01445,1st Degree AV block
+E01449,Sinus Rhythm
+E01451,Sinus Tachycardia
+E01456,Sinus Rhythm
+E01458,Sinus Rhythm
+E01460,Sinus Rhythm
+E01461,Sinus Rhythm
+E01462,Sinus Tachycardia
+E01464,Sinus Tachycardia
+E01465,Sinus Tachycardia
+E01467,Sinus Tachycardia
+E01468,Sinus Rhythm
+E01469,Sinus Rhythm
+E01471,Sinus Rhythm
+E01473,Sinus Tachycardia
+E01474,Sinus Rhythm
+E01476,Sinus Bradycardia
+E01477,Sinus Bradycardia
+E01479,Sinus Rhythm
+E01481,Sinus Bradycardia
+E01483,Sinus Rhythm
+E01484,Sinus Rhythm
+E01485,Sinus Rhythm
+E01486,"1st Degree AV block, Sinus Bradycardia"
+E01493,Sinus Tachycardia
+E01494,Sinus Tachycardia
+E01496,Sinus Bradycardia
+E01497,Sinus Tachycardia
+E01498,Sinus Tachycardia
+E01501,Sinus Tachycardia
+E01502,Sinus Bradycardia
+E01506,Sinus Rhythm
+E01507,Sinus Tachycardia
+E01508,Sinus Tachycardia
+E01509,1st Degree AV block
+E01510,Sinus Tachycardia
+E01513,Sinus Tachycardia
+E01514,Sinus Tachycardia
+E01515,Sinus Tachycardia
+E01518,Sinus Rhythm
+E01522,Sinus Tachycardia
+E01523,Sinus Rhythm
+E01526,Sinus Tachycardia
+E01527,Sinus Rhythm
+E01530,Sinus Bradycardia
+E01531,Sinus Rhythm
+E01534,Sinus Tachycardia
+E01543,Sinus Tachycardia
+E01544,Sinus Tachycardia
+E01545,Sinus Tachycardia
+E01547,1st Degree AV block
+E01548,1st Degree AV block
+E01550,Sinus Tachycardia
+E01553,1st Degree AV block
+E01555,Sinus Tachycardia
+E01558,1st Degree AV block
+E01559,1st Degree AV block
+E01560,1st Degree AV block
+E01561,Sinus Rhythm
+E01562,Sinus Rhythm
+E01563,Sinus Rhythm
+E01564,Sinus Tachycardia
+E01565,Sinus Rhythm
+E01566,Sinus Tachycardia
+E01567,Sinus Rhythm
+E01569,1st Degree AV block
+E01570,"1st Degree AV block, Sinus Bradycardia"
+E01573,Sinus Bradycardia
+E01574,Sinus Rhythm
+E01575,"1st Degree AV block, Sinus Bradycardia"
+E01577,"1st Degree AV block, Sinus Tachycardia"
+E01578,Sinus Tachycardia
+E01581,Sinus Tachycardia
+E01592,Sinus Rhythm
+E01594,Sinus Tachycardia
+E01597,Sinus Tachycardia
+E01602,Sinus Rhythm
+E01603,Sinus Tachycardia
+E01604,Sinus Bradycardia
+E01605,Sinus Tachycardia
+E01606,Sinus Tachycardia
+E01607,Sinus Bradycardia
+E01609,Sinus Tachycardia
+E01610,Sinus Rhythm
+E01611,Sinus Tachycardia
+E01612,Sinus Tachycardia
+E01617,Sinus Rhythm
+E01619,Sinus Tachycardia
+E01620,Sinus Tachycardia
+E01621,Sinus Tachycardia
+E01622,Sinus Tachycardia
+E01626,"1st Degree AV block, Sinus Bradycardia"
+E01627,Sinus Rhythm
+E01628,Sinus Tachycardia
+E01631,Sinus Tachycardia
+E01637,Sinus Rhythm
+E01638,Sinus Tachycardia
+E01641,Sinus Rhythm
+E01642,Sinus Rhythm
+E01643,1st Degree AV block
+E01645,Sinus Tachycardia
+E01647,1st Degree AV block
+E01648,Sinus Tachycardia
+E01654,1st Degree AV block
+E01656,Sinus Rhythm
+E01658,Sinus Rhythm
+E01659,"1st Degree AV block, Sinus Bradycardia"
+E01660,Sinus Rhythm
+E01661,1st Degree AV block
+E01662,"1st Degree AV block, Sinus Tachycardia"
+E01663,Sinus Bradycardia
+E01664,Sinus Rhythm
+E01665,1st Degree AV block
+E01667,Sinus Tachycardia
+E01672,Sinus Rhythm
+E01675,Sinus Rhythm
+E01677,Sinus Rhythm
+E01681,Sinus Bradycardia
+E01682,Sinus Tachycardia
+E01684,Sinus Tachycardia
+E01685,Sinus Tachycardia
+E01686,Sinus Tachycardia
+E01687,Sinus Rhythm
+E01695,Sinus Tachycardia
+E01696,Sinus Rhythm
+E01698,1st Degree AV block
+E01700,Sinus Tachycardia
+E01701,Sinus Tachycardia
+E01703,Sinus Tachycardia
+E01704,Sinus Tachycardia
+E01705,Sinus Tachycardia
+E01706,Sinus Tachycardia
+E01711,Sinus Rhythm
+E01714,Sinus Tachycardia
+E01715,Sinus Tachycardia
+E01718,Sinus Tachycardia
+E01719,Sinus Tachycardia
+E01720,Sinus Tachycardia
+E01721,Sinus Tachycardia
+E01723,Sinus Rhythm
+E01727,Sinus Tachycardia
+E01729,Sinus Tachycardia
+E01730,Sinus Rhythm
+E01731,Sinus Tachycardia
+E01732,Sinus Tachycardia
+E01733,Sinus Tachycardia
+E01734,Sinus Bradycardia
+E01739,Sinus Tachycardia
+E01740,Sinus Tachycardia
+E01741,Sinus Tachycardia
+E01744,Sinus Rhythm
+E01748,Sinus Rhythm
+E01749,Sinus Rhythm
+E01751,Sinus Rhythm
+E01752,Sinus Tachycardia
+E01755,Sinus Bradycardia
+E01758,Sinus Tachycardia
+E01759,Sinus Bradycardia
+E01760,1st Degree AV block
+E01761,1st Degree AV block
+E01762,1st Degree AV block
+E01763,Sinus Rhythm
+E01766,Sinus Rhythm
+E01771,1st Degree AV block
+E01772,1st Degree AV block
+E01774,Sinus Bradycardia
+E01777,Sinus Rhythm
+E01788,Sinus Tachycardia
+E01789,Sinus Bradycardia
+E01790,Sinus Tachycardia
+E01791,Sinus Tachycardia
+E01792,Sinus Rhythm
+E01794,Sinus Tachycardia
+E01796,"1st Degree AV block, Sinus Bradycardia"
+E01797,1st Degree AV block
+E01798,Sinus Tachycardia
+E01799,Sinus Rhythm
+E01800,Sinus Tachycardia
+E01802,Sinus Rhythm
+E01806,"1st Degree AV block, Sinus Tachycardia"
+E01808,Sinus Tachycardia
+E01809,Sinus Tachycardia
+E01810,Sinus Tachycardia
+E01811,Sinus Tachycardia
+E01812,Sinus Tachycardia
+E01813,1st Degree AV block
+E01814,1st Degree AV block
+E01816,1st Degree AV block
+E01817,Sinus Tachycardia
+E01818,Sinus Tachycardia
+E01820,1st Degree AV block
+E01821,1st Degree AV block
+E01823,Sinus Tachycardia
+E01825,Sinus Bradycardia
+E01828,Sinus Tachycardia
+E01829,Sinus Rhythm
+E01830,Sinus Rhythm
+E01831,Sinus Tachycardia
+E01832,Sinus Tachycardia
+E01833,1st Degree AV block
+E01835,Sinus Bradycardia
+E01839,Sinus Rhythm
+E01842,Sinus Rhythm
+E01844,Sinus Tachycardia
+E01845,Sinus Tachycardia
+E01846,Sinus Rhythm
+E01847,Sinus Rhythm
+E01850,Sinus Tachycardia
+E01851,Sinus Rhythm
+E01854,Sinus Tachycardia
+E01855,1st Degree AV block
+E01862,Sinus Tachycardia
+E01863,Sinus Tachycardia
+E01866,Sinus Bradycardia
+E01867,1st Degree AV block
+E01868,Sinus Tachycardia
+E01870,Sinus Tachycardia
+E01871,Sinus Tachycardia
+E01874,Sinus Tachycardia
+E01875,"1st Degree AV block, Sinus Bradycardia"
+E01876,Sinus Tachycardia
+E01877,Sinus Tachycardia
+E01878,1st Degree AV block
+E01879,Sinus Tachycardia
+E01880,Sinus Bradycardia
+E01881,Sinus Bradycardia
+E01883,Sinus Rhythm
+E01884,Sinus Rhythm
+E01888,Sinus Rhythm
+E01890,Sinus Rhythm
+E01893,Sinus Rhythm
+E01896,Sinus Bradycardia
+E01900,Sinus Bradycardia
+E01903,Sinus Rhythm
+E01910,Sinus Bradycardia
+E01912,Sinus Bradycardia
+E01913,1st Degree AV block
+E01917,Sinus Rhythm
+E01919,Sinus Bradycardia
+E01920,Sinus Rhythm
+E01922,Sinus Bradycardia
+E01926,Sinus Rhythm
+E01927,Sinus Bradycardia
+E01930,"1st Degree AV block, Sinus Bradycardia"
+E01933,Sinus Rhythm
+E01935,Sinus Rhythm
+E01936,Sinus Rhythm
+E01937,Sinus Rhythm
+E01944,1st Degree AV block
+E01946,Sinus Rhythm
+E01947,Sinus Rhythm
+E01951,Sinus Rhythm
+E01952,Sinus Bradycardia
+E01954,Sinus Bradycardia
+E01957,Sinus Tachycardia
+E01962,"1st Degree AV block, Sinus Bradycardia"
+E01964,Sinus Bradycardia
+E01968,"1st Degree AV block, Sinus Bradycardia"
+E01973,Sinus Bradycardia
+E01975,Sinus Tachycardia
+E01976,1st Degree AV block
+E01978,Sinus Tachycardia
+E01983,Sinus Rhythm
+E01988,Sinus Bradycardia
+E01989,Sinus Tachycardia
+E01990,Sinus Tachycardia
+E01991,Sinus Rhythm
+E01997,Sinus Tachycardia
+E01999,Sinus Rhythm
+E02001,Sinus Bradycardia
+E02002,Sinus Bradycardia
+E02008,1st Degree AV block
+E02011,1st Degree AV block
+E02013,Sinus Rhythm
+E02014,1st Degree AV block
+E02015,Sinus Rhythm
+E02016,1st Degree AV block
+E02017,Sinus Rhythm
+E02021,Sinus Bradycardia
+E02027,Sinus Bradycardia
+E02029,"1st Degree AV block, Sinus Bradycardia"
+E02035,Sinus Rhythm
+E02036,"1st Degree AV block, Sinus Bradycardia"
+E02042,Sinus Rhythm
+E02048,1st Degree AV block
+E02049,Sinus Rhythm
+E02051,Sinus Rhythm
+E02052,Sinus Tachycardia
+E02054,Sinus Bradycardia
+E02055,Sinus Rhythm
+E02064,Sinus Tachycardia
+E02065,Sinus Tachycardia
+E02066,Sinus Tachycardia
+E02068,Sinus Tachycardia
+E02070,Sinus Rhythm
+E02082,Sinus Bradycardia
+E02083,Sinus Tachycardia
+E02086,Sinus Tachycardia
+E02087,Sinus Rhythm
+E02088,Sinus Rhythm
+E02089,Sinus Bradycardia
+E02090,Sinus Tachycardia
+E02091,Sinus Tachycardia
+E02092,Sinus Rhythm
+E02093,1st Degree AV block
+E02094,Sinus Bradycardia
+E02095,1st Degree AV block
+E02098,Sinus Rhythm
+E02099,Sinus Rhythm
+E02100,Sinus Bradycardia
+E02101,Sinus Tachycardia
+E02102,Sinus Rhythm
+E02103,Sinus Tachycardia
+E02104,Sinus Tachycardia
+E02107,Sinus Tachycardia
+E02108,Sinus Tachycardia
+E02109,Sinus Bradycardia
+E02110,Sinus Rhythm
+E02111,Sinus Tachycardia
+E02112,Sinus Tachycardia
+E02113,Sinus Rhythm
+E02117,Sinus Tachycardia
+E02118,Sinus Tachycardia
+E02120,Sinus Tachycardia
+E02121,1st Degree AV block
+E02122,Sinus Bradycardia
+E02127,Sinus Rhythm
+E02128,Sinus Tachycardia
+E02130,Sinus Rhythm
+E02131,Sinus Bradycardia
+E02141,Sinus Rhythm
+E02143,Sinus Bradycardia
+E02144,Sinus Tachycardia
+E02146,Sinus Tachycardia
+E02147,Sinus Tachycardia
+E02148,Sinus Tachycardia
+E02149,Sinus Tachycardia
+E02151,Sinus Rhythm
+E02152,Sinus Bradycardia
+E02155,Sinus Rhythm
+E02158,Sinus Rhythm
+E02159,Sinus Rhythm
+E02160,Sinus Tachycardia
+E02161,Sinus Tachycardia
+E02162,Sinus Tachycardia
+E02164,Sinus Bradycardia
+E02168,1st Degree AV block
+E02169,1st Degree AV block
+E02170,Sinus Bradycardia
+E02173,Sinus Tachycardia
+E02177,Sinus Tachycardia
+E02179,Sinus Tachycardia
+E02181,Sinus Tachycardia
+E02186,Sinus Tachycardia
+E02187,Sinus Tachycardia
+E02188,Sinus Rhythm
+E02192,Sinus Tachycardia
+E02193,1st Degree AV block
+E02197,"1st Degree AV block, Sinus Tachycardia"
+E02202,Sinus Bradycardia
+E02205,Sinus Tachycardia
+E02207,Sinus Rhythm
+E02210,Sinus Tachycardia
+E02213,Sinus Tachycardia
+E02214,Sinus Tachycardia
+E02215,Sinus Tachycardia
+E02216,Sinus Tachycardia
+E02217,Sinus Tachycardia
+E02218,Sinus Tachycardia
+E02219,Sinus Tachycardia
+E02220,Sinus Rhythm
+E02225,Sinus Tachycardia
+E02226,Sinus Tachycardia
+E02227,Sinus Tachycardia
+E02228,Sinus Tachycardia
+E02229,Sinus Rhythm
+E02230,Sinus Rhythm
+E02231,Sinus Tachycardia
+E02233,Sinus Rhythm
+E02234,1st Degree AV block
+E02235,Sinus Bradycardia
+E02238,Sinus Bradycardia
+E02240,Sinus Rhythm
+E02241,Sinus Rhythm
+E02244,Sinus Rhythm
+E02249,Sinus Rhythm
+E02251,Sinus Tachycardia
+E02253,Sinus Rhythm
+E02257,Sinus Bradycardia
+E02259,Sinus Bradycardia
+E02260,Sinus Tachycardia
+E02264,Sinus Rhythm
+E02265,Sinus Tachycardia
+E02266,Sinus Tachycardia
+E02268,"1st Degree AV block, Sinus Bradycardia"
+E02270,Sinus Rhythm
+E02275,"1st Degree AV block, Sinus Bradycardia"
+E02277,1st Degree AV block
+E02281,Sinus Rhythm
+E02282,Sinus Tachycardia
+E02284,Sinus Bradycardia
+E02285,Sinus Bradycardia
+E02286,Sinus Rhythm
+E02287,Sinus Tachycardia
+E02290,Sinus Tachycardia
+E02291,Sinus Rhythm
+E02292,Sinus Rhythm
+E02293,Sinus Bradycardia
+E02299,Sinus Bradycardia
+E02300,Sinus Bradycardia
+E02301,Sinus Bradycardia
+E02304,Sinus Tachycardia
+E02306,Sinus Tachycardia
+E02307,Sinus Rhythm
+E02308,Sinus Rhythm
+E02309,Sinus Tachycardia
+E02316,Sinus Tachycardia
+E02318,Sinus Tachycardia
+E02319,Sinus Rhythm
+E02322,Sinus Tachycardia
+E02324,Sinus Rhythm
+E02326,Sinus Tachycardia
+E02330,Sinus Tachycardia
+E02331,Sinus Tachycardia
+E02333,Sinus Tachycardia
+E02334,Sinus Bradycardia
+E02335,Sinus Bradycardia
+E02337,Sinus Tachycardia
+E02338,Sinus Bradycardia
+E02342,Sinus Bradycardia
+E02343,Sinus Tachycardia
+E02347,Sinus Rhythm
+E02348,Sinus Rhythm
+E02349,Sinus Tachycardia
+E02350,Sinus Tachycardia
+E02352,Sinus Tachycardia
+E02356,Sinus Tachycardia
+E02359,Sinus Bradycardia
+E02361,Sinus Tachycardia
+E02363,Sinus Tachycardia
+E02365,Sinus Bradycardia
+E02366,Sinus Tachycardia
+E02367,Sinus Tachycardia
+E02369,Sinus Bradycardia
+E02370,Sinus Rhythm
+E02371,Sinus Rhythm
+E02375,Sinus Rhythm
+E02378,Sinus Bradycardia
+E02379,Sinus Rhythm
+E02380,Sinus Bradycardia
+E02381,Sinus Rhythm
+E02382,Sinus Rhythm
+E02384,Sinus Rhythm
+E02386,1st Degree AV block
+E02391,Sinus Rhythm
+E02397,1st Degree AV block
+E02398,1st Degree AV block
+E02399,Sinus Rhythm
+E02400,Sinus Rhythm
+E02405,Sinus Bradycardia
+E02406,Sinus Rhythm
+E02407,Sinus Rhythm
+E02412,Sinus Tachycardia
+E02414,Sinus Tachycardia
+E02415,Sinus Tachycardia
+E02416,Sinus Tachycardia
+E02417,Sinus Rhythm
+E02418,Sinus Rhythm
+E02421,Sinus Rhythm
+E02426,1st Degree AV block
+E02428,Sinus Bradycardia
+E02429,Sinus Rhythm
+E02431,1st Degree AV block
+E02436,Sinus Tachycardia
+E02438,Sinus Tachycardia
+E02442,"1st Degree AV block, Sinus Tachycardia"
+E02444,Sinus Tachycardia
+E02446,Sinus Rhythm
+E02449,Sinus Rhythm
+E02453,Sinus Tachycardia
+E02454,Sinus Tachycardia
+E02457,Sinus Tachycardia
+E02460,Sinus Bradycardia
+E02464,Sinus Tachycardia
+E02465,Sinus Rhythm
+E02467,Sinus Bradycardia
+E02468,Sinus Bradycardia
+E02469,Sinus Bradycardia
+E02470,Sinus Bradycardia
+E02473,1st Degree AV block
+E02474,1st Degree AV block
+E02475,1st Degree AV block
+E02476,Sinus Rhythm
+E02477,Sinus Tachycardia
+E02478,Sinus Rhythm
+E02479,Sinus Rhythm
+E02480,Sinus Tachycardia
+E02481,Sinus Rhythm
+E02483,Sinus Tachycardia
+E02486,Sinus Tachycardia
+E02487,Sinus Tachycardia
+E02489,1st Degree AV block
+E02490,1st Degree AV block
+E02491,1st Degree AV block
+E02493,Sinus Bradycardia
+E02495,Sinus Bradycardia
+E02498,Sinus Tachycardia
+E02499,Sinus Bradycardia
+E02502,Sinus Rhythm
+E02503,Sinus Tachycardia
+E02505,Sinus Rhythm
+E02506,Sinus Tachycardia
+E02507,Sinus Rhythm
+E02509,Sinus Rhythm
+E02510,Sinus Rhythm
+E02511,Sinus Rhythm
+E02512,Sinus Tachycardia
+E02513,1st Degree AV block
+E02514,Sinus Rhythm
+E02518,Sinus Rhythm
+E02519,Sinus Rhythm
+E02521,Sinus Tachycardia
+E02524,Sinus Bradycardia
+E02526,Sinus Rhythm
+E02529,1st Degree AV block
+E02532,Sinus Bradycardia
+E02534,Sinus Bradycardia
+E02535,Sinus Bradycardia
+E02537,Sinus Bradycardia
+E02539,Sinus Tachycardia
+E02541,Sinus Tachycardia
+E02542,Sinus Tachycardia
+E02548,1st Degree AV block
+E02549,Sinus Bradycardia
+E02550,Sinus Bradycardia
+E02551,Sinus Tachycardia
+E02552,Sinus Rhythm
+E02554,Sinus Rhythm
+E02556,Sinus Rhythm
+E02559,Sinus Bradycardia
+E02560,Sinus Rhythm
+E02562,Sinus Rhythm
+E02563,1st Degree AV block
+E02564,Sinus Tachycardia
+E02565,Sinus Rhythm
+E02566,Sinus Rhythm
+E02569,1st Degree AV block
+E02570,Sinus Tachycardia
+E02571,Sinus Bradycardia
+E02572,Sinus Rhythm
+E02575,Sinus Tachycardia
+E02576,Sinus Bradycardia
+E02582,1st Degree AV block
+E02584,Sinus Rhythm
+E02585,Sinus Rhythm
+E02586,Sinus Rhythm
+E02587,Sinus Tachycardia
+E02588,1st Degree AV block
+E02589,Sinus Tachycardia
+E02590,Sinus Tachycardia
+E02591,Sinus Tachycardia
+E02592,Sinus Rhythm
+E02594,Sinus Tachycardia
+E02595,Sinus Tachycardia
+E02597,Sinus Tachycardia
+E02598,Sinus Tachycardia
+E02601,Sinus Tachycardia
+E02602,Sinus Rhythm
+E02603,Sinus Tachycardia
+E02604,Sinus Tachycardia
+E02605,Sinus Rhythm
+E02606,Sinus Bradycardia
+E02608,Sinus Tachycardia
+E02611,Sinus Bradycardia
+E02612,Sinus Rhythm
+E02613,Sinus Bradycardia
+E02615,Sinus Rhythm
+E02619,Sinus Tachycardia
+E02620,Sinus Rhythm
+E02622,1st Degree AV block
+E02626,Sinus Tachycardia
+E02630,Sinus Tachycardia
+E02631,Sinus Tachycardia
+E02632,Sinus Tachycardia
+E02634,Sinus Rhythm
+E02636,"1st Degree AV block, Sinus Bradycardia"
+E02639,"1st Degree AV block, Sinus Bradycardia"
+E02640,Sinus Rhythm
+E02641,1st Degree AV block
+E02644,1st Degree AV block
+E02648,Sinus Rhythm
+E02649,Sinus Bradycardia
+E02650,Sinus Rhythm
+E02651,Sinus Rhythm
+E02655,1st Degree AV block
+E02662,"1st Degree AV block, Sinus Tachycardia"
+E02665,Sinus Tachycardia
+E02666,Sinus Tachycardia
+E02667,Sinus Tachycardia
+E02670,Sinus Rhythm
+E02671,Sinus Bradycardia
+E02674,Sinus Tachycardia
+E02676,Sinus Tachycardia
+E02677,Sinus Rhythm
+E02678,Sinus Rhythm
+E02685,Sinus Tachycardia
+E02686,Sinus Tachycardia
+E02690,Sinus Bradycardia
+E02691,Sinus Tachycardia
+E02695,Sinus Rhythm
+E02696,Sinus Rhythm
+E02697,Sinus Rhythm
+E02698,Sinus Tachycardia
+E02699,Sinus Bradycardia
+E02701,Sinus Tachycardia
+E02703,Sinus Tachycardia
+E02704,Sinus Tachycardia
+E02705,Sinus Bradycardia
+E02709,1st Degree AV block
+E02712,Sinus Bradycardia
+E02713,Sinus Tachycardia
+E02717,"1st Degree AV block, Sinus Bradycardia"
+E02719,Sinus Bradycardia
+E02721,Sinus Bradycardia
+E02722,Sinus Bradycardia
+E02723,1st Degree AV block
+E02729,Sinus Bradycardia
+E02732,Sinus Bradycardia
+E02733,Sinus Rhythm
+E02734,Sinus Tachycardia
+E02735,1st Degree AV block
+E02736,Sinus Bradycardia
+E02738,1st Degree AV block
+E02744,Sinus Rhythm
+E02746,Sinus Bradycardia
+E02748,Sinus Bradycardia
+E02749,Sinus Tachycardia
+E02750,Sinus Bradycardia
+E02751,1st Degree AV block
+E02752,1st Degree AV block
+E02756,Sinus Rhythm
+E02757,Sinus Bradycardia
+E02759,Sinus Rhythm
+E02761,Sinus Rhythm
+E02762,1st Degree AV block
+E02765,Sinus Tachycardia
+E02766,Sinus Tachycardia
+E02769,"1st Degree AV block, Sinus Bradycardia"
+E02771,Sinus Tachycardia
+E02772,Sinus Rhythm
+E02773,Sinus Tachycardia
+E02774,Sinus Tachycardia
+E02776,Sinus Tachycardia
+E02778,1st Degree AV block
+E02779,1st Degree AV block
+E02781,Sinus Bradycardia
+E02783,Sinus Bradycardia
+E02787,Sinus Rhythm
+E02788,1st Degree AV block
+E02789,1st Degree AV block
+E02791,Sinus Tachycardia
+E02792,Sinus Tachycardia
+E02793,Sinus Tachycardia
+E02797,Sinus Bradycardia
+E02799,Sinus Bradycardia
+E02800,Sinus Bradycardia
+E02806,Sinus Bradycardia
+E02808,Sinus Rhythm
+E02811,Sinus Tachycardia
+E02812,Sinus Tachycardia
+E02813,Sinus Tachycardia
+E02814,Sinus Tachycardia
+E02818,Sinus Rhythm
+E02819,Sinus Rhythm
+E02821,Sinus Tachycardia
+E02822,Sinus Tachycardia
+E02824,Sinus Bradycardia
+E02825,Sinus Rhythm
+E02827,Sinus Rhythm
+E02835,Sinus Rhythm
+E02837,Sinus Rhythm
+E02838,Sinus Rhythm
+E02839,Sinus Tachycardia
+E02840,Sinus Tachycardia
+E02842,Sinus Tachycardia
+E02848,1st Degree AV block
+E02850,Sinus Tachycardia
+E02852,Sinus Tachycardia
+E02856,Sinus Bradycardia
+E02857,Sinus Bradycardia
+E02858,Sinus Bradycardia
+E02865,Sinus Tachycardia
+E02868,Sinus Tachycardia
+E02869,Sinus Tachycardia
+E02870,Sinus Tachycardia
+E02872,Sinus Bradycardia
+E02875,Sinus Bradycardia
+E02879,Sinus Bradycardia
+E02881,Sinus Tachycardia
+E02885,Sinus Tachycardia
+E02886,Sinus Tachycardia
+E02887,Sinus Tachycardia
+E02888,Sinus Tachycardia
+E02889,Sinus Tachycardia
+E02890,Sinus Rhythm
+E02891,Sinus Rhythm
+E02894,Sinus Rhythm
+E02895,Sinus Bradycardia
+E02901,Sinus Tachycardia
+E02902,Sinus Tachycardia
+E02907,1st Degree AV block
+E02909,Sinus Bradycardia
+E02915,Sinus Tachycardia
+E02916,Sinus Tachycardia
+E02917,Sinus Tachycardia
+E02919,Sinus Tachycardia
+E02920,1st Degree AV block
+E02921,Sinus Rhythm
+E02922,Sinus Tachycardia
+E02923,Sinus Tachycardia
+E02924,1st Degree AV block
+E02925,Sinus Tachycardia
+E02928,Sinus Bradycardia
+E02930,"1st Degree AV block, Sinus Bradycardia"
+E02932,Sinus Tachycardia
+E02933,Sinus Tachycardia
+E02935,Sinus Bradycardia
+E02939,Sinus Bradycardia
+E02940,1st Degree AV block
+E02947,Sinus Bradycardia
+E02948,Sinus Bradycardia
+E02950,1st Degree AV block
+E02951,Sinus Rhythm
+E02956,Sinus Tachycardia
+E02957,Sinus Rhythm
+E02963,Sinus Rhythm
+E02964,Sinus Bradycardia
+E02969,Sinus Bradycardia
+E02972,"1st Degree AV block, Sinus Bradycardia"
+E02975,Sinus Rhythm
+E02979,Sinus Bradycardia
+E02986,Sinus Bradycardia
+E02987,Sinus Tachycardia
+E02988,"1st Degree AV block, Sinus Bradycardia"
+E02992,Sinus Bradycardia
+E02993,1st Degree AV block
+E02995,Sinus Bradycardia
+E02996,Sinus Bradycardia
+E02997,Sinus Bradycardia
+E03001,Sinus Bradycardia
+E03005,Sinus Rhythm
+E03007,Sinus Bradycardia
+E03013,Sinus Rhythm
+E03015,Sinus Bradycardia
+E03017,Sinus Rhythm
+E03018,1st Degree AV block
+E03019,Sinus Rhythm
+E03020,Sinus Rhythm
+E03022,Sinus Rhythm
+E03023,Sinus Bradycardia
+E03024,1st Degree AV block
+E03025,Sinus Bradycardia
+E03029,"1st Degree AV block, Sinus Bradycardia"
+E03032,Sinus Rhythm
+E03033,Sinus Rhythm
+E03035,Sinus Bradycardia
+E03037,1st Degree AV block
+E03038,Sinus Bradycardia
+E03044,Sinus Rhythm
+E03045,Sinus Rhythm
+E03046,Sinus Bradycardia
+E03047,Sinus Rhythm
+E03048,Sinus Bradycardia
+E03049,"1st Degree AV block, Sinus Bradycardia"
+E03051,Sinus Rhythm
+E03052,1st Degree AV block
+E03053,Sinus Bradycardia
+E03054,Sinus Bradycardia
+E03055,Sinus Rhythm
+E03056,Sinus Rhythm
+E03063,Sinus Tachycardia
+E03064,Sinus Bradycardia
+E03065,Sinus Rhythm
+E03068,"1st Degree AV block, Sinus Bradycardia"
+E03071,Sinus Rhythm
+E03073,Sinus Bradycardia
+E03077,Sinus Rhythm
+E03079,Sinus Bradycardia
+E03081,Sinus Bradycardia
+E03083,Sinus Bradycardia
+E03091,Sinus Rhythm
+E03092,Sinus Rhythm
+E03095,Sinus Rhythm
+E03097,1st Degree AV block
+E03099,Sinus Bradycardia
+E03100,Sinus Bradycardia
+E03103,Sinus Rhythm
+E03104,Sinus Rhythm
+E03105,Sinus Rhythm
+E03108,Sinus Bradycardia
+E03109,Sinus Rhythm
+E03111,Sinus Rhythm
+E03112,Sinus Rhythm
+E03114,Sinus Bradycardia
+E03115,Sinus Rhythm
+E03116,Sinus Bradycardia
+E03120,Sinus Tachycardia
+E03121,Sinus Bradycardia
+E03123,Sinus Tachycardia
+E03125,Sinus Rhythm
+E03126,Sinus Rhythm
+E03133,Sinus Bradycardia
+E03135,Sinus Rhythm
+E03136,Sinus Tachycardia
+E03138,Sinus Tachycardia
+E03139,Sinus Tachycardia
+E03140,Sinus Tachycardia
+E03141,Sinus Tachycardia
+E03142,Sinus Rhythm
+E03144,Sinus Bradycardia
+E03146,Sinus Rhythm
+E03147,1st Degree AV block
+E03151,Sinus Bradycardia
+E03153,Sinus Bradycardia
+E03155,Sinus Bradycardia
+E03156,Sinus Tachycardia
+E03157,Sinus Tachycardia
+E03158,Sinus Tachycardia
+E03160,Sinus Bradycardia
+E03162,Sinus Tachycardia
+E03163,Sinus Rhythm
+E03164,Sinus Bradycardia
+E03165,Sinus Tachycardia
+E03166,"1st Degree AV block, Sinus Bradycardia"
+E03173,Sinus Rhythm
+E03174,1st Degree AV block
+E03175,1st Degree AV block
+E03176,Sinus Rhythm
+E03177,Sinus Tachycardia
+E03180,1st Degree AV block
+E03183,Sinus Tachycardia
+E03186,Sinus Rhythm
+E03187,Sinus Tachycardia
+E03189,Sinus Bradycardia
+E03193,Sinus Rhythm
+E03195,"1st Degree AV block, Sinus Bradycardia"
+E03196,"1st Degree AV block, Sinus Bradycardia"
+E03198,Sinus Bradycardia
+E03199,Sinus Tachycardia
+E03203,Sinus Bradycardia
+E03207,Sinus Tachycardia
+E03208,Sinus Bradycardia
+E03211,Sinus Rhythm
+E03212,Sinus Bradycardia
+E03213,Sinus Rhythm
+E03218,Sinus Bradycardia
+E03220,Sinus Rhythm
+E03221,Sinus Tachycardia
+E03223,Sinus Tachycardia
+E03227,Sinus Bradycardia
+E03228,Sinus Tachycardia
+E03229,Sinus Tachycardia
+E03230,Sinus Rhythm
+E03232,Sinus Tachycardia
+E03233,Sinus Tachycardia
+E03236,Sinus Rhythm
+E03237,Sinus Rhythm
+E03239,Sinus Tachycardia
+E03240,Sinus Tachycardia
+E03241,Sinus Tachycardia
+E03242,Sinus Rhythm
+E03248,Sinus Bradycardia
+E03250,Sinus Rhythm
+E03251,Sinus Rhythm
+E03252,1st Degree AV block
+E03256,Sinus Tachycardia
+E03261,Sinus Rhythm
+E03262,Sinus Rhythm
+E03266,Sinus Tachycardia
+E03268,Sinus Bradycardia
+E03269,1st Degree AV block
+E03270,Sinus Bradycardia
+E03271,1st Degree AV block
+E03272,Sinus Tachycardia
+E03273,"1st Degree AV block, Sinus Bradycardia"
+E03275,1st Degree AV block
+E03276,Sinus Tachycardia
+E03278,Sinus Rhythm
+E03279,Sinus Bradycardia
+E03282,Sinus Tachycardia
+E03284,Sinus Tachycardia
+E03286,Sinus Rhythm
+E03287,Sinus Tachycardia
+E03288,Sinus Rhythm
+E03290,Sinus Rhythm
+E03291,Sinus Rhythm
+E03292,Sinus Bradycardia
+E03294,Sinus Rhythm
+E03297,Sinus Bradycardia
+E03303,1st Degree AV block
+E03304,Sinus Tachycardia
+E03307,Sinus Tachycardia
+E03308,Sinus Bradycardia
+E03309,Sinus Rhythm
+E03310,Sinus Rhythm
+E03311,"1st Degree AV block, Sinus Bradycardia"
+E03313,Sinus Bradycardia
+E03315,Sinus Rhythm
+E03316,Sinus Rhythm
+E03317,1st Degree AV block
+E03319,Sinus Rhythm
+E03320,1st Degree AV block
+E03321,Sinus Bradycardia
+E03324,Sinus Tachycardia
+E03325,Sinus Tachycardia
+E03326,1st Degree AV block
+E03327,Sinus Rhythm
+E03332,Sinus Rhythm
+E03333,Sinus Tachycardia
+E03334,Sinus Tachycardia
+E03336,Sinus Bradycardia
+E03337,Sinus Tachycardia
+E03338,Sinus Bradycardia
+E03339,Sinus Bradycardia
+E03342,Sinus Bradycardia
+E03343,Sinus Bradycardia
+E03344,Sinus Tachycardia
+E03346,Sinus Tachycardia
+E03349,Sinus Rhythm
+E03355,"1st Degree AV block, Sinus Tachycardia"
+E03358,Sinus Tachycardia
+E03359,Sinus Rhythm
+E03360,Sinus Rhythm
+E03363,Sinus Tachycardia
+E03364,Sinus Tachycardia
+E03365,Sinus Tachycardia
+E03367,1st Degree AV block
+E03373,Sinus Tachycardia
+E03376,Sinus Bradycardia
+E03381,Sinus Tachycardia
+E03383,Sinus Tachycardia
+E03385,"1st Degree AV block, Sinus Tachycardia"
+E03388,Sinus Tachycardia
+E03389,1st Degree AV block
+E03390,"1st Degree AV block, Sinus Bradycardia"
+E03393,1st Degree AV block
+E03396,Sinus Tachycardia
+E03398,Sinus Rhythm
+E03399,Sinus Rhythm
+E03400,1st Degree AV block
+E03402,Sinus Rhythm
+E03403,Sinus Tachycardia
+E03405,Sinus Tachycardia
+E03406,Sinus Tachycardia
+E03408,Sinus Tachycardia
+E03410,Sinus Tachycardia
+E03413,Sinus Bradycardia
+E03414,Sinus Bradycardia
+E03415,Sinus Rhythm
+E03416,Sinus Tachycardia
+E03418,"1st Degree AV block, Sinus Tachycardia"
+E03419,Sinus Tachycardia
+E03420,"1st Degree AV block, Sinus Bradycardia"
+E03421,Sinus Rhythm
+E03422,Sinus Rhythm
+E03427,Sinus Bradycardia
+E03429,Sinus Bradycardia
+E03430,Sinus Rhythm
+E03434,1st Degree AV block
+E03435,1st Degree AV block
+E03438,Sinus Tachycardia
+E03443,Sinus Bradycardia
+E03444,Sinus Rhythm
+E03447,Sinus Bradycardia
+E03448,Sinus Rhythm
+E03450,1st Degree AV block
+E03456,Sinus Bradycardia
+E03464,Sinus Rhythm
+E03468,Myocardial infarction
+E03469,1st Degree AV block
+E03471,"1st Degree AV block, Sinus Bradycardia"
+E03472,Sinus Bradycardia
+E03474,Sinus Tachycardia
+E03478,Sinus Rhythm
+E03480,1st Degree AV block
+E03483,Sinus Rhythm
+E03485,1st Degree AV block
+E03488,Sinus Bradycardia
+E03490,1st Degree AV block
+E03494,1st Degree AV block
+E03495,Sinus Rhythm
+E03498,Sinus Rhythm
+E03499,Sinus Tachycardia
+E03506,Sinus Bradycardia
+E03507,Sinus Tachycardia
+E03508,Sinus Rhythm
+E03509,"1st Degree AV block, Sinus Bradycardia"
+E03510,Sinus Tachycardia
+E03513,1st Degree AV block
+E03514,1st Degree AV block
+E03515,1st Degree AV block
+E03516,1st Degree AV block
+E03517,Sinus Rhythm
+E03519,Sinus Rhythm
+E03520,Sinus Rhythm
+E03525,Sinus Tachycardia
+E03526,Sinus Rhythm
+E03527,Sinus Rhythm
+E03528,Sinus Rhythm
+E03530,Sinus Tachycardia
+E03531,Sinus Rhythm
+E03533,Sinus Tachycardia
+E03534,Sinus Bradycardia
+E03537,Sinus Rhythm
+E03538,Sinus Rhythm
+E03541,Sinus Bradycardia
+E03543,Sinus Bradycardia
+E03544,Sinus Bradycardia
+E03546,Sinus Tachycardia
+E03547,Sinus Bradycardia
+E03550,Sinus Bradycardia
+E03552,Sinus Rhythm
+E03553,Sinus Bradycardia
+E03554,Sinus Bradycardia
+E03556,Sinus Tachycardia
+E03557,Sinus Tachycardia
+E03559,Sinus Rhythm
+E03560,Sinus Rhythm
+E03561,Sinus Bradycardia
+E03567,Sinus Tachycardia
+E03568,Sinus Tachycardia
+E03569,Sinus Rhythm
+E03570,Sinus Bradycardia
+E03571,Sinus Rhythm
+E03573,Sinus Tachycardia
+E03579,Sinus Bradycardia
+E03581,Sinus Bradycardia
+E03583,Sinus Tachycardia
+E03584,Sinus Tachycardia
+E03585,Sinus Tachycardia
+E03586,Sinus Tachycardia
+E03587,Sinus Rhythm
+E03589,Sinus Tachycardia
+E03592,Sinus Rhythm
+E03595,Sinus Bradycardia
+E03596,Sinus Tachycardia
+E03597,Sinus Rhythm
+E03598,Sinus Rhythm
+E03599,Sinus Tachycardia
+E03601,Sinus Rhythm
+E03602,Sinus Rhythm
+E03608,Sinus Tachycardia
+E03609,Sinus Tachycardia
+E03610,Sinus Rhythm
+E03611,Sinus Rhythm
+E03613,Sinus Rhythm
+E03614,Sinus Bradycardia
+E03619,Sinus Tachycardia
+E03621,1st Degree AV block
+E03623,Sinus Rhythm
+E03628,1st Degree AV block
+E03629,Sinus Rhythm
+E03630,Sinus Bradycardia
+E03631,Sinus Bradycardia
+E03632,Sinus Rhythm
+E03638,Sinus Rhythm
+E03639,Sinus Rhythm
+E03643,Sinus Tachycardia
+E03644,Sinus Rhythm
+E03645,Sinus Rhythm
+E03648,Sinus Rhythm
+E03651,Sinus Rhythm
+E03654,Sinus Rhythm
+E03656,1st Degree AV block
+E03657,1st Degree AV block
+E03659,Sinus Tachycardia
+E03660,Sinus Bradycardia
+E03661,Sinus Tachycardia
+E03664,Sinus Rhythm
+E03666,1st Degree AV block
+E03667,Sinus Tachycardia
+E03668,Sinus Rhythm
+E03672,Sinus Rhythm
+E03677,Sinus Tachycardia
+E03679,Sinus Bradycardia
+E03680,Sinus Rhythm
+E03681,Sinus Bradycardia
+E03684,Sinus Rhythm
+E03685,1st Degree AV block
+E03686,Sinus Tachycardia
+E03687,Sinus Tachycardia
+E03693,Sinus Bradycardia
+E03694,Sinus Tachycardia
+E03697,Sinus Bradycardia
+E03701,1st Degree AV block
+E03702,1st Degree AV block
+E03704,Sinus Rhythm
+E03706,Sinus Bradycardia
+E03708,1st Degree AV block
+E03709,Sinus Bradycardia
+E03712,Sinus Rhythm
+E03713,1st Degree AV block
+E03714,Sinus Tachycardia
+E03715,Sinus Rhythm
+E03717,1st Degree AV block
+E03722,Sinus Bradycardia
+E03724,Sinus Bradycardia
+E03726,"1st Degree AV block, Sinus Bradycardia"
+E03727,Sinus Bradycardia
+E03728,Sinus Tachycardia
+E03729,Sinus Tachycardia
+E03736,Sinus Bradycardia
+E03737,Sinus Bradycardia
+E03738,Sinus Tachycardia
+E03741,Sinus Tachycardia
+E03742,Sinus Rhythm
+E03743,Sinus Rhythm
+E03745,Sinus Rhythm
+E03746,1st Degree AV block
+E03747,1st Degree AV block
+E03748,Sinus Rhythm
+E03751,Sinus Tachycardia
+E03753,Sinus Rhythm
+E03754,Sinus Bradycardia
+E03757,Sinus Bradycardia
+E03760,Sinus Tachycardia
+E03761,"1st Degree AV block, Sinus Bradycardia"
+E03765,Sinus Bradycardia
+E03766,Sinus Rhythm
+E03767,Sinus Rhythm
+E03768,Sinus Rhythm
+E03770,Sinus Bradycardia
+E03771,Sinus Bradycardia
+E03774,Sinus Tachycardia
+E03777,1st Degree AV block
+E03780,Sinus Bradycardia
+E03784,Sinus Tachycardia
+E03788,Sinus Bradycardia
+E03789,Sinus Rhythm
+E03791,Sinus Rhythm
+E03792,1st Degree AV block
+E03794,Sinus Bradycardia
+E03795,Sinus Rhythm
+E03796,Sinus Rhythm
+E03798,Sinus Tachycardia
+E03804,Sinus Bradycardia
+E03807,Sinus Rhythm
+E03809,Sinus Rhythm
+E03812,Sinus Bradycardia
+E03813,Sinus Bradycardia
+E03814,Sinus Bradycardia
+E03815,"1st Degree AV block, Sinus Bradycardia"
+E03816,"1st Degree AV block, Sinus Bradycardia"
+E03817,Sinus Bradycardia
+E03822,"1st Degree AV block, Sinus Bradycardia"
+E03823,Sinus Tachycardia
+E03824,Sinus Rhythm
+E03825,Sinus Tachycardia
+E03826,Sinus Tachycardia
+E03828,Sinus Tachycardia
+E03831,Sinus Bradycardia
+E03834,Sinus Tachycardia
+E03835,Sinus Bradycardia
+E03836,Sinus Rhythm
+E03837,Sinus Tachycardia
+E03838,Sinus Tachycardia
+E03839,Sinus Rhythm
+E03840,Sinus Bradycardia
+E03841,Sinus Rhythm
+E03842,Sinus Rhythm
+E03844,Sinus Tachycardia
+E03846,Sinus Rhythm
+E03848,Sinus Rhythm
+E03851,Sinus Bradycardia
+E03852,"1st Degree AV block, Sinus Bradycardia"
+E03854,Sinus Bradycardia
+E03859,1st Degree AV block
+E03862,Sinus Rhythm
+E03866,Sinus Bradycardia
+E03867,Sinus Rhythm
+E03868,Sinus Rhythm
+E03869,Sinus Rhythm
+E03873,Sinus Rhythm
+E03874,Sinus Bradycardia
+E03875,Sinus Tachycardia
+E03876,Sinus Bradycardia
+E03877,Sinus Bradycardia
+E03884,Sinus Rhythm
+E03887,Sinus Rhythm
+E03888,Sinus Bradycardia
+E03891,Sinus Rhythm
+E03894,Sinus Bradycardia
+E03896,Sinus Bradycardia
+E03898,Sinus Bradycardia
+E03901,Sinus Rhythm
+E03902,Sinus Bradycardia
+E03903,Sinus Bradycardia
+E03904,Sinus Tachycardia
+E03908,Sinus Rhythm
+E03909,Sinus Rhythm
+E03911,Sinus Rhythm
+E03912,Sinus Bradycardia
+E03914,Sinus Bradycardia
+E03915,1st Degree AV block
+E03916,"1st Degree AV block, Sinus Bradycardia"
+E03917,Sinus Rhythm
+E03919,Sinus Rhythm
+E03920,Sinus Rhythm
+E03922,Sinus Bradycardia
+E03925,Sinus Rhythm
+E03928,Sinus Bradycardia
+E03929,Sinus Bradycardia
+E03930,Sinus Rhythm
+E03933,Sinus Rhythm
+E03934,Sinus Bradycardia
+E03935,Sinus Bradycardia
+E03937,Sinus Bradycardia
+E03938,Sinus Bradycardia
+E03939,Sinus Bradycardia
+E03941,Sinus Rhythm
+E03947,Sinus Bradycardia
+E03948,Sinus Bradycardia
+E03950,Sinus Bradycardia
+E03951,Sinus Rhythm
+E03955,Sinus Bradycardia
+E03956,Sinus Bradycardia
+E03957,Sinus Bradycardia
+E03962,1st Degree AV block
+E03963,Sinus Bradycardia
+E03966,1st Degree AV block
+E03967,Sinus Rhythm
+E03970,1st Degree AV block
+E03973,Sinus Bradycardia
+E03974,1st Degree AV block
+E03976,Sinus Rhythm
+E03977,Sinus Bradycardia
+E03978,Sinus Bradycardia
+E03979,Sinus Rhythm
+E03981,Sinus Bradycardia
+E03982,Sinus Rhythm
+E03983,Sinus Rhythm
+E03984,Sinus Tachycardia
+E03985,Sinus Bradycardia
+E03986,Sinus Bradycardia
+E03990,Sinus Bradycardia
+E03993,1st Degree AV block
+E03995,Sinus Rhythm
+E03997,1st Degree AV block
+E03998,Sinus Bradycardia
+E04001,1st Degree AV block
+E04002,Sinus Bradycardia
+E04003,Sinus Rhythm
+E04004,Sinus Bradycardia
+E04006,Sinus Bradycardia
+E04007,Sinus Bradycardia
+E04008,Sinus Rhythm
+E04009,Sinus Bradycardia
+E04010,Sinus Bradycardia
+E04011,1st Degree AV block
+E04013,Sinus Bradycardia
+E04014,Sinus Bradycardia
+E04015,Sinus Rhythm
+E04019,1st Degree AV block
+E04024,Sinus Bradycardia
+E04025,Sinus Bradycardia
+E04027,Sinus Rhythm
+E04028,1st Degree AV block
+E04029,Sinus Bradycardia
+E04030,Sinus Bradycardia
+E04033,Sinus Bradycardia
+E04037,Sinus Rhythm
+E04038,Sinus Bradycardia
+E04040,Sinus Rhythm
+E04041,Sinus Bradycardia
+E04042,1st Degree AV block
+E04048,Sinus Bradycardia
+E04049,Sinus Bradycardia
+E04050,Sinus Tachycardia
+E04051,Sinus Bradycardia
+E04052,Sinus Bradycardia
+E04055,1st Degree AV block
+E04057,Sinus Bradycardia
+E04058,Sinus Tachycardia
+E04060,Sinus Bradycardia
+E04061,Sinus Rhythm
+E04063,Sinus Bradycardia
+E04066,Sinus Tachycardia
+E04068,Sinus Bradycardia
+E04069,Sinus Bradycardia
+E04070,Sinus Rhythm
+E04072,Sinus Rhythm
+E04076,Sinus Tachycardia
+E04078,Sinus Tachycardia
+E04080,Sinus Bradycardia
+E04084,Sinus Rhythm
+E04087,Sinus Tachycardia
+E04088,Sinus Rhythm
+E04089,1st Degree AV block
+E04090,1st Degree AV block
+E04092,Sinus Tachycardia
+E04094,Sinus Tachycardia
+E04095,"1st Degree AV block, Sinus Tachycardia"
+E04097,Sinus Rhythm
+E04099,Sinus Rhythm
+E04100,1st Degree AV block
+E04101,Sinus Tachycardia
+E04102,Sinus Tachycardia
+E04103,Sinus Tachycardia
+E04104,Sinus Tachycardia
+E04110,Sinus Rhythm
+E04116,Sinus Bradycardia
+E04122,Sinus Rhythm
+E04123,Sinus Rhythm
+E04124,Sinus Bradycardia
+E04126,Sinus Tachycardia
+E04133,Sinus Bradycardia
+E04134,"1st Degree AV block, Sinus Bradycardia"
+E04135,"1st Degree AV block, Sinus Bradycardia"
+E04140,Sinus Bradycardia
+E04145,Sinus Tachycardia
+E04146,Sinus Rhythm
+E04147,1st Degree AV block
+E04150,Sinus Bradycardia
+E04151,Sinus Rhythm
+E04158,Sinus Rhythm
+E04160,Sinus Rhythm
+E04164,Sinus Tachycardia
+E04165,Sinus Tachycardia
+E04166,Sinus Tachycardia
+E04167,Sinus Tachycardia
+E04168,Sinus Bradycardia
+E04169,Sinus Bradycardia
+E04170,1st Degree AV block
+E04171,Sinus Tachycardia
+E04173,Sinus Rhythm
+E04176,Sinus Rhythm
+E04177,Sinus Bradycardia
+E04178,Sinus Rhythm
+E04179,Sinus Rhythm
+E04182,Sinus Rhythm
+E04187,Sinus Bradycardia
+E04188,Sinus Rhythm
+E04191,Sinus Bradycardia
+E04192,Sinus Bradycardia
+E04193,"1st Degree AV block, Sinus Bradycardia"
+E04195,Sinus Bradycardia
+E04200,Sinus Tachycardia
+E04201,Sinus Tachycardia
+E04205,Sinus Tachycardia
+E04212,1st Degree AV block
+E04221,Sinus Bradycardia
+E04222,Sinus Tachycardia
+E04225,1st Degree AV block
+E04226,Sinus Bradycardia
+E04227,Sinus Rhythm
+E04228,Sinus Tachycardia
+E04229,Sinus Tachycardia
+E04232,Sinus Rhythm
+E04234,Sinus Tachycardia
+E04238,Sinus Rhythm
+E04242,Sinus Tachycardia
+E04247,Sinus Rhythm
+E04248,Sinus Bradycardia
+E04249,Sinus Tachycardia
+E04250,Sinus Tachycardia
+E04255,Sinus Bradycardia
+E04259,Sinus Rhythm
+E04263,Sinus Rhythm
+E04264,Sinus Rhythm
+E04267,Sinus Bradycardia
+E04268,1st Degree AV block
+E04269,Sinus Tachycardia
+E04271,Sinus Tachycardia
+E04273,Sinus Tachycardia
+E04274,Sinus Rhythm
+E04275,Sinus Tachycardia
+E04277,Sinus Rhythm
+E04278,Sinus Tachycardia
+E04280,Sinus Rhythm
+E04281,Sinus Bradycardia
+E04282,Sinus Bradycardia
+E04283,Sinus Bradycardia
+E04285,Sinus Rhythm
+E04286,Sinus Tachycardia
+E04289,Sinus Bradycardia
+E04296,1st Degree AV block
+E04297,Sinus Tachycardia
+E04298,Sinus Bradycardia
+E04299,Sinus Bradycardia
+E04302,Sinus Rhythm
+E04303,Sinus Rhythm
+E04305,Sinus Bradycardia
+E04307,Sinus Rhythm
+E04308,Sinus Rhythm
+E04309,Sinus Tachycardia
+E04310,Sinus Tachycardia
+E04313,Sinus Tachycardia
+E04315,Sinus Tachycardia
+E04323,Sinus Rhythm
+E04324,Sinus Bradycardia
+E04326,Sinus Bradycardia
+E04327,Sinus Bradycardia
+E04328,Sinus Tachycardia
+E04329,Sinus Rhythm
+E04330,Sinus Rhythm
+E04333,Sinus Bradycardia
+E04336,Sinus Rhythm
+E04337,Sinus Rhythm
+E04338,Sinus Bradycardia
+E04339,Sinus Bradycardia
+E04346,Sinus Rhythm
+E04352,Sinus Tachycardia
+E04358,Sinus Bradycardia
+E04360,Sinus Bradycardia
+E04361,Sinus Bradycardia
+E04362,Sinus Rhythm
+E04363,Sinus Rhythm
+E04365,Sinus Rhythm
+E04367,Sinus Bradycardia
+E04370,Sinus Tachycardia
+E04376,Sinus Tachycardia
+E04379,1st Degree AV block
+E04381,Sinus Tachycardia
+E04382,Sinus Rhythm
+E04383,1st Degree AV block
+E04388,Sinus Rhythm
+E04389,1st Degree AV block
+E04390,Sinus Rhythm
+E04395,Sinus Bradycardia
+E04396,Sinus Bradycardia
+E04397,Sinus Tachycardia
+E04398,Sinus Tachycardia
+E04400,Sinus Tachycardia
+E04403,Sinus Rhythm
+E04405,1st Degree AV block
+E04409,Sinus Tachycardia
+E04412,Sinus Rhythm
+E04414,Sinus Rhythm
+E04415,Sinus Tachycardia
+E04419,Sinus Rhythm
+E04420,Sinus Tachycardia
+E04422,Sinus Tachycardia
+E04424,Sinus Rhythm
+E04429,Sinus Rhythm
+E04430,Sinus Rhythm
+E04439,Sinus Rhythm
+E04440,Sinus Tachycardia
+E04447,Sinus Bradycardia
+E04449,Sinus Rhythm
+E04452,Sinus Rhythm
+E04453,Sinus Rhythm
+E04455,Sinus Bradycardia
+E04456,Sinus Tachycardia
+E04457,Sinus Tachycardia
+E04459,Sinus Tachycardia
+E04460,Sinus Tachycardia
+E04461,Sinus Bradycardia
+E04464,Sinus Rhythm
+E04465,Sinus Tachycardia
+E04466,Sinus Tachycardia
+E04469,Sinus Tachycardia
+E04470,Sinus Rhythm
+E04471,Sinus Tachycardia
+E04472,Sinus Tachycardia
+E04477,1st Degree AV block
+E04478,Sinus Rhythm
+E04482,1st Degree AV block
+E04484,Sinus Rhythm
+E04485,"1st Degree AV block, Sinus Bradycardia"
+E04486,Sinus Rhythm
+E04488,Sinus Rhythm
+E04490,Sinus Tachycardia
+E04493,"1st Degree AV block, Sinus Tachycardia"
+E04494,Sinus Tachycardia
+E04497,1st Degree AV block
+E04501,Sinus Bradycardia
+E04502,Sinus Rhythm
+E04503,Sinus Bradycardia
+E04504,1st Degree AV block
+E04505,Sinus Rhythm
+E04506,Sinus Rhythm
+E04508,Sinus Rhythm
+E04509,Sinus Rhythm
+E04510,Sinus Tachycardia
+E04511,Sinus Rhythm
+E04516,Sinus Rhythm
+E04517,Sinus Rhythm
+E04519,Sinus Bradycardia
+E04520,Sinus Tachycardia
+E04523,Sinus Bradycardia
+E04524,"1st Degree AV block, Sinus Bradycardia"
+E04527,Sinus Rhythm
+E04528,Sinus Bradycardia
+E04529,Sinus Rhythm
+E04530,Sinus Rhythm
+E04531,Sinus Rhythm
+E04532,Sinus Rhythm
+E04533,Sinus Tachycardia
+E04539,Sinus Tachycardia
+E04540,Sinus Tachycardia
+E04549,Sinus Rhythm
+E04550,Sinus Bradycardia
+E04552,Sinus Rhythm
+E04553,"1st Degree AV block, Sinus Bradycardia"
+E04555,Sinus Rhythm
+E04557,Sinus Tachycardia
+E04558,Sinus Bradycardia
+E04559,Sinus Rhythm
+E04560,Sinus Tachycardia
+E04563,Sinus Bradycardia
+E04566,Sinus Rhythm
+E04568,Sinus Rhythm
+E04571,Sinus Bradycardia
+E04573,"1st Degree AV block, Sinus Bradycardia"
+E04574,Sinus Rhythm
+E04575,Sinus Rhythm
+E04576,Sinus Rhythm
+E04577,Sinus Tachycardia
+E04579,Sinus Tachycardia
+E04580,Sinus Tachycardia
+E04581,Sinus Tachycardia
+E04585,Sinus Rhythm
+E04589,Sinus Rhythm
+E04593,Sinus Bradycardia
+E04595,Sinus Tachycardia
+E04597,Sinus Rhythm
+E04601,Sinus Tachycardia
+E04604,Sinus Tachycardia
+E04607,Sinus Bradycardia
+E04608,Sinus Rhythm
+E04609,Sinus Tachycardia
+E04610,Sinus Tachycardia
+E04611,1st Degree AV block
+E04612,1st Degree AV block
+E04613,Sinus Rhythm
+E04614,Sinus Rhythm
+E04616,Sinus Rhythm
+E04619,Sinus Rhythm
+E04620,Sinus Tachycardia
+E04621,Sinus Bradycardia
+E04622,Sinus Tachycardia
+E04623,Sinus Rhythm
+E04625,Sinus Bradycardia
+E04626,Sinus Bradycardia
+E04629,Sinus Bradycardia
+E04632,Sinus Bradycardia
+E04633,Sinus Tachycardia
+E04635,Sinus Bradycardia
+E04636,Sinus Rhythm
+E04637,Sinus Tachycardia
+E04642,Sinus Rhythm
+E04643,Sinus Rhythm
+E04646,Sinus Bradycardia
+E04648,1st Degree AV block
+E04649,Sinus Rhythm
+E04650,Sinus Rhythm
+E04653,Sinus Rhythm
+E04656,Sinus Tachycardia
+E04658,Sinus Rhythm
+E04660,Sinus Tachycardia
+E04661,Sinus Tachycardia
+E04663,Sinus Bradycardia
+E04667,Sinus Rhythm
+E04668,Sinus Tachycardia
+E04669,1st Degree AV block
+E04671,1st Degree AV block
+E04672,1st Degree AV block
+E04675,Sinus Rhythm
+E04676,Sinus Tachycardia
+E04677,Sinus Rhythm
+E04678,"1st Degree AV block, Sinus Bradycardia"
+E04679,Sinus Bradycardia
+E04681,Sinus Rhythm
+E04683,"1st Degree AV block, Sinus Bradycardia"
+E04685,Sinus Bradycardia
+E04688,Sinus Bradycardia
+E04690,Sinus Rhythm
+E04693,Sinus Rhythm
+E04697,Sinus Bradycardia
+E04698,Sinus Bradycardia
+E04699,Sinus Bradycardia
+E04700,Sinus Bradycardia
+E04701,1st Degree AV block
+E04702,Sinus Bradycardia
+E04703,Sinus Bradycardia
+E04706,Sinus Rhythm
+E04708,Sinus Bradycardia
+E04709,Sinus Bradycardia
+E04710,Sinus Bradycardia
+E04712,Sinus Rhythm
+E04714,"1st Degree AV block, Sinus Bradycardia"
+E04718,Sinus Rhythm
+E04722,Sinus Bradycardia
+E04724,Sinus Bradycardia
+E04725,Sinus Rhythm
+E04726,Sinus Rhythm
+E04729,Sinus Bradycardia
+E04731,Sinus Bradycardia
+E04733,Sinus Rhythm
+E04735,Sinus Rhythm
+E04737,Sinus Bradycardia
+E04738,Sinus Bradycardia
+E04740,1st Degree AV block
+E04741,Sinus Rhythm
+E04742,"1st Degree AV block, Sinus Bradycardia"
+E04743,Sinus Rhythm
+E04748,Sinus Rhythm
+E04750,"1st Degree AV block, Sinus Bradycardia"
+E04751,1st Degree AV block
+E04753,Sinus Bradycardia
+E04754,Sinus Rhythm
+E04757,Sinus Bradycardia
+E04760,Sinus Rhythm
+E04762,Sinus Bradycardia
+E04765,Sinus Bradycardia
+E04766,Sinus Bradycardia
+E04767,Sinus Bradycardia
+E04770,Sinus Rhythm
+E04772,Sinus Bradycardia
+E04773,Sinus Bradycardia
+E04775,1st Degree AV block
+E04780,Sinus Rhythm
+E04782,Sinus Rhythm
+E04784,Sinus Bradycardia
+E04786,Sinus Tachycardia
+E04787,"1st Degree AV block, Sinus Bradycardia"
+E04792,Sinus Rhythm
+E04795,Sinus Bradycardia
+E04796,Sinus Bradycardia
+E04800,Sinus Rhythm
+E04802,Sinus Rhythm
+E04804,Sinus Rhythm
+E04805,Sinus Bradycardia
+E04806,Sinus Bradycardia
+E04807,Sinus Rhythm
+E04808,Sinus Rhythm
+E04809,Sinus Rhythm
+E04810,1st Degree AV block
+E04812,1st Degree AV block
+E04813,"1st Degree AV block, Sinus Bradycardia"
+E04814,Sinus Rhythm
+E04815,Sinus Rhythm
+E04816,Sinus Rhythm
+E04820,1st Degree AV block
+E04821,Sinus Bradycardia
+E04824,Sinus Bradycardia
+E04825,1st Degree AV block
+E04828,Sinus Rhythm
+E04830,"1st Degree AV block, Sinus Bradycardia"
+E04831,Sinus Bradycardia
+E04833,Sinus Bradycardia
+E04835,1st Degree AV block
+E04836,Sinus Bradycardia
+E04837,Sinus Rhythm
+E04839,Sinus Bradycardia
+E04841,Sinus Bradycardia
+E04842,Sinus Bradycardia
+E04843,Sinus Rhythm
+E04844,Sinus Bradycardia
+E04845,Sinus Bradycardia
+E04846,Sinus Tachycardia
+E04847,Sinus Tachycardia
+E04850,Sinus Rhythm
+E04851,Sinus Rhythm
+E04857,1st Degree AV block
+E04861,Sinus Bradycardia
+E04862,Sinus Bradycardia
+E04865,Sinus Bradycardia
+E04866,Sinus Bradycardia
+E04867,Sinus Rhythm
+E04869,Sinus Tachycardia
+E04870,Sinus Rhythm
+E04871,Sinus Tachycardia
+E04875,Sinus Rhythm
+E04876,Sinus Tachycardia
+E04877,Sinus Bradycardia
+E04882,1st Degree AV block
+E04883,Sinus Rhythm
+E04884,Sinus Bradycardia
+E04886,Sinus Rhythm
+E04887,Sinus Rhythm
+E04888,Sinus Rhythm
+E04890,Sinus Rhythm
+E04894,Sinus Tachycardia
+E04896,Sinus Rhythm
+E04897,Sinus Bradycardia
+E04899,1st Degree AV block
+E04901,Sinus Bradycardia
+E04910,Sinus Rhythm
+E04911,Sinus Rhythm
+E04915,1st Degree AV block
+E04916,Sinus Bradycardia
+E04919,Sinus Rhythm
+E04920,Sinus Tachycardia
+E04925,Sinus Tachycardia
+E04926,Sinus Bradycardia
+E04927,Sinus Tachycardia
+E04928,Sinus Rhythm
+E04929,Sinus Rhythm
+E04930,Sinus Rhythm
+E04933,Sinus Rhythm
+E04934,Sinus Rhythm
+E04937,Sinus Rhythm
+E04938,Sinus Rhythm
+E04939,Sinus Rhythm
+E04940,1st Degree AV block
+E04941,Sinus Rhythm
+E04943,Sinus Tachycardia
+E04945,Sinus Rhythm
+E04946,Sinus Tachycardia
+E04948,Sinus Tachycardia
+E04952,1st Degree AV block
+E04956,Sinus Tachycardia
+E04961,Sinus Bradycardia
+E04964,Sinus Bradycardia
+E04968,Sinus Bradycardia
+E04969,Sinus Bradycardia
+E04970,Sinus Bradycardia
+E04971,"1st Degree AV block, Sinus Bradycardia"
+E04972,Sinus Bradycardia
+E04973,Sinus Bradycardia
+E04974,Sinus Bradycardia
+E04977,Sinus Rhythm
+E04979,1st Degree AV block
+E04980,Sinus Tachycardia
+E04982,1st Degree AV block
+E04983,Sinus Bradycardia
+E04984,1st Degree AV block
+E04985,Sinus Bradycardia
+E04987,1st Degree AV block
+E04988,Sinus Bradycardia
+E04989,Sinus Tachycardia
+E04990,Sinus Rhythm
+E04991,1st Degree AV block
+E04992,Sinus Bradycardia
+E04997,Sinus Rhythm
+E05000,1st Degree AV block
+E05001,Sinus Rhythm
+E05002,Sinus Bradycardia
+E05003,Sinus Bradycardia
+E05004,1st Degree AV block
+E05005,1st Degree AV block
+E05006,1st Degree AV block
+E05007,Sinus Rhythm
+E05010,Sinus Bradycardia
+E05012,1st Degree AV block
+E05014,Sinus Rhythm
+E05015,Sinus Tachycardia
+E05016,Sinus Tachycardia
+E05017,Sinus Rhythm
+E05018,Sinus Bradycardia
+E05020,Sinus Bradycardia
+E05021,"1st Degree AV block, Sinus Bradycardia"
+E05022,Sinus Tachycardia
+E05023,Sinus Tachycardia
+E05024,Sinus Rhythm
+E05031,Sinus Tachycardia
+E05032,Sinus Tachycardia
+E05033,Sinus Rhythm
+E05037,Sinus Tachycardia
+E05042,"1st Degree AV block, Sinus Bradycardia"
+E05043,Sinus Rhythm
+E05044,Sinus Bradycardia
+E05048,Sinus Tachycardia
+E05050,Sinus Bradycardia
+E05054,Sinus Bradycardia
+E05055,Sinus Rhythm
+E05057,1st Degree AV block
+E05059,Sinus Bradycardia
+E05062,Sinus Rhythm
+E05071,1st Degree AV block
+E05072,1st Degree AV block
+E05073,Sinus Rhythm
+E05074,Sinus Rhythm
+E05076,Sinus Bradycardia
+E05079,Sinus Tachycardia
+E05080,Sinus Bradycardia
+E05081,Sinus Rhythm
+E05082,Sinus Tachycardia
+E05085,Sinus Tachycardia
+E05090,Sinus Bradycardia
+E05095,"1st Degree AV block, Sinus Bradycardia"
+E05098,"1st Degree AV block, Sinus Bradycardia"
+E05099,1st Degree AV block
+E05103,Sinus Tachycardia
+E05105,Sinus Rhythm
+E05106,Sinus Rhythm
+E05108,Sinus Bradycardia
+E05110,Sinus Rhythm
+E05114,Sinus Tachycardia
+E05115,1st Degree AV block
+E05116,1st Degree AV block
+E05118,Sinus Tachycardia
+E05119,Sinus Tachycardia
+E05120,Sinus Tachycardia
+E05122,Sinus Tachycardia
+E05126,Sinus Bradycardia
+E05127,Sinus Rhythm
+E05128,1st Degree AV block
+E05129,Sinus Tachycardia
+E05130,Sinus Bradycardia
+E05132,Sinus Tachycardia
+E05133,Sinus Rhythm
+E05137,"1st Degree AV block, Sinus Bradycardia"
+E05142,"1st Degree AV block, Sinus Bradycardia"
+E05143,Sinus Tachycardia
+E05145,Sinus Bradycardia
+E05149,Sinus Bradycardia
+E05152,Sinus Tachycardia
+E05158,Sinus Tachycardia
+E05161,Sinus Rhythm
+E05162,Sinus Rhythm
+E05165,Sinus Rhythm
+E05166,1st Degree AV block
+E05168,Sinus Tachycardia
+E05171,1st Degree AV block
+E05174,Sinus Bradycardia
+E05178,1st Degree AV block
+E05180,"1st Degree AV block, Sinus Bradycardia"
+E05182,1st Degree AV block
+E05183,1st Degree AV block
+E05186,Sinus Rhythm
+E05187,"1st Degree AV block, Sinus Tachycardia"
+E05189,Sinus Bradycardia
+E05190,Sinus Bradycardia
+E05191,Sinus Rhythm
+E05192,Sinus Bradycardia
+E05193,Sinus Bradycardia
+E05196,Sinus Rhythm
+E05197,Sinus Tachycardia
+E05198,Sinus Bradycardia
+E05200,Sinus Bradycardia
+E05202,Sinus Rhythm
+E05203,Sinus Tachycardia
+E05206,Sinus Tachycardia
+E05207,Sinus Tachycardia
+E05208,Sinus Bradycardia
+E05211,Sinus Tachycardia
+E05216,Sinus Rhythm
+E05217,Sinus Bradycardia
+E05218,Sinus Bradycardia
+E05222,Sinus Bradycardia
+E05224,Sinus Bradycardia
+E05225,Sinus Bradycardia
+E05226,Sinus Bradycardia
+E05228,Sinus Bradycardia
+E05231,Sinus Rhythm
+E05232,Sinus Rhythm
+E05233,Sinus Bradycardia
+E05236,Sinus Tachycardia
+E05237,Sinus Tachycardia
+E05238,Sinus Rhythm
+E05243,Sinus Rhythm
+E05245,1st Degree AV block
+E05250,1st Degree AV block
+E05252,1st Degree AV block
+E05253,Sinus Bradycardia
+E05256,Sinus Rhythm
+E05257,Sinus Rhythm
+E05259,Sinus Bradycardia
+E05260,Sinus Bradycardia
+E05263,Sinus Rhythm
+E05264,Sinus Tachycardia
+E05266,Sinus Bradycardia
+E05267,Sinus Rhythm
+E05269,Sinus Bradycardia
+E05270,Sinus Tachycardia
+E05271,Sinus Bradycardia
+E05273,Sinus Tachycardia
+E05281,Sinus Bradycardia
+E05286,Sinus Rhythm
+E05287,Sinus Rhythm
+E05290,Sinus Rhythm
+E05292,1st Degree AV block
+E05293,"1st Degree AV block, Sinus Tachycardia"
+E05296,Sinus Tachycardia
+E05297,1st Degree AV block
+E05298,Sinus Bradycardia
+E05299,1st Degree AV block
+E05300,Sinus Rhythm
+E05302,Sinus Tachycardia
+E05303,Sinus Bradycardia
+E05304,Sinus Bradycardia
+E05307,Sinus Bradycardia
+E05308,Sinus Rhythm
+E05310,Sinus Bradycardia
+E05311,1st Degree AV block
+E05315,Sinus Rhythm
+E05316,Sinus Tachycardia
+E05317,Sinus Rhythm
+E05318,Sinus Bradycardia
+E05319,Sinus Tachycardia
+E05323,Sinus Rhythm
+E05325,Sinus Tachycardia
+E05329,Sinus Rhythm
+E05333,Sinus Rhythm
+E05335,Sinus Rhythm
+E05336,Sinus Tachycardia
+E05337,Sinus Tachycardia
+E05339,Sinus Bradycardia
+E05340,Sinus Bradycardia
+E05341,Sinus Bradycardia
+E05342,1st Degree AV block
+E05343,1st Degree AV block
+E05344,Sinus Rhythm
+E05348,Sinus Rhythm
+E05350,1st Degree AV block
+E05351,1st Degree AV block
+E05353,Sinus Bradycardia
+E05354,1st Degree AV block
+E05356,Sinus Bradycardia
+E05358,Sinus Rhythm
+E05359,Sinus Bradycardia
+E05365,Sinus Tachycardia
+E05366,Sinus Bradycardia
+E05367,Sinus Rhythm
+E05369,Sinus Rhythm
+E05371,Sinus Rhythm
+E05374,1st Degree AV block
+E05375,1st Degree AV block
+E05376,Sinus Bradycardia
+E05379,Sinus Rhythm
+E05380,Sinus Rhythm
+E05385,Sinus Bradycardia
+E05389,Sinus Rhythm
+E05391,Sinus Tachycardia
+E05393,Sinus Rhythm
+E05394,1st Degree AV block
+E05395,Sinus Rhythm
+E05396,Sinus Bradycardia
+E05399,Sinus Tachycardia
+E05400,Sinus Bradycardia
+E05401,Sinus Tachycardia
+E05402,Sinus Tachycardia
+E05404,Sinus Bradycardia
+E05406,Sinus Tachycardia
+E05407,Sinus Tachycardia
+E05408,Sinus Tachycardia
+E05409,Sinus Rhythm
+E05411,Sinus Bradycardia
+E05412,Sinus Rhythm
+E05413,Sinus Rhythm
+E05414,Sinus Bradycardia
+E05416,Sinus Rhythm
+E05417,Sinus Bradycardia
+E05420,Sinus Tachycardia
+E05421,Sinus Bradycardia
+E05422,Sinus Rhythm
+E05423,Sinus Rhythm
+E05424,Sinus Bradycardia
+E05433,Sinus Rhythm
+E05439,Sinus Bradycardia
+E05441,Sinus Bradycardia
+E05442,Sinus Tachycardia
+E05446,1st Degree AV block
+E05447,Sinus Bradycardia
+E05449,Sinus Rhythm
+E05452,Sinus Tachycardia
+E05453,Sinus Rhythm
+E05456,Sinus Bradycardia
+E05461,Sinus Bradycardia
+E05466,Sinus Tachycardia
+E05470,Sinus Rhythm
+E05471,Sinus Tachycardia
+E05472,Sinus Rhythm
+E05476,Sinus Rhythm
+E05478,Sinus Bradycardia
+E05479,Sinus Bradycardia
+E05481,Sinus Bradycardia
+E05482,Sinus Bradycardia
+E05483,Sinus Rhythm
+E05485,Sinus Bradycardia
+E05486,Sinus Rhythm
+E05487,Sinus Rhythm
+E05488,Sinus Rhythm
+E05490,Sinus Tachycardia
+E05491,Sinus Bradycardia
+E05494,Sinus Rhythm
+E05495,Sinus Bradycardia
+E05497,Sinus Bradycardia
+E05498,Sinus Bradycardia
+E05499,Sinus Rhythm
+E05500,Sinus Bradycardia
+E05501,Sinus Bradycardia
+E05502,Sinus Rhythm
+E05507,Sinus Bradycardia
+E05508,Sinus Rhythm
+E05509,Sinus Bradycardia
+E05510,Sinus Bradycardia
+E05511,Sinus Rhythm
+E05512,1st Degree AV block
+E05514,Sinus Rhythm
+E05516,1st Degree AV block
+E05520,Sinus Bradycardia
+E05521,Sinus Bradycardia
+E05526,"1st Degree AV block, Sinus Bradycardia"
+E05527,Sinus Rhythm
+E05528,"1st Degree AV block, Sinus Bradycardia"
+E05529,1st Degree AV block
+E05533,Sinus Bradycardia
+E05534,Sinus Rhythm
+E05535,Sinus Bradycardia
+E05536,Sinus Rhythm
+E05538,Sinus Bradycardia
+E05540,Sinus Bradycardia
+E05541,Sinus Bradycardia
+E05542,1st Degree AV block
+E05543,Sinus Bradycardia
+E05544,Sinus Rhythm
+E05546,Sinus Bradycardia
+E05547,Sinus Rhythm
+E05548,Sinus Rhythm
+E05549,1st Degree AV block
+E05550,Sinus Rhythm
+E05551,Sinus Bradycardia
+E05553,"1st Degree AV block, Sinus Bradycardia"
+E05554,Sinus Bradycardia
+E05555,Sinus Bradycardia
+E05556,1st Degree AV block
+E05557,Sinus Rhythm
+E05559,"1st Degree AV block, Sinus Bradycardia"
+E05562,Sinus Rhythm
+E05563,Sinus Bradycardia
+E05565,Sinus Rhythm
+E05566,Sinus Rhythm
+E05570,Sinus Rhythm
+E05571,Sinus Rhythm
+E05573,Sinus Rhythm
+E05574,Sinus Rhythm
+E05576,Sinus Bradycardia
+E05578,Sinus Bradycardia
+E05585,Sinus Rhythm
+E05587,Sinus Rhythm
+E05590,Sinus Rhythm
+E05591,Sinus Bradycardia
+E05592,Sinus Bradycardia
+E05593,Sinus Bradycardia
+E05595,Sinus Bradycardia
+E05596,Sinus Bradycardia
+E05597,Sinus Bradycardia
+E05600,1st Degree AV block
+E05603,Sinus Bradycardia
+E05605,Sinus Rhythm
+E05606,Sinus Bradycardia
+E05607,1st Degree AV block
+E05609,Sinus Bradycardia
+E05611,Sinus Bradycardia
+E05613,Sinus Bradycardia
+E05614,Sinus Bradycardia
+E05615,"1st Degree AV block, Sinus Bradycardia"
+E05616,1st Degree AV block
+E05618,1st Degree AV block
+E05619,Sinus Bradycardia
+E05620,1st Degree AV block
+E05621,1st Degree AV block
+E05626,Sinus Bradycardia
+E05627,Sinus Bradycardia
+E05628,1st Degree AV block
+E05629,Sinus Rhythm
+E05631,Sinus Tachycardia
+E05632,Sinus Bradycardia
+E05634,Sinus Tachycardia
+E05635,1st Degree AV block
+E05637,Sinus Tachycardia
+E05638,Sinus Rhythm
+E05639,Sinus Bradycardia
+E05640,Sinus Rhythm
+E05643,Sinus Bradycardia
+E05644,1st Degree AV block
+E05645,Sinus Bradycardia
+E05648,Sinus Rhythm
+E05651,Sinus Rhythm
+E05656,Sinus Bradycardia
+E05659,Sinus Tachycardia
+E05661,Sinus Rhythm
+E05662,Sinus Tachycardia
+E05664,Sinus Rhythm
+E05666,Sinus Bradycardia
+E05672,Sinus Tachycardia
+E05675,Sinus Bradycardia
+E05676,Sinus Tachycardia
+E05679,Sinus Tachycardia
+E05681,Sinus Tachycardia
+E05683,Sinus Tachycardia
+E05686,Sinus Rhythm
+E05688,Sinus Tachycardia
+E05690,Sinus Bradycardia
+E05693,Sinus Bradycardia
+E05694,Sinus Tachycardia
+E05698,Sinus Tachycardia
+E05699,Sinus Bradycardia
+E05700,Sinus Tachycardia
+E05703,Sinus Rhythm
+E05704,Sinus Tachycardia
+E05706,Sinus Rhythm
+E05708,Sinus Bradycardia
+E05710,Sinus Rhythm
+E05712,Sinus Rhythm
+E05715,Sinus Tachycardia
+E05719,Sinus Tachycardia
+E05721,Sinus Tachycardia
+E05727,1st Degree AV block
+E05728,1st Degree AV block
+E05730,Sinus Tachycardia
+E05732,Sinus Bradycardia
+E05738,Sinus Rhythm
+E05739,Sinus Rhythm
+E05740,Sinus Tachycardia
+E05741,Sinus Tachycardia
+E05742,1st Degree AV block
+E05744,1st Degree AV block
+E05745,Sinus Bradycardia
+E05747,Sinus Bradycardia
+E05750,"1st Degree AV block, Sinus Bradycardia"
+E05751,Sinus Bradycardia
+E05754,1st Degree AV block
+E05755,1st Degree AV block
+E05758,Sinus Bradycardia
+E05759,Sinus Bradycardia
+E05760,1st Degree AV block
+E05761,Sinus Tachycardia
+E05762,1st Degree AV block
+E05763,"1st Degree AV block, Sinus Bradycardia"
+E05764,1st Degree AV block
+E05765,Sinus Tachycardia
+E05768,1st Degree AV block
+E05771,Sinus Rhythm
+E05772,Sinus Bradycardia
+E05773,Sinus Bradycardia
+E05778,Sinus Rhythm
+E05780,Sinus Tachycardia
+E05781,Sinus Bradycardia
+E05789,Sinus Bradycardia
+E05793,Sinus Bradycardia
+E05797,1st Degree AV block
+E05798,Sinus Rhythm
+E05799,Sinus Rhythm
+E05800,Sinus Bradycardia
+E05801,Sinus Rhythm
+E05802,Sinus Tachycardia
+E05806,1st Degree AV block
+E05810,Sinus Tachycardia
+E05811,Sinus Tachycardia
+E05812,Sinus Tachycardia
+E05813,Sinus Rhythm
+E05815,Sinus Tachycardia
+E05817,Sinus Bradycardia
+E05819,Sinus Rhythm
+E05820,Sinus Rhythm
+E05821,"1st Degree AV block, Sinus Bradycardia"
+E05825,"1st Degree AV block, Sinus Bradycardia"
+E05826,Sinus Tachycardia
+E05827,Sinus Tachycardia
+E05834,Sinus Bradycardia
+E05836,1st Degree AV block
+E05837,Sinus Bradycardia
+E05839,Sinus Bradycardia
+E05844,Sinus Tachycardia
+E05845,Sinus Rhythm
+E05846,Sinus Rhythm
+E05848,Sinus Rhythm
+E05849,Sinus Rhythm
+E05850,Sinus Bradycardia
+E05852,1st Degree AV block
+E05853,Sinus Tachycardia
+E05854,"1st Degree AV block, Sinus Tachycardia"
+E05861,Sinus Rhythm
+E05863,Sinus Tachycardia
+E05864,Sinus Bradycardia
+E05866,Sinus Rhythm
+E05871,Sinus Tachycardia
+E05875,1st Degree AV block
+E05876,Sinus Bradycardia
+E05877,Sinus Rhythm
+E05878,Sinus Rhythm
+E05880,Sinus Tachycardia
+E05883,Sinus Tachycardia
+E05884,Sinus Bradycardia
+E05887,Sinus Rhythm
+E05888,Sinus Bradycardia
+E05890,Sinus Tachycardia
+E05891,Sinus Bradycardia
+E05892,1st Degree AV block
+E05893,Sinus Tachycardia
+E05895,Sinus Tachycardia
+E05896,1st Degree AV block
+E05902,Sinus Rhythm
+E05903,Sinus Bradycardia
+E05904,1st Degree AV block
+E05907,Sinus Rhythm
+E05908,Sinus Tachycardia
+E05912,Sinus Tachycardia
+E05914,Sinus Bradycardia
+E05916,Sinus Rhythm
+E05917,Sinus Tachycardia
+E05918,Sinus Tachycardia
+E05920,Sinus Tachycardia
+E05924,Sinus Bradycardia
+E05926,Sinus Tachycardia
+E05928,Sinus Bradycardia
+E05931,"1st Degree AV block, Sinus Tachycardia"
+E05933,Sinus Rhythm
+E05935,1st Degree AV block
+E05936,Sinus Rhythm
+E05937,Sinus Tachycardia
+E05938,Sinus Bradycardia
+E05939,Sinus Bradycardia
+E05943,Myocardial infarction
+E05945,Sinus Bradycardia
+E05946,1st Degree AV block
+E05949,Sinus Bradycardia
+E05951,Sinus Rhythm
+E05952,Sinus Rhythm
+E05953,Sinus Rhythm
+E05954,Sinus Bradycardia
+E05955,Sinus Tachycardia
+E05956,Sinus Tachycardia
+E05958,Sinus Rhythm
+E05960,Sinus Tachycardia
+E05964,Sinus Tachycardia
+E05968,Sinus Bradycardia
+E05972,1st Degree AV block
+E05974,"1st Degree AV block, Sinus Bradycardia"
+E05976,Sinus Rhythm
+E05981,Sinus Tachycardia
+E05982,Sinus Tachycardia
+E05985,Sinus Rhythm
+E05986,Sinus Rhythm
+E05988,Sinus Bradycardia
+E05991,Sinus Tachycardia
+E05993,Sinus Rhythm
+E05995,Sinus Tachycardia
+E05998,Sinus Tachycardia
+E05999,Sinus Tachycardia
+E06002,Sinus Tachycardia
+E06004,Sinus Bradycardia
+E06009,1st Degree AV block
+E06011,Sinus Rhythm
+E06016,Sinus Bradycardia
+E06017,Sinus Bradycardia
+E06021,Sinus Rhythm
+E06022,Sinus Tachycardia
+E06023,Sinus Tachycardia
+E06024,Sinus Bradycardia
+E06025,Sinus Bradycardia
+E06030,Sinus Rhythm
+E06031,Sinus Bradycardia
+E06037,Sinus Bradycardia
+E06039,Sinus Bradycardia
+E06040,Sinus Bradycardia
+E06041,Sinus Bradycardia
+E06042,Sinus Rhythm
+E06043,Sinus Rhythm
+E06048,Sinus Bradycardia
+E06049,Sinus Bradycardia
+E06050,1st Degree AV block
+E06053,Sinus Bradycardia
+E06054,Sinus Rhythm
+E06056,"1st Degree AV block, Sinus Bradycardia"
+E06058,Sinus Rhythm
+E06064,Sinus Rhythm
+E06065,Sinus Bradycardia
+E06066,Sinus Bradycardia
+E06067,Sinus Bradycardia
+E06069,Sinus Bradycardia
+E06070,Sinus Bradycardia
+E06071,1st Degree AV block
+E06073,Sinus Rhythm
+E06080,1st Degree AV block
+E06083,Sinus Tachycardia
+E06084,1st Degree AV block
+E06087,1st Degree AV block
+E06089,Sinus Bradycardia
+E06092,"1st Degree AV block, Sinus Bradycardia"
+E06093,Sinus Bradycardia
+E06095,Sinus Bradycardia
+E06096,Sinus Rhythm
+E06100,Sinus Rhythm
+E06103,Sinus Rhythm
+E06104,Sinus Rhythm
+E06105,"1st Degree AV block, Sinus Bradycardia"
+E06109,Sinus Bradycardia
+E06111,Sinus Bradycardia
+E06115,Sinus Bradycardia
+E06116,Sinus Bradycardia
+E06118,Sinus Bradycardia
+E06119,Sinus Rhythm
+E06122,Sinus Tachycardia
+E06123,Sinus Rhythm
+E06124,Sinus Bradycardia
+E06127,Sinus Bradycardia
+E06129,Sinus Bradycardia
+E06131,Sinus Bradycardia
+E06132,Sinus Rhythm
+E06133,1st Degree AV block
+E06135,Sinus Bradycardia
+E06137,Sinus Bradycardia
+E06141,"1st Degree AV block, Sinus Bradycardia"
+E06142,Sinus Bradycardia
+E06144,1st Degree AV block
+E06146,Sinus Rhythm
+E06148,Sinus Bradycardia
+E06150,Sinus Tachycardia
+E06152,Sinus Rhythm
+E06153,Sinus Rhythm
+E06156,1st Degree AV block
+E06163,Sinus Bradycardia
+E06164,Sinus Rhythm
+E06165,Sinus Rhythm
+E06167,Sinus Tachycardia
+E06168,Sinus Rhythm
+E06169,Sinus Rhythm
+E06170,Sinus Tachycardia
+E06171,Sinus Rhythm
+E06175,1st Degree AV block
+E06177,Sinus Tachycardia
+E06179,Sinus Tachycardia
+E06181,Sinus Bradycardia
+E06183,1st Degree AV block
+E06186,Sinus Rhythm
+E06187,Sinus Bradycardia
+E06188,Sinus Rhythm
+E06189,1st Degree AV block
+E06194,Sinus Bradycardia
+E06196,Sinus Rhythm
+E06197,Sinus Bradycardia
+E06201,Sinus Bradycardia
+E06204,Sinus Tachycardia
+E06211,Sinus Rhythm
+E06212,Sinus Bradycardia
+E06213,Sinus Rhythm
+E06214,1st Degree AV block
+E06215,Sinus Bradycardia
+E06217,Sinus Rhythm
+E06220,Sinus Tachycardia
+E06222,1st Degree AV block
+E06223,1st Degree AV block
+E06226,Sinus Rhythm
+E06227,Sinus Rhythm
+E06228,1st Degree AV block
+E06229,Sinus Bradycardia
+E06230,1st Degree AV block
+E06234,Sinus Tachycardia
+E06235,Sinus Rhythm
+E06237,Sinus Rhythm
+E06239,Sinus Bradycardia
+E06240,Sinus Bradycardia
+E06241,Sinus Bradycardia
+E06251,Sinus Tachycardia
+E06252,Sinus Tachycardia
+E06253,Sinus Bradycardia
+E06254,Sinus Bradycardia
+E06255,Sinus Rhythm
+E06264,Sinus Tachycardia
+E06266,Sinus Tachycardia
+E06267,Sinus Rhythm
+E06268,Sinus Tachycardia
+E06271,Sinus Bradycardia
+E06280,Sinus Rhythm
+E06281,Sinus Tachycardia
+E06287,1st Degree AV block
+E06289,Sinus Rhythm
+E06291,Sinus Bradycardia
+E06293,"1st Degree AV block, Sinus Bradycardia"
+E06294,Sinus Rhythm
+E06296,1st Degree AV block
+E06298,Sinus Rhythm
+E06300,Sinus Rhythm
+E06302,Sinus Tachycardia
+E06303,Sinus Tachycardia
+E06306,Sinus Rhythm
+E06308,Sinus Tachycardia
+E06311,Sinus Tachycardia
+E06312,Sinus Rhythm
+E06315,Sinus Tachycardia
+E06316,"1st Degree AV block, Sinus Bradycardia"
+E06320,"1st Degree AV block, Sinus Bradycardia"
+E06328,Sinus Tachycardia
+E06331,Sinus Tachycardia
+E06332,Sinus Rhythm
+E06333,Sinus Rhythm
+E06334,Sinus Rhythm
+E06336,Sinus Tachycardia
+E06344,Sinus Tachycardia
+E06345,Sinus Tachycardia
+E06349,Sinus Tachycardia
+E06350,Sinus Tachycardia
+E06354,Sinus Bradycardia
+E06362,Sinus Rhythm
+E06363,Sinus Rhythm
+E06364,Sinus Rhythm
+E06366,Sinus Tachycardia
+E06369,1st Degree AV block
+E06373,Sinus Tachycardia
+E06377,Sinus Tachycardia
+E06378,Sinus Rhythm
+E06381,Sinus Rhythm
+E06382,Sinus Bradycardia
+E06383,"1st Degree AV block, Sinus Bradycardia"
+E06384,Sinus Bradycardia
+E06386,Sinus Rhythm
+E06390,Sinus Tachycardia
+E06391,Sinus Tachycardia
+E06392,Sinus Tachycardia
+E06393,Sinus Tachycardia
+E06394,Sinus Tachycardia
+E06395,Sinus Tachycardia
+E06396,1st Degree AV block
+E06397,1st Degree AV block
+E06398,1st Degree AV block
+E06399,1st Degree AV block
+E06401,Sinus Tachycardia
+E06403,Sinus Tachycardia
+E06405,1st Degree AV block
+E06406,Sinus Tachycardia
+E06413,Sinus Tachycardia
+E06414,Sinus Tachycardia
+E06416,Sinus Rhythm
+E06417,Sinus Bradycardia
+E06419,"1st Degree AV block, Sinus Bradycardia"
+E06420,Sinus Tachycardia
+E06421,1st Degree AV block
+E06424,Sinus Tachycardia
+E06425,Sinus Tachycardia
+E06429,Sinus Tachycardia
+E06430,Sinus Rhythm
+E06432,Sinus Bradycardia
+E06434,Sinus Rhythm
+E06437,1st Degree AV block
+E06438,Sinus Rhythm
+E06440,"1st Degree AV block, Sinus Bradycardia"
+E06441,Sinus Bradycardia
+E06444,Sinus Bradycardia
+E06446,Sinus Rhythm
+E06449,1st Degree AV block
+E06450,Sinus Bradycardia
+E06451,Sinus Bradycardia
+E06454,1st Degree AV block
+E06456,"1st Degree AV block, Sinus Bradycardia"
+E06457,Sinus Bradycardia
+E06460,Sinus Tachycardia
+E06462,Sinus Tachycardia
+E06465,Sinus Tachycardia
+E06466,Sinus Tachycardia
+E06468,1st Degree AV block
+E06469,Sinus Tachycardia
+E06470,Sinus Tachycardia
+E06473,Sinus Tachycardia
+E06476,Sinus Bradycardia
+E06480,Sinus Bradycardia
+E06481,Sinus Bradycardia
+E06483,Sinus Bradycardia
+E06485,Sinus Rhythm
+E06486,Sinus Bradycardia
+E06487,Sinus Tachycardia
+E06488,Sinus Tachycardia
+E06491,1st Degree AV block
+E06492,"1st Degree AV block, Sinus Bradycardia"
+E06493,Sinus Tachycardia
+E06495,1st Degree AV block
+E06499,Sinus Tachycardia
+E06500,Sinus Tachycardia
+E06502,Sinus Bradycardia
+E06503,1st Degree AV block
+E06504,1st Degree AV block
+E06505,Sinus Rhythm
+E06506,"1st Degree AV block, Sinus Bradycardia"
+E06507,1st Degree AV block
+E06509,Sinus Tachycardia
+E06514,Sinus Tachycardia
+E06526,Sinus Bradycardia
+E06528,Sinus Tachycardia
+E06531,Sinus Rhythm
+E06536,Sinus Tachycardia
+E06540,Sinus Rhythm
+E06541,Sinus Bradycardia
+E06545,Sinus Bradycardia
+E06546,Sinus Tachycardia
+E06547,Sinus Rhythm
+E06549,Sinus Tachycardia
+E06555,Sinus Rhythm
+E06556,1st Degree AV block
+E06566,Sinus Bradycardia
+E06568,Sinus Rhythm
+E06571,Sinus Bradycardia
+E06576,Sinus Tachycardia
+E06578,Sinus Rhythm
+E06589,Sinus Tachycardia
+E06593,"1st Degree AV block, Sinus Tachycardia"
+E06596,Sinus Tachycardia
+E06597,1st Degree AV block
+E06600,Sinus Tachycardia
+E06601,Sinus Tachycardia
+E06604,Sinus Tachycardia
+E06608,Sinus Tachycardia
+E06609,Sinus Rhythm
+E06610,Sinus Rhythm
+E06613,Sinus Rhythm
+E06616,1st Degree AV block
+E06622,"1st Degree AV block, Sinus Bradycardia"
+E06626,Sinus Bradycardia
+E06627,Sinus Rhythm
+E06628,1st Degree AV block
+E06630,Sinus Bradycardia
+E06635,1st Degree AV block
+E06636,Sinus Bradycardia
+E06638,Sinus Bradycardia
+E06645,1st Degree AV block
+E06646,Sinus Bradycardia
+E06647,Sinus Rhythm
+E06648,Sinus Bradycardia
+E06653,Sinus Bradycardia
+E06654,Sinus Bradycardia
+E06656,1st Degree AV block
+E06657,Sinus Bradycardia
+E06658,Sinus Tachycardia
+E06661,Sinus Bradycardia
+E06663,Sinus Bradycardia
+E06664,Sinus Tachycardia
+E06665,Sinus Bradycardia
+E06667,"1st Degree AV block, Sinus Bradycardia"
+E06668,Sinus Rhythm
+E06669,Sinus Rhythm
+E06670,"1st Degree AV block, Sinus Bradycardia"
+E06672,Sinus Rhythm
+E06678,Sinus Tachycardia
+E06679,Sinus Bradycardia
+E06680,"1st Degree AV block, Sinus Bradycardia"
+E06688,Sinus Tachycardia
+E06690,Sinus Rhythm
+E06693,Sinus Tachycardia
+E06696,Sinus Tachycardia
+E06697,"1st Degree AV block, Sinus Bradycardia"
+E06699,Sinus Rhythm
+E06700,Sinus Rhythm
+E06702,Sinus Tachycardia
+E06703,Sinus Tachycardia
+E06704,Sinus Rhythm
+E06705,1st Degree AV block
+E06706,1st Degree AV block
+E06708,1st Degree AV block
+E06709,"1st Degree AV block, Sinus Tachycardia"
+E06710,Sinus Rhythm
+E06714,Sinus Tachycardia
+E06716,1st Degree AV block
+E06717,Sinus Tachycardia
+E06718,Sinus Tachycardia
+E06719,Sinus Rhythm
+E06721,1st Degree AV block
+E06725,Sinus Bradycardia
+E06728,Sinus Tachycardia
+E06729,Sinus Tachycardia
+E06730,Sinus Bradycardia
+E06733,Sinus Tachycardia
+E06735,Sinus Tachycardia
+E06747,Sinus Bradycardia
+E06749,Sinus Tachycardia
+E06750,1st Degree AV block
+E06752,Sinus Tachycardia
+E06753,Sinus Rhythm
+E06758,Sinus Bradycardia
+E06761,"1st Degree AV block, Sinus Bradycardia"
+E06767,Sinus Bradycardia
+E06768,Sinus Tachycardia
+E06770,Sinus Bradycardia
+E06771,Sinus Tachycardia
+E06776,Sinus Tachycardia
+E06780,Sinus Rhythm
+E06781,Sinus Rhythm
+E06782,Sinus Tachycardia
+E06783,Sinus Tachycardia
+E06785,Sinus Tachycardia
+E06786,Sinus Tachycardia
+E06790,1st Degree AV block
+E06791,Sinus Rhythm
+E06797,Sinus Rhythm
+E06799,"1st Degree AV block, Sinus Bradycardia"
+E06804,Sinus Rhythm
+E06808,Sinus Rhythm
+E06810,Sinus Bradycardia
+E06811,Sinus Bradycardia
+E06814,Sinus Rhythm
+E06816,Sinus Tachycardia
+E06821,Sinus Rhythm
+E06823,Sinus Bradycardia
+E06825,1st Degree AV block
+E06826,Sinus Rhythm
+E06831,"1st Degree AV block, Sinus Bradycardia"
+E06832,Sinus Bradycardia
+E06834,Sinus Bradycardia
+E06835,Sinus Rhythm
+E06836,Sinus Rhythm
+E06837,Sinus Rhythm
+E06839,Sinus Rhythm
+E06842,1st Degree AV block
+E06844,Sinus Bradycardia
+E06845,Sinus Bradycardia
+E06847,Sinus Bradycardia
+E06850,Sinus Bradycardia
+E06851,Sinus Rhythm
+E06852,Sinus Rhythm
+E06853,1st Degree AV block
+E06857,Sinus Bradycardia
+E06858,Sinus Bradycardia
+E06859,Sinus Rhythm
+E06865,"1st Degree AV block, Sinus Bradycardia"
+E06867,Sinus Rhythm
+E06868,Sinus Bradycardia
+E06869,Sinus Rhythm
+E06871,Sinus Tachycardia
+E06872,Sinus Bradycardia
+E06873,Sinus Rhythm
+E06874,Sinus Rhythm
+E06876,1st Degree AV block
+E06878,Sinus Rhythm
+E06879,"1st Degree AV block, Sinus Bradycardia"
+E06883,Sinus Bradycardia
+E06884,Sinus Tachycardia
+E06885,Sinus Bradycardia
+E06887,Sinus Tachycardia
+E06889,Sinus Bradycardia
+E06890,Sinus Bradycardia
+E06894,1st Degree AV block
+E06895,1st Degree AV block
+E06897,Sinus Rhythm
+E06898,Sinus Rhythm
+E06899,Sinus Bradycardia
+E06900,Sinus Rhythm
+E06903,1st Degree AV block
+E06905,Sinus Bradycardia
+E06909,Sinus Tachycardia
+E06911,Sinus Bradycardia
+E06913,Sinus Rhythm
+E06918,"1st Degree AV block, Sinus Bradycardia"
+E06920,Sinus Tachycardia
+E06924,Sinus Rhythm
+E06926,Sinus Tachycardia
+E06927,Sinus Bradycardia
+E06928,Sinus Bradycardia
+E06932,Sinus Bradycardia
+E06933,Sinus Bradycardia
+E06935,1st Degree AV block
+E06941,1st Degree AV block
+E06944,Sinus Bradycardia
+E06948,Sinus Rhythm
+E06949,1st Degree AV block
+E06951,Sinus Bradycardia
+E06956,Sinus Bradycardia
+E06959,Sinus Rhythm
+E06960,Sinus Bradycardia
+E06961,1st Degree AV block
+E06963,Sinus Tachycardia
+E06965,Sinus Tachycardia
+E06966,Sinus Rhythm
+E06967,Sinus Rhythm
+E06968,Sinus Tachycardia
+E06970,Sinus Bradycardia
+E06971,Sinus Bradycardia
+E06979,Sinus Tachycardia
+E06992,"1st Degree AV block, Sinus Bradycardia"
+E06993,1st Degree AV block
+E06997,Sinus Tachycardia
+E06998,Sinus Bradycardia
+E07003,Sinus Rhythm
+E07004,Sinus Bradycardia
+E07007,Sinus Bradycardia
+E07010,Sinus Rhythm
+E07011,Sinus Rhythm
+E07012,"1st Degree AV block, Sinus Bradycardia"
+E07013,Sinus Bradycardia
+E07014,Sinus Tachycardia
+E07015,Sinus Tachycardia
+E07016,Sinus Bradycardia
+E07017,Sinus Bradycardia
+E07019,"1st Degree AV block, Sinus Bradycardia"
+E07020,Sinus Rhythm
+E07021,Sinus Bradycardia
+E07022,Sinus Bradycardia
+E07023,"1st Degree AV block, Sinus Bradycardia"
+E07024,Sinus Rhythm
+E07025,1st Degree AV block
+E07027,Sinus Bradycardia
+E07028,Sinus Bradycardia
+E07030,Sinus Bradycardia
+E07032,Sinus Bradycardia
+E07033,1st Degree AV block
+E07034,Sinus Bradycardia
+E07035,Sinus Bradycardia
+E07038,Sinus Bradycardia
+E07039,Sinus Bradycardia
+E07041,1st Degree AV block
+E07042,Sinus Bradycardia
+E07045,Sinus Bradycardia
+E07046,Sinus Bradycardia
+E07047,Sinus Bradycardia
+E07050,Sinus Bradycardia
+E07051,Sinus Rhythm
+E07052,Sinus Rhythm
+E07053,Sinus Rhythm
+E07054,Sinus Rhythm
+E07055,Sinus Rhythm
+E07056,Sinus Bradycardia
+E07057,"1st Degree AV block, Sinus Bradycardia"
+E07058,Sinus Bradycardia
+E07062,Sinus Tachycardia
+E07067,1st Degree AV block
+E07068,Sinus Bradycardia
+E07070,Sinus Bradycardia
+E07073,1st Degree AV block
+E07074,1st Degree AV block
+E07075,Sinus Rhythm
+E07076,Sinus Rhythm
+E07082,Sinus Rhythm
+E07088,Sinus Rhythm
+E07089,Sinus Tachycardia
+E07090,"1st Degree AV block, Sinus Bradycardia"
+E07091,Sinus Rhythm
+E07092,Sinus Tachycardia
+E07093,1st Degree AV block
+E07097,Sinus Tachycardia
+E07098,Sinus Tachycardia
+E07099,Sinus Bradycardia
+E07104,Sinus Rhythm
+E07109,Sinus Tachycardia
+E07111,Sinus Bradycardia
+E07112,Sinus Bradycardia
+E07114,Sinus Bradycardia
+E07115,Sinus Rhythm
+E07122,Sinus Tachycardia
+E07123,Sinus Bradycardia
+E07124,Sinus Bradycardia
+E07126,1st Degree AV block
+E07128,1st Degree AV block
+E07129,Sinus Bradycardia
+E07130,Sinus Rhythm
+E07131,"1st Degree AV block, Sinus Bradycardia"
+E07132,Sinus Rhythm
+E07134,Sinus Rhythm
+E07135,Sinus Bradycardia
+E07136,1st Degree AV block
+E07138,Sinus Bradycardia
+E07139,Sinus Bradycardia
+E07141,1st Degree AV block
+E07144,Sinus Rhythm
+E07146,Sinus Tachycardia
+E07149,Sinus Rhythm
+E07150,Sinus Bradycardia
+E07151,Sinus Tachycardia
+E07153,1st Degree AV block
+E07159,Sinus Tachycardia
+E07160,Sinus Rhythm
+E07161,"1st Degree AV block, Sinus Bradycardia"
+E07164,Sinus Bradycardia
+E07166,Sinus Rhythm
+E07167,Sinus Rhythm
+E07170,Sinus Tachycardia
+E07174,Sinus Tachycardia
+E07175,Sinus Bradycardia
+E07176,Sinus Rhythm
+E07177,Sinus Rhythm
+E07178,Sinus Rhythm
+E07179,Sinus Tachycardia
+E07181,Sinus Rhythm
+E07185,Sinus Rhythm
+E07188,Sinus Rhythm
+E07190,Sinus Rhythm
+E07194,1st Degree AV block
+E07195,Sinus Tachycardia
+E07199,Sinus Bradycardia
+E07201,Sinus Bradycardia
+E07202,Sinus Bradycardia
+E07203,Sinus Rhythm
+E07205,Sinus Bradycardia
+E07206,"1st Degree AV block, Sinus Bradycardia"
+E07207,Sinus Rhythm
+E07208,Sinus Rhythm
+E07209,Sinus Rhythm
+E07210,Sinus Rhythm
+E07211,Sinus Rhythm
+E07214,Sinus Rhythm
+E07215,Sinus Rhythm
+E07217,Sinus Tachycardia
+E07219,Sinus Rhythm
+E07221,Sinus Tachycardia
+E07222,Sinus Rhythm
+E07224,Sinus Tachycardia
+E07228,Sinus Tachycardia
+E07229,Sinus Tachycardia
+E07230,1st Degree AV block
+E07233,Sinus Rhythm
+E07235,1st Degree AV block
+E07237,Sinus Tachycardia
+E07240,Sinus Bradycardia
+E07242,Sinus Tachycardia
+E07243,Sinus Tachycardia
+E07244,Sinus Tachycardia
+E07245,1st Degree AV block
+E07247,1st Degree AV block
+E07248,Sinus Bradycardia
+E07249,Sinus Bradycardia
+E07250,Sinus Rhythm
+E07252,1st Degree AV block
+E07253,Sinus Bradycardia
+E07254,Sinus Bradycardia
+E07255,Sinus Bradycardia
+E07256,Sinus Tachycardia
+E07258,1st Degree AV block
+E07259,Sinus Tachycardia
+E07262,Sinus Tachycardia
+E07264,Sinus Rhythm
+E07265,Sinus Tachycardia
+E07269,1st Degree AV block
+E07271,Sinus Rhythm
+E07277,"1st Degree AV block, Sinus Tachycardia"
+E07282,Sinus Tachycardia
+E07283,Sinus Tachycardia
+E07285,Sinus Rhythm
+E07286,Sinus Bradycardia
+E07287,Sinus Tachycardia
+E07289,1st Degree AV block
+E07293,Sinus Rhythm
+E07294,Sinus Bradycardia
+E07297,Sinus Bradycardia
+E07298,Sinus Rhythm
+E07299,Sinus Bradycardia
+E07300,Sinus Rhythm
+E07301,"1st Degree AV block, Sinus Bradycardia"
+E07304,Sinus Rhythm
+E07305,Sinus Rhythm
+E07306,Sinus Bradycardia
+E07308,Sinus Tachycardia
+E07309,Sinus Rhythm
+E07314,Sinus Tachycardia
+E07316,1st Degree AV block
+E07319,Sinus Tachycardia
+E07321,Sinus Tachycardia
+E07326,Sinus Rhythm
+E07334,Sinus Tachycardia
+E07335,Sinus Rhythm
+E07337,Sinus Rhythm
+E07339,Sinus Tachycardia
+E07345,Sinus Bradycardia
+E07346,Sinus Rhythm
+E07347,Sinus Bradycardia
+E07351,Sinus Tachycardia
+E07352,Sinus Tachycardia
+E07357,Sinus Bradycardia
+E07358,Sinus Tachycardia
+E07362,"1st Degree AV block, Sinus Bradycardia"
+E07363,Sinus Rhythm
+E07365,1st Degree AV block
+E07368,Sinus Rhythm
+E07370,Sinus Tachycardia
+E07371,Sinus Bradycardia
+E07372,Sinus Rhythm
+E07373,Sinus Rhythm
+E07374,Sinus Rhythm
+E07379,Sinus Rhythm
+E07380,Sinus Rhythm
+E07382,"1st Degree AV block, Sinus Bradycardia"
+E07383,Sinus Rhythm
+E07385,Sinus Rhythm
+E07387,"1st Degree AV block, Sinus Tachycardia"
+E07388,Sinus Rhythm
+E07389,Sinus Rhythm
+E07390,Sinus Rhythm
+E07391,Sinus Tachycardia
+E07392,Sinus Rhythm
+E07393,Sinus Tachycardia
+E07396,Sinus Bradycardia
+E07397,Sinus Rhythm
+E07398,Sinus Rhythm
+E07399,Sinus Rhythm
+E07401,Sinus Bradycardia
+E07404,Sinus Rhythm
+E07405,Sinus Bradycardia
+E07406,Sinus Rhythm
+E07408,Sinus Tachycardia
+E07410,Sinus Tachycardia
+E07411,Sinus Tachycardia
+E07412,Sinus Rhythm
+E07413,"1st Degree AV block, Sinus Bradycardia"
+E07414,Sinus Bradycardia
+E07416,Sinus Rhythm
+E07419,Sinus Tachycardia
+E07420,1st Degree AV block
+E07421,Sinus Bradycardia
+E07424,1st Degree AV block
+E07425,Sinus Rhythm
+E07426,Sinus Tachycardia
+E07427,Sinus Bradycardia
+E07428,Sinus Tachycardia
+E07429,Sinus Rhythm
+E07430,Sinus Rhythm
+E07432,Sinus Bradycardia
+E07433,Sinus Rhythm
+E07434,Sinus Rhythm
+E07435,Sinus Rhythm
+E07436,Sinus Rhythm
+E07437,Sinus Rhythm
+E07438,Sinus Rhythm
+E07439,Sinus Bradycardia
+E07440,Sinus Rhythm
+E07441,Sinus Tachycardia
+E07442,Sinus Tachycardia
+E07443,Sinus Bradycardia
+E07444,Sinus Rhythm
+E07447,Sinus Rhythm
+E07450,Sinus Bradycardia
+E07453,Sinus Tachycardia
+E07455,Sinus Tachycardia
+E07456,Sinus Rhythm
+E07460,Sinus Rhythm
+E07462,Sinus Rhythm
+E07463,Sinus Rhythm
+E07464,Sinus Rhythm
+E07465,Sinus Rhythm
+E07470,Sinus Rhythm
+E07472,Sinus Rhythm
+E07473,Sinus Tachycardia
+E07477,Sinus Rhythm
+E07478,Sinus Bradycardia
+E07479,Sinus Rhythm
+E07480,Sinus Rhythm
+E07481,Sinus Rhythm
+E07482,"1st Degree AV block, Sinus Bradycardia"
+E07483,Sinus Tachycardia
+E07484,Sinus Rhythm
+E07485,Sinus Tachycardia
+E07486,Sinus Tachycardia
+E07487,Sinus Bradycardia
+E07489,Sinus Rhythm
+E07491,Sinus Tachycardia
+E07493,Sinus Bradycardia
+E07494,"1st Degree AV block, Sinus Bradycardia"
+E07495,Sinus Rhythm
+E07496,Sinus Rhythm
+E07498,Sinus Rhythm
+E07499,Sinus Rhythm
+E07500,Sinus Bradycardia
+E07501,Sinus Tachycardia
+E07502,Sinus Tachycardia
+E07503,Sinus Tachycardia
+E07506,Sinus Rhythm
+E07508,Sinus Tachycardia
+E07509,Sinus Bradycardia
+E07510,Sinus Bradycardia
+E07511,Sinus Rhythm
+E07512,Sinus Bradycardia
+E07513,Sinus Rhythm
+E07514,Sinus Tachycardia
+E07515,Sinus Rhythm
+E07517,Sinus Tachycardia
+E07518,Sinus Rhythm
+E07520,Sinus Rhythm
+E07522,Sinus Bradycardia
+E07523,Sinus Bradycardia
+E07526,Sinus Rhythm
+E07527,Sinus Bradycardia
+E07530,Sinus Rhythm
+E07532,"Sinus Bradycardia, ST changes"
+E07533,Sinus Bradycardia
+E07534,Sinus Bradycardia
+E07535,Sinus Rhythm
+E07537,Sinus Rhythm
+E07538,1st Degree AV block
+E07539,Sinus Rhythm
+E07540,Sinus Rhythm
+E07542,Sinus Rhythm
+E07543,Sinus Tachycardia
+E07545,Sinus Rhythm
+E07547,Sinus Tachycardia
+E07548,Sinus Tachycardia
+E07550,Sinus Rhythm
+E07551,Sinus Tachycardia
+E07552,Sinus Rhythm
+E07553,Sinus Bradycardia
+E07554,Sinus Rhythm
+E07555,Sinus Tachycardia
+E07556,Sinus Rhythm
+E07558,Sinus Tachycardia
+E07559,Sinus Bradycardia
+E07562,1st Degree AV block
+E07569,Sinus Rhythm
+E07570,Sinus Rhythm
+E07571,Sinus Tachycardia
+E07572,Sinus Tachycardia
+E07573,Sinus Bradycardia
+E07574,Sinus Rhythm
+E07575,Sinus Rhythm
+E07576,Sinus Rhythm
+E07577,Sinus Tachycardia
+E07579,Sinus Rhythm
+E07580,Sinus Rhythm
+E07582,Sinus Rhythm
+E07583,Sinus Rhythm
+E07590,Sinus Rhythm
+E07591,Sinus Bradycardia
+E07593,Myocardial infarction
+E07596,1st Degree AV block
+E07598,Sinus Tachycardia
+E07601,Sinus Rhythm
+E07602,Sinus Rhythm
+E07605,Sinus Rhythm
+E07606,Sinus Rhythm
+E07607,Sinus Rhythm
+E07608,1st Degree AV block
+E07609,1st Degree AV block
+E07610,Sinus Tachycardia
+E07611,Sinus Tachycardia
+E07613,Sinus Tachycardia
+E07614,Sinus Rhythm
+E07615,Sinus Rhythm
+E07620,Sinus Bradycardia
+E07621,Sinus Rhythm
+E07623,Sinus Tachycardia
+E07626,Sinus Rhythm
+E07627,Sinus Bradycardia
+E07629,Sinus Tachycardia
+E07630,Sinus Tachycardia
+E07631,Sinus Rhythm
+E07632,Sinus Rhythm
+E07633,Sinus Rhythm
+E07634,Sinus Rhythm
+E07635,1st Degree AV block
+E07636,1st Degree AV block
+E07637,Sinus Tachycardia
+E07638,Sinus Bradycardia
+E07640,"1st Degree AV block, Sinus Bradycardia"
+E07645,Sinus Rhythm
+E07648,Sinus Rhythm
+E07649,Sinus Rhythm
+E07650,Sinus Tachycardia
+E07653,"1st Degree AV block, Sinus Bradycardia"
+E07654,Sinus Rhythm
+E07655,Sinus Tachycardia
+E07656,Sinus Bradycardia
+E07660,Sinus Tachycardia
+E07661,Sinus Bradycardia
+E07662,Sinus Tachycardia
+E07663,Sinus Rhythm
+E07664,Sinus Rhythm
+E07665,Sinus Bradycardia
+E07666,Sinus Tachycardia
+E07667,Sinus Tachycardia
+E07668,"1st Degree AV block, Sinus Tachycardia"
+E07669,1st Degree AV block
+E07670,Sinus Tachycardia
+E07672,Sinus Rhythm
+E07675,Sinus Tachycardia
+E07677,Sinus Rhythm
+E07678,Sinus Bradycardia
+E07680,"1st Degree AV block, Sinus Bradycardia"
+E07683,Sinus Rhythm
+E07684,1st Degree AV block
+E07685,Sinus Rhythm
+E07686,Sinus Rhythm
+E07687,Sinus Rhythm
+E07688,Sinus Tachycardia
+E07690,Sinus Tachycardia
+E07691,Sinus Tachycardia
+E07692,Sinus Rhythm
+E07694,Sinus Bradycardia
+E07697,Sinus Bradycardia
+E07700,Sinus Bradycardia
+E07703,Sinus Rhythm
+E07704,Sinus Tachycardia
+E07706,Sinus Rhythm
+E07707,Sinus Tachycardia
+E07708,Sinus Tachycardia
+E07710,Sinus Bradycardia
+E07711,Sinus Tachycardia
+E07712,Sinus Rhythm
+E07713,Sinus Rhythm
+E07716,Sinus Rhythm
+E07717,Sinus Tachycardia
+E07718,Sinus Rhythm
+E07720,Sinus Bradycardia
+E07722,Sinus Rhythm
+E07726,Sinus Bradycardia
+E07727,Sinus Rhythm
+E07729,Sinus Rhythm
+E07731,Sinus Rhythm
+E07732,Sinus Tachycardia
+E07734,Sinus Tachycardia
+E07736,Sinus Bradycardia
+E07737,Sinus Rhythm
+E07738,"1st Degree AV block, Sinus Bradycardia"
+E07741,Sinus Rhythm
+E07742,Sinus Rhythm
+E07743,Sinus Tachycardia
+E07744,Sinus Rhythm
+E07747,Sinus Tachycardia
+E07750,Sinus Rhythm
+E07751,Sinus Rhythm
+E07752,Sinus Rhythm
+E07753,Sinus Tachycardia
+E07755,Sinus Rhythm
+E07756,Sinus Bradycardia
+E07758,Sinus Rhythm
+E07760,Sinus Rhythm
+E07763,Sinus Bradycardia
+E07764,Sinus Bradycardia
+E07765,Sinus Bradycardia
+E07766,Sinus Tachycardia
+E07767,Sinus Tachycardia
+E07768,Sinus Tachycardia
+E07772,Sinus Tachycardia
+E07773,Sinus Rhythm
+E07774,Sinus Rhythm
+E07775,Sinus Rhythm
+E07777,Sinus Rhythm
+E07778,Sinus Tachycardia
+E07779,Sinus Bradycardia
+E07781,Sinus Tachycardia
+E07782,Sinus Rhythm
+E07783,Sinus Tachycardia
+E07784,Sinus Rhythm
+E07785,Sinus Bradycardia
+E07786,Sinus Bradycardia
+E07787,Sinus Tachycardia
+E07788,Sinus Rhythm
+E07790,Sinus Rhythm
+E07791,Sinus Rhythm
+E07792,Sinus Tachycardia
+E07794,Sinus Rhythm
+E07795,Sinus Bradycardia
+E07797,Sinus Rhythm
+E07800,Sinus Tachycardia
+E07801,Sinus Bradycardia
+E07802,Sinus Rhythm
+E07803,1st Degree AV block
+E07805,"1st Degree AV block, Sinus Bradycardia"
+E07806,Sinus Tachycardia
+E07808,Sinus Rhythm
+E07809,Sinus Tachycardia
+E07810,1st Degree AV block
+E07813,Sinus Rhythm
+E07814,Sinus Tachycardia
+E07815,"1st Degree AV block, Sinus Bradycardia"
+E07816,"1st Degree AV block, Sinus Bradycardia"
+E07817,Sinus Rhythm
+E07819,"1st Degree AV block, Sinus Bradycardia"
+E07820,"1st Degree AV block, Sinus Bradycardia"
+E07821,Sinus Tachycardia
+E07822,Sinus Rhythm
+E07823,1st Degree AV block
+E07824,Sinus Bradycardia
+E07825,Sinus Rhythm
+E07826,Myocardial infarction
+E07828,Sinus Rhythm
+E07829,Sinus Tachycardia
+E07831,Sinus Rhythm
+E07832,1st Degree AV block
+E07833,"1st Degree AV block, Sinus Bradycardia"
+E07834,Sinus Rhythm
+E07835,1st Degree AV block
+E07836,Sinus Rhythm
+E07837,1st Degree AV block
+E07838,Sinus Rhythm
+E07839,Sinus Rhythm
+E07840,Sinus Rhythm
+E07841,Sinus Tachycardia
+E07842,Sinus Rhythm
+E07843,1st Degree AV block
+E07844,Sinus Bradycardia
+E07845,Sinus Rhythm
+E07846,Sinus Rhythm
+E07848,Sinus Rhythm
+E07849,Sinus Rhythm
+E07850,Sinus Tachycardia
+E07851,Sinus Bradycardia
+E07854,"1st Degree AV block, Sinus Bradycardia"
+E07855,Sinus Bradycardia
+E07857,Sinus Rhythm
+E07858,Sinus Bradycardia
+E07859,Sinus Rhythm
+E07861,Sinus Rhythm
+E07862,Sinus Rhythm
+E07863,Sinus Rhythm
+E07864,"1st Degree AV block, Sinus Tachycardia"
+E07867,Sinus Bradycardia
+E07868,"1st Degree AV block, Sinus Bradycardia"
+E07869,Sinus Rhythm
+E07872,Sinus Rhythm
+E07874,Sinus Bradycardia
+E07875,Sinus Rhythm
+E07876,Sinus Rhythm
+E07878,Sinus Rhythm
+E07879,Sinus Rhythm
+E07882,Sinus Rhythm
+E07885,Sinus Rhythm
+E07886,Sinus Rhythm
+E07887,Sinus Bradycardia
+E07888,Sinus Tachycardia
+E07889,Sinus Bradycardia
+E07890,Sinus Rhythm
+E07891,Sinus Bradycardia
+E07892,Sinus Rhythm
+E07894,Sinus Rhythm
+E07895,Sinus Bradycardia
+E07897,Sinus Tachycardia
+E07898,Sinus Tachycardia
+E07899,Sinus Rhythm
+E07900,Sinus Rhythm
+E07901,1st Degree AV block
+E07902,Sinus Rhythm
+E07904,Sinus Rhythm
+E07907,Sinus Rhythm
+E07909,1st Degree AV block
+E07910,Sinus Rhythm
+E07912,1st Degree AV block
+E07913,1st Degree AV block
+E07915,Sinus Rhythm
+E07917,Sinus Tachycardia
+E07918,Sinus Rhythm
+E07919,Sinus Rhythm
+E07920,Sinus Tachycardia
+E07921,Sinus Rhythm
+E07922,Sinus Rhythm
+E07923,Sinus Rhythm
+E07924,Sinus Bradycardia
+E07926,Sinus Rhythm
+E07927,Sinus Tachycardia
+E07929,Sinus Rhythm
+E07930,Sinus Rhythm
+E07932,Sinus Rhythm
+E07933,Sinus Bradycardia
+E07934,Sinus Rhythm
+E07935,Sinus Tachycardia
+E07946,Sinus Bradycardia
+E07947,Sinus Rhythm
+E07948,Sinus Bradycardia
+E07949,Sinus Rhythm
+E07950,Sinus Bradycardia
+E07951,Sinus Rhythm
+E07952,1st Degree AV block
+E07953,Sinus Rhythm
+E07954,Sinus Rhythm
+E07957,1st Degree AV block
+E07961,Sinus Bradycardia
+E07963,Sinus Rhythm
+E07966,Sinus Rhythm
+E07970,Sinus Bradycardia
+E07973,Sinus Bradycardia
+E07977,Sinus Rhythm
+E07979,1st Degree AV block
+E07981,Sinus Rhythm
+E07985,Sinus Rhythm
+E07990,1st Degree AV block
+E07991,Sinus Bradycardia
+E07992,Sinus Bradycardia
+E07994,Sinus Bradycardia
+E07997,1st Degree AV block
+E07998,Sinus Bradycardia
+E07999,Sinus Bradycardia
+E08001,Sinus Rhythm
+E08003,Sinus Rhythm
+E08004,Sinus Rhythm
+E08005,1st Degree AV block
+E08006,1st Degree AV block
+E08007,Sinus Bradycardia
+E08014,Sinus Rhythm
+E08017,1st Degree AV block
+E08019,Sinus Rhythm
+E08020,Sinus Bradycardia
+E08021,Sinus Rhythm
+E08022,Sinus Bradycardia
+E08024,Sinus Tachycardia
+E08025,Sinus Tachycardia
+E08026,Sinus Tachycardia
+E08031,Sinus Rhythm
+E08035,Sinus Rhythm
+E08038,Sinus Bradycardia
+E08040,Sinus Rhythm
+E08041,Sinus Tachycardia
+E08046,1st Degree AV block
+E08047,1st Degree AV block
+E08050,Sinus Rhythm
+E08051,Sinus Tachycardia
+E08054,1st Degree AV block
+E08057,Sinus Bradycardia
+E08059,Sinus Bradycardia
+E08060,Sinus Bradycardia
+E08061,Sinus Rhythm
+E08062,Sinus Rhythm
+E08063,Sinus Bradycardia
+E08064,Sinus Bradycardia
+E08065,1st Degree AV block
+E08068,Sinus Rhythm
+E08069,Sinus Rhythm
+E08070,Sinus Bradycardia
+E08071,Sinus Rhythm
+E08074,Sinus Rhythm
+E08076,Sinus Bradycardia
+E08077,Sinus Bradycardia
+E08078,Sinus Rhythm
+E08080,Sinus Rhythm
+E08081,Sinus Bradycardia
+E08082,Sinus Tachycardia
+E08086,Sinus Rhythm
+E08088,Sinus Tachycardia
+E08089,1st Degree AV block
+E08093,Sinus Rhythm
+E08094,Sinus Bradycardia
+E08096,Sinus Bradycardia
+E08098,Sinus Bradycardia
+E08100,Sinus Bradycardia
+E08101,Sinus Bradycardia
+E08102,Sinus Rhythm
+E08103,Sinus Rhythm
+E08104,Sinus Bradycardia
+E08105,Sinus Rhythm
+E08106,Sinus Tachycardia
+E08107,Sinus Bradycardia
+E08111,Sinus Tachycardia
+E08112,Sinus Bradycardia
+E08114,Sinus Bradycardia
+E08115,Sinus Rhythm
+E08116,Sinus Rhythm
+E08117,Sinus Bradycardia
+E08118,Sinus Bradycardia
+E08120,Sinus Rhythm
+E08122,Sinus Bradycardia
+E08124,Sinus Bradycardia
+E08126,Sinus Tachycardia
+E08132,Sinus Rhythm
+E08133,Sinus Rhythm
+E08134,Sinus Rhythm
+E08135,1st Degree AV block
+E08136,Sinus Bradycardia
+E08137,Sinus Rhythm
+E08138,"1st Degree AV block, Sinus Bradycardia"
+E08140,Sinus Bradycardia
+E08142,Sinus Rhythm
+E08143,Sinus Rhythm
+E08144,Sinus Rhythm
+E08145,Sinus Bradycardia
+E08146,Sinus Rhythm
+E08149,Sinus Tachycardia
+E08150,Sinus Tachycardia
+E08151,Sinus Rhythm
+E08153,Sinus Bradycardia
+E08154,1st Degree AV block
+E08157,1st Degree AV block
+E08158,"1st Degree AV block, Sinus Bradycardia"
+E08159,Sinus Bradycardia
+E08160,Sinus Rhythm
+E08161,Sinus Bradycardia
+E08162,Sinus Rhythm
+E08163,Sinus Bradycardia
+E08167,Sinus Rhythm
+E08168,Sinus Rhythm
+E08169,"1st Degree AV block, Sinus Bradycardia"
+E08172,Sinus Rhythm
+E08174,Sinus Rhythm
+E08175,Sinus Rhythm
+E08176,Sinus Bradycardia
+E08177,Sinus Rhythm
+E08178,Sinus Bradycardia
+E08179,Sinus Rhythm
+E08183,Sinus Rhythm
+E08184,Sinus Rhythm
+E08186,Sinus Rhythm
+E08187,Sinus Bradycardia
+E08188,Sinus Bradycardia
+E08190,1st Degree AV block
+E08191,Sinus Bradycardia
+E08193,Sinus Bradycardia
+E08194,Sinus Rhythm
+E08199,Sinus Rhythm
+E08200,Sinus Bradycardia
+E08201,Sinus Bradycardia
+E08203,1st Degree AV block
+E08205,Sinus Bradycardia
+E08206,Sinus Rhythm
+E08211,Sinus Rhythm
+E08214,1st Degree AV block
+E08215,Sinus Rhythm
+E08216,Sinus Rhythm
+E08217,Sinus Bradycardia
+E08218,Sinus Rhythm
+E08220,Sinus Rhythm
+E08221,Sinus Bradycardia
+E08222,Sinus Rhythm
+E08226,Sinus Rhythm
+E08227,Sinus Rhythm
+E08228,Sinus Rhythm
+E08230,Sinus Rhythm
+E08231,Sinus Bradycardia
+E08233,Sinus Rhythm
+E08234,Sinus Rhythm
+E08235,Sinus Rhythm
+E08236,Sinus Bradycardia
+E08237,Sinus Rhythm
+E08238,Sinus Rhythm
+E08239,Sinus Bradycardia
+E08240,Sinus Rhythm
+E08242,Sinus Rhythm
+E08245,Sinus Bradycardia
+E08246,Sinus Bradycardia
+E08249,Sinus Bradycardia
+E08251,Sinus Bradycardia
+E08252,Sinus Rhythm
+E08253,Sinus Tachycardia
+E08254,Sinus Bradycardia
+E08256,Sinus Bradycardia
+E08259,Sinus Bradycardia
+E08261,Sinus Rhythm
+E08262,Sinus Rhythm
+E08264,Sinus Rhythm
+E08267,Sinus Rhythm
+E08269,Sinus Rhythm
+E08270,Sinus Bradycardia
+E08271,Sinus Bradycardia
+E08272,Sinus Rhythm
+E08273,1st Degree AV block
+E08274,Sinus Bradycardia
+E08275,Sinus Bradycardia
+E08276,Sinus Rhythm
+E08279,Sinus Bradycardia
+E08280,Sinus Rhythm
+E08281,Sinus Bradycardia
+E08283,Sinus Bradycardia
+E08287,Sinus Rhythm
+E08288,Sinus Rhythm
+E08290,Sinus Rhythm
+E08291,Sinus Bradycardia
+E08292,Sinus Tachycardia
+E08294,Sinus Bradycardia
+E08296,1st Degree AV block
+E08297,Sinus Rhythm
+E08298,Sinus Rhythm
+E08300,Sinus Bradycardia
+E08302,Sinus Bradycardia
+E08303,Sinus Rhythm
+E08304,Sinus Bradycardia
+E08306,Sinus Bradycardia
+E08307,Sinus Bradycardia
+E08308,Sinus Bradycardia
+E08311,Sinus Bradycardia
+E08314,Sinus Bradycardia
+E08319,Sinus Rhythm
+E08320,Sinus Rhythm
+E08321,Sinus Rhythm
+E08322,Sinus Bradycardia
+E08323,Sinus Rhythm
+E08324,Sinus Bradycardia
+E08325,Sinus Rhythm
+E08329,Sinus Rhythm
+E08332,Sinus Rhythm
+E08333,Sinus Rhythm
+E08336,Sinus Bradycardia
+E08338,Sinus Bradycardia
+E08339,Sinus Bradycardia
+E08340,Sinus Rhythm
+E08344,Sinus Rhythm
+E08345,Sinus Rhythm
+E08347,Sinus Bradycardia
+E08348,Sinus Bradycardia
+E08349,Sinus Rhythm
+E08353,Sinus Bradycardia
+E08354,Sinus Rhythm
+E08355,Sinus Bradycardia
+E08356,1st Degree AV block
+E08357,Sinus Rhythm
+E08358,Sinus Rhythm
+E08359,Sinus Bradycardia
+E08361,Sinus Rhythm
+E08366,Sinus Bradycardia
+E08368,Sinus Tachycardia
+E08369,Sinus Rhythm
+E08373,Sinus Bradycardia
+E08376,Sinus Rhythm
+E08377,"1st Degree AV block, Sinus Bradycardia"
+E08378,Sinus Bradycardia
+E08379,"1st Degree AV block, Sinus Bradycardia"
+E08382,Sinus Bradycardia
+E08384,Sinus Rhythm
+E08385,Sinus Tachycardia
+E08386,Sinus Rhythm
+E08388,Sinus Bradycardia
+E08389,Sinus Rhythm
+E08390,Sinus Bradycardia
+E08391,Sinus Bradycardia
+E08394,Sinus Bradycardia
+E08395,Sinus Bradycardia
+E08396,Sinus Bradycardia
+E08397,Sinus Bradycardia
+E08398,Sinus Rhythm
+E08399,Sinus Rhythm
+E08400,Sinus Rhythm
+E08402,1st Degree AV block
+E08403,Sinus Rhythm
+E08404,Sinus Bradycardia
+E08408,Sinus Rhythm
+E08409,Sinus Bradycardia
+E08410,Sinus Rhythm
+E08411,Sinus Bradycardia
+E08412,Sinus Bradycardia
+E08413,Sinus Bradycardia
+E08414,Sinus Bradycardia
+E08415,Sinus Rhythm
+E08417,Sinus Bradycardia
+E08419,Sinus Rhythm
+E08421,Sinus Rhythm
+E08422,Sinus Bradycardia
+E08425,Sinus Rhythm
+E08426,Sinus Rhythm
+E08427,Sinus Bradycardia
+E08429,Sinus Bradycardia
+E08430,Sinus Rhythm
+E08431,Sinus Bradycardia
+E08432,Sinus Rhythm
+E08435,"1st Degree AV block, Sinus Bradycardia"
+E08438,Sinus Rhythm
+E08440,Sinus Bradycardia
+E08441,Sinus Rhythm
+E08442,Sinus Rhythm
+E08443,Sinus Rhythm
+E08447,Sinus Bradycardia
+E08448,Sinus Bradycardia
+E08449,Sinus Rhythm
+E08450,Sinus Bradycardia
+E08452,Sinus Bradycardia
+E08453,Sinus Rhythm
+E08454,Sinus Bradycardia
+E08455,1st Degree AV block
+E08456,Sinus Bradycardia
+E08457,Sinus Rhythm
+E08458,Sinus Rhythm
+E08459,Sinus Rhythm
+E08460,"1st Degree AV block, Sinus Bradycardia"
+E08462,Sinus Rhythm
+E08464,Sinus Bradycardia
+E08465,Sinus Rhythm
+E08466,1st Degree AV block
+E08467,Sinus Bradycardia
+E08468,Sinus Rhythm
+E08470,"1st Degree AV block, Sinus Bradycardia"
+E08472,Sinus Bradycardia
+E08476,Sinus Bradycardia
+E08477,"1st Degree AV block, Sinus Bradycardia"
+E08478,Sinus Bradycardia
+E08479,Sinus Bradycardia
+E08480,Sinus Rhythm
+E08481,Sinus Bradycardia
+E08483,Sinus Tachycardia
+E08484,Sinus Tachycardia
+E08486,Sinus Bradycardia
+E08487,Sinus Rhythm
+E08489,Sinus Rhythm
+E08490,Sinus Bradycardia
+E08491,Sinus Rhythm
+E08492,Sinus Bradycardia
+E08493,Sinus Bradycardia
+E08494,Sinus Bradycardia
+E08495,Sinus Rhythm
+E08496,Sinus Rhythm
+E08502,"1st Degree AV block, Sinus Bradycardia"
+E08503,Sinus Bradycardia
+E08504,Sinus Rhythm
+E08506,Sinus Bradycardia
+E08511,Sinus Rhythm
+E08515,Sinus Rhythm
+E08516,Sinus Rhythm
+E08517,Sinus Bradycardia
+E08518,Sinus Rhythm
+E08520,Sinus Rhythm
+E08525,Sinus Rhythm
+E08526,Sinus Tachycardia
+E08527,Sinus Rhythm
+E08531,Sinus Rhythm
+E08533,Sinus Bradycardia
+E08534,Sinus Bradycardia
+E08535,Sinus Bradycardia
+E08536,Sinus Rhythm
+E08538,Sinus Rhythm
+E08539,Sinus Rhythm
+E08540,Sinus Bradycardia
+E08542,Sinus Bradycardia
+E08543,Sinus Bradycardia
+E08545,Sinus Bradycardia
+E08546,Sinus Rhythm
+E08547,Sinus Rhythm
+E08548,Sinus Bradycardia
+E08550,Sinus Bradycardia
+E08554,Sinus Rhythm
+E08555,1st Degree AV block
+E08556,Sinus Rhythm
+E08558,Sinus Bradycardia
+E08559,Sinus Rhythm
+E08562,Sinus Bradycardia
+E08564,Sinus Rhythm
+E08566,Sinus Rhythm
+E08567,Sinus Rhythm
+E08568,Sinus Rhythm
+E08577,Sinus Bradycardia
+E08580,Sinus Rhythm
+E08581,Sinus Bradycardia
+E08582,Sinus Bradycardia
+E08583,Sinus Rhythm
+E08584,Sinus Bradycardia
+E08585,Sinus Bradycardia
+E08586,Sinus Rhythm
+E08587,Sinus Rhythm
+E08590,Sinus Rhythm
+E08591,Sinus Bradycardia
+E08594,Sinus Bradycardia
+E08595,Sinus Rhythm
+E08596,Sinus Bradycardia
+E08599,Sinus Bradycardia
+E08601,Sinus Rhythm
+E08602,Sinus Bradycardia
+E08603,Sinus Rhythm
+E08604,Sinus Bradycardia
+E08607,Sinus Rhythm
+E08608,Sinus Bradycardia
+E08609,Sinus Bradycardia
+E08613,Sinus Rhythm
+E08614,"1st Degree AV block, Sinus Bradycardia"
+E08617,Sinus Bradycardia
+E08618,Sinus Bradycardia
+E08619,Sinus Rhythm
+E08620,Sinus Rhythm
+E08621,Sinus Rhythm
+E08622,1st Degree AV block
+E08623,Sinus Bradycardia
+E08624,Sinus Bradycardia
+E08625,Sinus Rhythm
+E08627,Sinus Bradycardia
+E08631,Sinus Bradycardia
+E08632,Sinus Bradycardia
+E08635,"1st Degree AV block, Sinus Bradycardia"
+E08636,Sinus Rhythm
+E08639,Sinus Tachycardia
+E08640,Sinus Tachycardia
+E08641,Sinus Bradycardia
+E08642,1st Degree AV block
+E08644,"1st Degree AV block, Sinus Bradycardia"
+E08645,Myocardial infarction
+E08646,Sinus Bradycardia
+E08649,Sinus Tachycardia
+E08650,Sinus Rhythm
+E08652,Sinus Bradycardia
+E08655,Sinus Bradycardia
+E08657,"1st Degree AV block, Sinus Bradycardia"
+E08658,Sinus Bradycardia
+E08660,Sinus Bradycardia
+E08661,Sinus Bradycardia
+E08662,Sinus Rhythm
+E08663,"1st Degree AV block, Sinus Bradycardia"
+E08667,Sinus Rhythm
+E08668,Sinus Rhythm
+E08669,Sinus Bradycardia
+E08670,Sinus Rhythm
+E08671,Sinus Bradycardia
+E08672,Sinus Rhythm
+E08674,Sinus Rhythm
+E08675,Sinus Rhythm
+E08676,Sinus Rhythm
+E08678,"1st Degree AV block, Sinus Bradycardia"
+E08679,Sinus Bradycardia
+E08680,Sinus Rhythm
+E08681,Sinus Rhythm
+E08684,Sinus Rhythm
+E08685,Sinus Rhythm
+E08686,Sinus Rhythm
+E08687,Sinus Rhythm
+E08690,"1st Degree AV block, Sinus Bradycardia"
+E08691,Sinus Rhythm
+E08692,Sinus Rhythm
+E08693,Sinus Rhythm
+E08694,1st Degree AV block
+E08695,Sinus Rhythm
+E08696,Sinus Rhythm
+E08698,Sinus Bradycardia
+E08700,Sinus Bradycardia
+E08702,Sinus Rhythm
+E08704,Sinus Bradycardia
+E08705,Sinus Rhythm
+E08706,Sinus Rhythm
+E08708,Sinus Bradycardia
+E08709,Sinus Tachycardia
+E08710,Sinus Rhythm
+E08711,Sinus Bradycardia
+E08712,1st Degree AV block
+E08715,Sinus Rhythm
+E08716,Sinus Bradycardia
+E08717,Sinus Rhythm
+E08720,1st Degree AV block
+E08722,Sinus Rhythm
+E08723,Sinus Bradycardia
+E08725,Sinus Bradycardia
+E08726,Sinus Rhythm
+E08727,Sinus Rhythm
+E08728,Sinus Bradycardia
+E08734,Sinus Rhythm
+E08735,Sinus Bradycardia
+E08737,"1st Degree AV block, Sinus Bradycardia"
+E08738,Sinus Rhythm
+E08743,Sinus Bradycardia
+E08744,Sinus Bradycardia
+E08745,Sinus Bradycardia
+E08748,Sinus Rhythm
+E08749,"1st Degree AV block, Sinus Bradycardia"
+E08750,Sinus Bradycardia
+E08754,Sinus Rhythm
+E08755,Sinus Rhythm
+E08756,"1st Degree AV block, Sinus Bradycardia"
+E08757,Sinus Rhythm
+E08759,Sinus Bradycardia
+E08760,Sinus Bradycardia
+E08761,Sinus Rhythm
+E08762,Sinus Tachycardia
+E08763,Sinus Rhythm
+E08764,"1st Degree AV block, Sinus Bradycardia"
+E08767,Sinus Rhythm
+E08768,Sinus Rhythm
+E08772,Sinus Bradycardia
+E08773,Sinus Rhythm
+E08778,Sinus Bradycardia
+E08779,"1st Degree AV block, Sinus Bradycardia"
+E08780,Sinus Rhythm
+E08782,Sinus Rhythm
+E08787,Sinus Bradycardia
+E08788,Sinus Bradycardia
+E08790,"1st Degree AV block, Sinus Bradycardia"
+E08791,Sinus Bradycardia
+E08792,Sinus Bradycardia
+E08793,Sinus Rhythm
+E08794,Sinus Rhythm
+E08797,Sinus Bradycardia
+E08799,Sinus Bradycardia
+E08800,Sinus Bradycardia
+E08803,Sinus Bradycardia
+E08804,Sinus Bradycardia
+E08805,"1st Degree AV block, Sinus Bradycardia"
+E08806,Sinus Bradycardia
+E08807,Sinus Bradycardia
+E08808,Sinus Rhythm
+E08811,Sinus Bradycardia
+E08812,Sinus Rhythm
+E08813,Sinus Rhythm
+E08814,Sinus Rhythm
+E08815,"1st Degree AV block, Sinus Bradycardia"
+E08816,Sinus Bradycardia
+E08817,Sinus Rhythm
+E08818,Sinus Bradycardia
+E08820,Sinus Rhythm
+E08821,Sinus Rhythm
+E08822,Sinus Bradycardia
+E08825,Sinus Bradycardia
+E08826,Sinus Bradycardia
+E08828,Sinus Bradycardia
+E08829,Sinus Rhythm
+E08830,"1st Degree AV block, Sinus Bradycardia"
+E08832,Sinus Bradycardia
+E08833,1st Degree AV block
+E08834,Sinus Bradycardia
+E08835,Sinus Bradycardia
+E08836,Sinus Rhythm
+E08839,Sinus Bradycardia
+E08841,Sinus Rhythm
+E08842,Sinus Bradycardia
+E08844,Sinus Tachycardia
+E08848,Sinus Bradycardia
+E08853,"1st Degree AV block, Sinus Bradycardia"
+E08854,1st Degree AV block
+E08855,"1st Degree AV block, Sinus Bradycardia"
+E08856,Sinus Bradycardia
+E08858,Sinus Bradycardia
+E08862,Sinus Bradycardia
+E08863,Sinus Rhythm
+E08864,Sinus Bradycardia
+E08871,"1st Degree AV block, Sinus Bradycardia"
+E08873,Sinus Bradycardia
+E08874,Sinus Rhythm
+E08875,Sinus Bradycardia
+E08876,Sinus Rhythm
+E08881,Sinus Rhythm
+E08882,Sinus Rhythm
+E08883,Sinus Bradycardia
+E08884,Sinus Rhythm
+E08886,Sinus Bradycardia
+E08887,Sinus Bradycardia
+E08888,Sinus Rhythm
+E08890,Sinus Bradycardia
+E08891,Sinus Rhythm
+E08892,Sinus Rhythm
+E08893,Sinus Rhythm
+E08894,Sinus Rhythm
+E08895,Sinus Rhythm
+E08898,Sinus Rhythm
+E08899,Sinus Rhythm
+E08901,Sinus Bradycardia
+E08903,Sinus Rhythm
+E08905,Sinus Rhythm
+E08907,Sinus Rhythm
+E08910,Sinus Tachycardia
+E08912,Sinus Rhythm
+E08913,Sinus Bradycardia
+E08914,1st Degree AV block
+E08915,Sinus Rhythm
+E08917,Sinus Rhythm
+E08919,1st Degree AV block
+E08920,Sinus Rhythm
+E08922,Sinus Bradycardia
+E08923,Sinus Rhythm
+E08925,Sinus Bradycardia
+E08927,Sinus Bradycardia
+E08928,Sinus Rhythm
+E08930,1st Degree AV block
+E08932,Sinus Tachycardia
+E08933,Sinus Bradycardia
+E08934,Sinus Rhythm
+E08937,1st Degree AV block
+E08939,Sinus Rhythm
+E08940,Sinus Bradycardia
+E08942,Sinus Bradycardia
+E08943,Sinus Bradycardia
+E08944,Sinus Rhythm
+E08947,Sinus Bradycardia
+E08951,Sinus Bradycardia
+E08955,Sinus Bradycardia
+E08958,Sinus Rhythm
+E08961,Sinus Tachycardia
+E08962,"Sinus Bradycardia, ST changes"
+E08963,Sinus Rhythm
+E08964,1st Degree AV block
+E08965,"1st Degree AV block, Sinus Bradycardia"
+E08966,Sinus Rhythm
+E08969,Sinus Bradycardia
+E08970,Sinus Bradycardia
+E08973,Sinus Rhythm
+E08976,Sinus Bradycardia
+E08978,Sinus Bradycardia
+E08979,Sinus Bradycardia
+E08982,Sinus Bradycardia
+E08984,1st Degree AV block
+E08985,Sinus Bradycardia
+E08986,Sinus Rhythm
+E08987,Sinus Rhythm
+E08988,1st Degree AV block
+E08991,1st Degree AV block
+E08992,Sinus Rhythm
+E08993,Sinus Rhythm
+E08994,Sinus Rhythm
+E08995,Sinus Bradycardia
+E08996,Sinus Bradycardia
