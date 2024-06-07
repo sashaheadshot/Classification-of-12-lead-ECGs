@@ -51,7 +51,6 @@ for filename, data in loaded_data.items():
             resampled_signal = resample(signal_data, num_points, axis=1)
             resampled_data[filename] = {'val': resampled_signal}
 
-# Now, resampled_data contains the signals resampled to the desired sampling rate of 500 Hz
 
 for filename, data in resampled_data.items():
     signal = data['val']
